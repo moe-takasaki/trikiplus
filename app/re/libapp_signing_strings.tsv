@@ -1,0 +1,208 @@
+offset	string
+0x002c8c0c	signPayloadInitPlaySessionNotInitialized
+0x002c9624	TestAlgorithmSession2
+0x002cc204	package:capsapps_sdk/bluetooth/service/connection/ble_device_session.dart
+0x002cc9ec	_topSignedMeanByAbs@1411034922
+0x002d4cd4	Failed to sign payload: Device not initialized
+0x002d4f7c	capSessionNotReady
+0x002d5a2c	Blue command init play session execution failed for device 
+0x002d6354	onSignedPayload
+0x002d68ac	Sending signed payload of length: 
+0x002d69a4	InitPlaySessionData.fromBytes
+0x002d6f94	MaxSignPayloadSize
+0x002d7154	Sign payload timeout: 
+0x002dcb74	(AR|P|PAYLOAD|PR|R|SR|RSR|LBL|VR|UALM|MESSAGE|UTOOL|UFRAME|TIMER|TIMER_OVERFLOW|JOINT_MAX_SPEED|RESUME_PROG|DIAG_REC)\[
+0x002df974	boolean bit character integer time delay_length natural positive string bit_vector file_open_kind file_open_status std_logic std_logic_vector unsigned signed boolean_vector integer_vector std_ulogic std_ulogic_vector unresolved_unsigned u_unsigned unresolved_signed u_signed real_vector time_vector
+0x002e1e74	Failed to send signed session: 
+0x002e3f9c	MouseCursorSession
+0x002e413c	ABORT ALTER ANALYZE BEGIN CALL CHECKPOINT|10 CLOSE CLUSTER COMMENT COMMIT COPY CREATE DEALLOCATE DECLARE DELETE DISCARD DO DROP END EXECUTE EXPLAIN FETCH GRANT IMPORT INSERT LISTEN LOAD LOCK MOVE NOTIFY PREPARE REASSIGN|10 REFRESH REINDEX RELEASE RESET REVOKE ROLLBACK SAVEPOINT SECURITY SELECT SET SHOW START TRUNCATE UNLISTEN|10 UPDATE VACUUM|10...
+0x002e5f34	Sign payload failed: 
+0x002e765c	SignatureData(dataLength: 
+0x002e833c	InitPlaySessionResponseData
+0x002eb154	set:_session@724508500
+0x002f051c	dev.flutter.pigeon.flutter_native_api_plugin.NativeGameHostApi.onSignedPayload
+0x002f367c	initPlaySession
+0x002f3b4c	Failed to sign payload: Init play session not initialized
+0x002f6dd4	requestSignSession callback registered
+0x002f6e74	getBleDeviceSession
+0x002f94ac	signPayloadResponsePayloadSize
+0x002f98bc	_createBleDeviceSession@1467427683
+0x002fa684	RawDataService parsing initPlaySessionPacketStart
+0x002fbe44	Successfully parsed InitEvent: sessionId=
+0x002fbf04	initPlaySessionDeviceNoActiveConnection
+0x002fc91c	Failed to sign payload: No active connection2
+0x002fddb4	kind do while private call intrinsic where elsewhere type endtype endmodule endselect endinterface end enddo endif if forall endforall only contains default return stop then block endblock public subroutine|10 function program .and. .or. .not. .le. .eq. .ge. .gt. .lt. goto save else use module select case access blank direct exist file fmt form ...
+0x00302094	GameSessionConfirmation
+0x0030214c	onSignSession
+0x00302a44	Starting sign session operation: 
+0x0030329c	' has been assigned during initialization.
+0x0030395c	 has no signature suffix, defaulting to peer A first2
+0x0030463c	SignPayloadException2
+0x003071ac	int float while private char char8_t char16_t char32_t catch import module export virtual operator sizeof dynamic_cast|10 typedef const_cast|10 const for static_cast|10 union namespace unsigned long volatile static protected bool template mutable if public friend do goto auto void enum else break extern using asm case typeid wchar_tshort reinter...
+0x00307f5c	Session not initialized. InitEvent not received yet.2
+0x0030a0d4	package:capsapps_bridge/src/presentation/game/orchestration/cap_data/algorithm_stream_session.dart
+0x0030e694	kind do while private call intrinsic where elsewhere type endtype endmodule endselect endinterface end enddo endif if forall endforall only contains default return stop then public subroutine|10 function program .and. .or. .not. .le. .eq. .ge. .gt. .lt. goto save else use module select case access blank direct exist file fmt form formatted iosta...
+0x003101e4	package:flutter_native_api_plugin/src/services/session_manager.dart
+0x0031257c	DownloadSession.
+0x003143c4	Payload sent to SDK: 
+0x00317074	GameSessionWidget
+0x00318064	set:_session@705467748
+0x0031a0d4	abstype and andalso as case datatype do else end eqtype exception fn fun functor handle if in include infix infixr let local nonfix of op open orelse raise rec sharing sig signature struct structure then type val with withtype where while
+0x0031f41c	dev.flutter.pigeon.flutter_native_api_plugin.FlutterGameApi.signPayload
+0x0032200c	_onSignPayloadException@486089426
+0x00325f0c	Failed to init play session for device 
+0x00327a2c	package:reactive_ble_platform_interface/src/model/scan_session.dart
+0x00328d34	Payload exceeds maximum allowed length
+0x0032910c	_existingMethodSignature@0150898
+0x0032b684	\bSET\s+((SESSION|LOCAL)\s+)?NAMES\b2
+0x0032e6cc	InitPlaySessionException
+0x0032f0dc	InitPlaySessionException for requestId 
+0x00333314	Session terminated - no further events or updates will be sent
+0x00336cbc	abs accTime acos action actionIDs actionKeys actionKeysImages actionKeysNames actionKeysNamesArray actionName actionParams activateAddons activatedAddons activateKey add3DENConnection add3DENEventHandler add3DENLayer addAction addBackpack addBackpackCargo addBackpackCargoGlobal addBackpackGlobal addCamShake addCuratorAddons addCuratorCameraArea ...
+0x00340274	set:_session@706494074
+0x00346c8c	_session@706494074
+0x00347e5c	signPayloadException2
+0x00348fcc	_SystemMouseCursorSession@62171781
+0x0034c8c4	if else in foreach for forv forva forval forvalu forvalue forvalues by bys bysort xi quietly qui capture about ac ac_7 acprplot acprplot_7 adjust ado adopath adoupdate alpha ameans an ano anov anova anova_estat anova_terms anovadef aorder ap app appe appen append arch arch_dr arch_estat arch_p archlm areg areg_p args arima arima_dr arima_estat a...
+0x003559d4	Sign session operation completed successfully: 
+0x00366e64	Received signPayload call, requestId: 
+0x003672f4	InitPlaySessionException without requestId: 2
+0x00369eb4	ANY AbstractArray AbstractChannel AbstractFloat AbstractMatrix AbstractRNG AbstractSerializer AbstractSet AbstractSparseArray AbstractSparseMatrix AbstractSparseVector AbstractString AbstractUnitRange AbstractVecOrMat AbstractVector Any ArgumentError Array AssertionError Associative Base64DecodePipe Base64EncodePipe Bidiagonal BigFloat BigInt Bi...
+0x0036bec4	SignPayloadResponsePayloadSizeException
+0x0036c41c	UnsignedInt
+0x0036e4d4	initPlaySessionDeviceNotInitialized
+0x0036fb7c	session_not_initialized_
+0x00374acc	signPayload callback registered
+0x00374c14	:[ \t]*(IApplication|IAccessRights|IAccountRepository|IAccountSelectionRestrictions|IAction|IActionList|IAdministrationHistoryDescription|IAnchors|IApplication|IArchiveInfo|IAttachment|IAttachmentList|ICheckListBox|ICheckPointedList|IColumn|IComponent|IComponentDescription|IComponentToken|IComponentTokenFactory|IComponentTokenInfo|ICompRecordInf...
+0x00375dcc	enableSignPayloadCallback
+0x0037665c	Sign session failed: 
+0x0037a714	TestAlgorithmSession.
+0x0037ec54	SDK sign session exception: 2
+0x0037f1dc	Starting sign payload operation: 
+0x00388944	createSession
+0x003896fc	Failed to send signed payload: 
+0x00391264	Sign session timeout: 
+0x003935ac	as abort abs absolute acc acce accep accept access accessed accessible account acos action activate add addtime admin administer advanced advise aes_decrypt aes_encrypt after agent aggregate ali alia alias all allocate allow alter always analyze ancillary and anti any anydata anydataset anyschema anytype apply archive archived archivelog are as ...
+0x00398e5c	sendSignedSession
+0x0039a0ac	Signed payload sent to native: 
+0x0039a204	$finish $stop $exit $fatal $error $warning $info $realtime $time $printtimescale $bitstoreal $bitstoshortreal $itor $signed $cast $bits $stime $timeformat $realtobits $shortrealtobits $rtoi $unsigned $asserton $assertkill $assertpasson $assertfailon $assertnonvacuouson $assertoff $assertcontrol $assertpassoff $assertfailoff $assertvacuousoff $is...
+0x003a0494	SignPayloadTimeout
+0x003a28f4	Session terminated - event 
+0x003a8ba4	registerSignPayload
+0x003a95d4	SignPayloadException without requestId: 
+0x003aa954	_processInitPlaySessionPackets@1477184402
+0x003b32ac	rotationSignatureViolation
+0x003b758c	Blue command sign payload execution failed for device 
+0x003baa0c	Session terminated - game update 
+0x003be024	requestSignSession
+0x003be4dc	doesExceedMaxSignPayloadLength
+0x003c62bc	SignPayloadException for requestId 
+0x003c7994	HudPossessionIndicator
+0x003c97fc	InitPlaySessionResponsePayloadSizeException
+0x003ca0bc	requestSignSession callback enabled
+0x003cc9cc	Sign session SDK exception: 2
+0x003cec24	$_setSignedInt32
+0x003d6c7c	accept_on alias always always_comb always_ff always_latch and assert assign assume automatic before begin bind bins binsof bit break buf|0 bufif0 bufif1 byte case casex casez cell chandle checker class clocking cmos config const constraint context continue cover covergroup coverpoint cross deassign default defparam design disable dist do edge el...
+0x003d767c	\b(ARRAY_AGG|AVG|BIT_AND|BIT_OR|BOOL_AND|BOOL_OR|COUNT|EVERY|JSON_AGG|JSONB_AGG|JSON_OBJECT_AGG|JSONB_OBJECT_AGG|MAX|MIN|MODE|STRING_AGG|SUM|XMLAGG|CORR|COVAR_POP|COVAR_SAMP|REGR_AVGX|REGR_AVGY|REGR_COUNT|REGR_INTERCEPT|REGR_R2|REGR_SLOPE|REGR_SXX|REGR_SXY|REGR_SYY|STDDEV|STDDEV_POP|STDDEV_SAMP|VARIANCE|VAR_POP|VAR_SAMP|PERCENTILE_CONT|PERCENTIL...
+0x003e077c	requestSignSession callback disabled2
+0x003e110c	package:caps_asset_management/src/presentation/download/orchestration/session/download_queue.dart
+0x003e16ec	$_COOKIE $_FILES $_GET $_GET_BINARY $_GET_RAW $_POST $_POST_BINARY $_POST_RAW $_SESSION $_SERVER codepoint codepoints segment segments codeunit codeunits sentence sentences trueWord trueWords paragraph after byte bytes english the until http forever descending using line real8 with seventh for stdout finally element word words fourth before blac...
+0x003e46e4	int float while private char char8_t char16_t char32_t catch import module export virtual operator sizeof dynamic_cast|10 typedef const_cast|10 const for static_cast|10 union namespace unsigned long volatile static protected bool template mutable if public friend do goto auto void enum else break extern using asm case typeid wchar_tshort reinter...
+0x003e57d4	InitPlaySessionBluetoothCommandExecution
+0x003e6b1c	AlgorithmStreamSession.
+0x003e73c4	alias audit before loglevel noop require subscribe tag owner ensure group mode name|0 changes context force incl lens load_path onlyif provider returns root show_diff type_check en_address ip_address realname command environment hour monute month monthday special target weekday creates cwd ogoutput refresh refreshonly tries try_sleep umask backu...
+0x003e8aec	executeSignPayload
+0x003edf9c	initPlaySessionResponsePayloadSize
+0x003ee5a4	Invalid Signature packet length: 
+0x003ee76c	registerRequestSignSession
+0x003eec34	InitPlaySessionData
+0x003f0264	dev.flutter.pigeon.flutter_native_api_plugin.NativeGameHostApi.onSignSession2
+0x003f067c	package:caps_asset_management/src/presentation/download/orchestration/session/download_tracker/download_tracker.dart2
+0x003f1d3c	SignPayloadException occurred: 
+0x003f4154	payloadSizeExceeded
+0x003f4814	SignatureData.fromBytes
+0x003f50dc	signPayloadTimeoutException
+0x003f6224	_throwLocalAssignedDuringInitialization@10040228
+0x003f641c	DownloadSession
+0x003f7154	_handleSignSession@4860894262
+0x003f955c	package:caps_test_games/src/test_algorithm_session.dart
+0x003fab1c	Sign payload failed to acquire lock: 
+0x003ff9cc	get:sessionId
+0x00402084	AASTriangle AbelianGroup Abort AbortKernels AbortProtect AbortScheduledTask Above Abs AbsArg AbsArgPlot Absolute AbsoluteCorrelation AbsoluteCorrelationFunction AbsoluteCurrentValue AbsoluteDashing AbsoluteFileName AbsoluteOptions AbsolutePointSize AbsoluteThickness AbsoluteTime AbsoluteTiming AcceptanceThreshold AccountingForm Accumulate Accura...
+0x00419aa4	Failed to sign payload for device 
+0x0041a9e4	Sign payload completed: 
+0x0041cd74	abi decode encode encodePacked encodeWithSelector encodeWithSignature
+0x0041e41c	Sign session failed to acquire lock: 
+0x004202c4	ScanSession
+0x004226b4	dev.flutter.pigeon.flutter_native_api_plugin.FlutterGameApi.requestSignSession
+0x00422abc	package:capsapps_bridge/src/presentation/game/game_session_widget.dart
+0x00422f14	disableRequestSignSessionCallback
+0x004246e4	_toRadixStringUnsigned@1546302436
+0x004256fc	Handling sign session request: 
+0x0042663c	SignPayloadBluetoothCommandExecution2
+0x004274c4	SignPayloadDeviceNoActiveConnectionException2
+0x00427604	disableSignPayloadCallback
+0x00427cdc	signPayload callback enabled2
+0x00433d14	package:caps_asset_management/src/presentation/download/orchestration/session/download_session.dart
+0x0043404c	_session@705467748
+0x004347fc	package:caps_asset_management/src/presentation/download/orchestration/session/optional_status.dart
+0x004351ec	disableRequestSignSession
+0x00438174	_handleSignPayload@4860894262
+0x004383d4	AlgorithmStreamSession
+0x0043c0cc	package:caps_endless_match/src/ui_overlay/hud/hud_possession_indicator.dart
+0x0043e814	enableSignPayload
+0x004412ec	InitPlaySessionDeviceNoActiveConnectionException
+0x0044270c	registerSignPayloadCallback
+0x00443e74	payloadToSign
+0x004626dc	_handleSignPayloadException@1374210546
+0x0046a49c	sendSignedPayload
+0x0046b594	signSession
+0x0046c18c	SignedPayload
+0x0046c564	executeRequestSignSession
+0x0046c714	package:caps_asset_management/src/presentation/download/orchestration/session/download_tracker/bucket_progress.dart
+0x00473d0c	SignatureData
+0x004744ac	 abasep abs absint absolute_real_time acos acosh acot acoth acsc acsch activate addcol add_edge add_edges addmatrices addrow add_vertex add_vertices adjacency_matrix adjoin adjoint af agd airy airy_ai airy_bi airy_dai airy_dbi algsys alg_type alias allroots alphacharp alphanumericp amortization %and annuity_fv annuity_pv antid antidiff AntiDiffe...
+0x004811e4	_cancelActiveSession@1388383264
+0x004817ec	toUnsigned
+0x00484ab4	BleDeviceSession
+0x00484d44	_processSignaturePackets@1477184402
+0x00486a34	N|0 P|0 X|0 a|0 ab abc abo al am an|0 ar arga argd arge argdo argg argl argu as au aug aun b|0 bN ba bad bd be bel bf bl bm bn bo bp br brea breaka breakd breakl bro bufdo buffers bun bw c|0 cN cNf ca cabc caddb cad caddf cal cat cb cc ccl cd ce cex cf cfir cgetb cgete cg changes chd che checkt cl cla clo cm cmapc cme cn cnew cnf cno cnorea cnor...
+0x00489dfc	SignPayloadInitPlaySessionNotInitializedException
+0x0048c9ec	int float while char export sizeof typedef const struct for union unsigned long volatile static bool mutable if do return goto void enum else break extern asm case short default double register explicit signed typename this switch continue wchar_t inline readonly assign readwrite self @synchronized id typeof nonatomic super unichar IBOutlet IBAc...
+0x0048db54	InitPlaySessionException occurred: 
+0x0048fb24	item document-node node attribute document element comment namespace namespace-node processing-instruction text construction xs:anyAtomicType xs:untypedAtomic xs:duration xs:time xs:decimal xs:float xs:double xs:gYearMonth xs:gYear xs:gMonthDay xs:gMonth xs:gDay xs:boolean xs:base64Binary xs:hexBinary xs:anyURI xs:QName xs:NOTATION xs:dateTime x...
+0x00490fd4	enableRequestSignSession
+0x00493f9c	RawDataService parsing signaturePacketStart
+0x004940ec	signed
+0x00496e54	Init play session SDK exception: 
+0x00497e14	Init play session sent to SDK: 
+0x0049aab4	signPayload
+0x0049f70c	out of range for signed 32-bit int
+0x004a4b5c	disableSignPayload
+0x004a60e4	Handling sign payload request: 
+0x004a6e84	out of range for unsigned 32-bit int2
+0x004a7764	signPayloadDeviceNoActiveConnection
+0x004aaa04	registerRequestSignSessionCallback
+0x004ab14c	Received requestSignSession call, requestId: 
+0x004ab404	initPlaySessionBluetoothCommandExecution
+0x004aea6c	signPayload callback disabled
+0x004aea9c	enableRequestSignSessionCallback
+0x004af3d4	SDK sign payload exception: 2
+0x004b0d3c	NoSuchMethodError_existingMethodSignature
+0x004b1f34	SessionManager
+0x004b834c	SessionManager.
+0x004ba1a4	InitPlaySessionDeviceNotInitializedException2
+0x004ba62c	_handleInitPlaySessionException@1374210546
+0x004c3714	Sending signed session
+0x004c459c	CURRENT_TIME CURRENT_TIMESTAMP CURRENT_USER CURRENT_CATALOG|10 CURRENT_DATE LOCALTIME LOCALTIMESTAMP CURRENT_ROLE|10 CURRENT_SCHEMA|10 SESSION_USER PUBLIC FOUND NEW OLD TG_NAME|10 TG_WHEN|10 TG_LEVEL|10 TG_OP|10 TG_RELID|10 TG_RELNAME|10 TG_TABLE_NAME|10 TG_TABLE_SCHEMA|10 TG_NARGS|10 TG_ARGV|10 TG_EVENT|10 TG_TAG|10 ROW_COUNT RESULT_OID|10 PG_C...
+0x004c60ac	_closePossessionSpan@929104794
+0x004c6114	SignPayloadDeviceNotInitializedException
+0x004ca7f4	game_session2
+0x004d2f7c	signPayloadBluetoothCommandExecution2
+0x004d33cc	_NoopMouseCursorSession@62171781
+0x004d441c	signPayloadDeviceNotInitialized
+0x004d4aec	energySignatureViolation
+0x004d4f9c	Invalid Init Play Session packet length: 
+0x004d51fc	Signed session sent to native: 
+0x004d92c4	UnsignedLong2
+0x004d9e84	_session@724508500

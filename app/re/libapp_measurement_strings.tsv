@@ -1,0 +1,249 @@
+offset	string
+0x002c835c	Live data streaming error, forcing reconnection: 
+0x002c89dc	package:capsapps_sdk/algorithms/toss_algorithm/gyroscope.dart
+0x002c9624	TestAlgorithmSession2
+0x002ca48c	MeasurementModel
+0x002cbda4	AlgorithmResult
+0x002ceae4	_getOrCreateAlgorithmFactory@1424463583
+0x002cf024	SensorsEnableFlag
+0x002cfc84	stopLiveMeasurementRequestData
+0x002d0a3c	MobileSensorsViewState
+0x002d12b4	MobileSensorsError
+0x002d1edc	positioningLevelKalmanModel
+0x002d49dc	package:capsapps_sdk/algorithms/tilt/common/pitch_roll_yaw_entity.dart
+0x002d643c	PositioningVerticalLevelAlgorithm
+0x002d7b3c	MobileSensorsListener
+0x002d7da4	highAccelerationCv
+0x002d7fec	activateMonitoringLiveData
+0x002d915c	Algorithm.
+0x002d91a4	AlgorithmTimeoutException
+0x002dbbf4	ReadyMobileSensorsState
+0x002dbcb4	accelerometer
+0x002dccec	Measurement|getXYAngularSpeed
+0x002dd5bc	package:capsapps_sdk/algorithms/tilt/kalman_models/position_horizontal_level_model.dart
+0x002de02c	Listening to processed live data for device 2
+0x002df19c	package:capsapps_sdk/core/shared/configuration/live_measurement_config.dart
+0x002df484	decodeBothSensorsMeasurements
+0x002dfb5c	startLiveData
+0x002e0504	package:capsapps_sdk/algorithms/tilt/kalman_filter/measurement_model.dart
+0x002e094c	_TossGyroscope|_calculateGyroscopeSaturationPercentage@1411034922
+0x002e2d5c	package:capsapps_sdk/algorithms/services/algorithm_service.dart
+0x002e62fc	sensors
+0x002eb0d4	xAxisKalmanFilter
+0x002eb17c	isActivatedMonitoringLiveData
+0x002eb81c	PositioningLevelKalmanModel
+0x002ec044	MobileSensorsCubit
+0x002ed664	_GyroRotations@1411034922
+0x002edffc	package:capsapps_sdk/algorithms/toss_algorithm/toss_v3_3/rotation_predictor_v3_3.dart
+0x002f1f24	package:app/features/device_connection/permissions/mobile_sensors/mobile_sensors_listener.dart
+0x002f75cc	RequestAlgorithmResetEvent
+0x002f8ce4	MeasurementKalmanModel
+0x002fd70c	package:capsapps_bridge/src/app_bridges/mobile_sensors/mobile_sensors_state.dart
+0x002fe4fc	package:capsapps_sdk/algorithms/tilt/kalman_filter/process_model.dart
+0x002fecfc	RotationSpeedOnlyNoLowPassAlgorithm
+0x00300f9c	Failed to stop data streaming for device 
+0x00302744	clearAlgorithmFlow
+0x00303f14	scaleToAccelerationSI
+0x00303fb4	_subscribeToLiveDataCharacteristicStream@1466197479
+0x00305474	LiveMeasurementConfig
+0x00306d7c	PositioningLevelKalmanModel.2
+0x00308af4	Error subscribing to live data characteristic stream: 
+0x00308b9c	Error starting live data for device 2
+0x0030a0d4	package:capsapps_bridge/src/presentation/game/orchestration/cap_data/algorithm_stream_session.dart
+0x0030b5dc	_mapSensorsState@495129043
+0x0030c8b4	package:capsapps_sdk/algorithms/algorithm_enum.dart
+0x0030ca44	Algorithm processing failed
+0x00312864	resumeStreaming
+0x0031303c	MobileSensorsError.
+0x00315334	MobileSensorsState
+0x00315d7c	Error stopping live data for device 2
+0x00317844	package:capsapps_sdk/algorithms/common/utils/rx.dart2
+0x003178b4	BaseAlgorithm.
+0x0031afbc	BaseAlgorithm
+0x0031b064	_clearLiveDataSubscription@1466197479
+0x0031b26c	mobileSensorsError
+0x0031c29c	package:capsapps_sdk/bluetooth/infrastructure/utils/measurement_decoder.dart2
+0x0031dd74	_handleAlgorithmResult@1379475511
+0x003203fc	package:capsapps_sdk/algorithms/toss_algorithm/acceleration.dart
+0x003226a4	Abs ACos AdlibRegister AdlibUnRegister Asc AscW ASin Assign ATan AutoItSetOption AutoItWinGetTitle AutoItWinSetTitle Beep Binary BinaryLen BinaryMid BinaryToString BitAND BitNOT BitOR BitRotate BitShift BitXOR BlockInput Break Call CDTray Ceiling Chr ChrW ClipGet ClipPut ConsoleRead ConsoleWrite ConsoleWriteError ControlClick ControlCommand Cont...
+0x00323fd4	package:capsapps_sdk/algorithms/shake/shake_motion.dart
+0x00324ddc	package:capsapps_sdk/algorithms/tilt/kalman_filter/kalman_filter.dart
+0x00325df4	package:capsapps_sdk/algorithms/toss_algorithm/cap_side.dart2
+0x003278dc	SensorsFrequencyOdr
+0x003294bc	mapFromAlgorithmResult
+0x0032b2dc	_processMeasurementPackets@1477184402
+0x00330f84	MobileSensorsErrorState
+0x003311fc	MeasurementExt|filterHighPass
+0x0033367c	getAlgorithmTimeoutMillis
+0x00334204	wrong dimens matrix measNoise and measurementMatrix kalman
+0x00336cbc	abs accTime acos action actionIDs actionKeys actionKeysImages actionKeysNames actionKeysNamesArray actionName actionParams activateAddons activatedAddons activateKey add3DENConnection add3DENEventHandler add3DENLayer addAction addBackpack addBackpackCargo addBackpackCargoGlobal addBackpackGlobal addCamShake addCuratorAddons addCuratorCameraArea ...
+0x0033e66c	getSensorsState
+0x0033ea64	\b(?:ll(?:AgentInExperience|(?:Create|DataSize|Delete|KeyCount|Keys|Read|Update)KeyValue|GetExperience(?:Details|ErrorMessage)|ReturnObjectsBy(?:ID|Owner)|Json(?:2List|[GS]etValue|ValueType)|Sin|Cos|Tan|Atan2|Sqrt|Pow|Abs|Fabs|Frand|Floor|Ceil|Round|Vec(?:Mag|Norm|Dist)|Rot(?:Between|2(?:Euler|Fwd|Left|Up))|(?:Euler|Axes)2Rot|Whisper|(?:Region|O...
+0x00344574	package:capsapps_sdk/algorithms/steer_rotation/rotation_base.dart
+0x0034610c	package:capsapps_sdk/core/types/measurement/measurement_bundle.dart
+0x003466b4	package:capsapps_sdk/algorithms/toss_algorithm/toss_v3_3/xgboost_model_v3_3.dart
+0x00346974	package:capsapps_sdk/algorithms/common/exceptions/algorithm_exceptions.dart
+0x00347e2c	PositioningVerticalLevelAlgorithm.
+0x00349af4	yAxisKalmanFilter
+0x00350c64	package:app/features/device_connection/permissions/mobile_sensors/mobile_sensors_cubit.dart
+0x0035355c	_TossAnalysis|_calculateRotationsFromGyro@14110349222
+0x00355624	KalmanFilter.
+0x00355f84	algorithmProcessingException2
+0x003563e4	AlgorithmFactory
+0x00356644	scaleSensorScoreToDisplay
+0x0036b83c	TossAlgorithm
+0x00370614	Subscribing to live data characteristic stream
+0x00376d3c	package:app/features/device_connection/permissions/mobile_sensors/mobile_sensors_bottom_sheet_flow.dart
+0x0037a714	TestAlgorithmSession.
+0x0037f064	AlgorithmService.
+0x00384cac	ProcessKalmanModel
+0x00385a4c	init:_measurementBuffer@1411034922
+0x00386374	MobileSensorsBridgeImpl.
+0x003869f4	\b(?:XP_ERROR_(?:EXPERIENCES_DISABLED|EXPERIENCE_(?:DISABLED|SUSPENDED)|INVALID_(?:EXPERIENCE|PARAMETERS)|KEY_NOT_FOUND|MATURITY_EXCEEDED|NONE|NOT_(?:FOUND|PERMITTED(?:_LAND)?)|NO_EXPERIENCE|QUOTA_EXCEEDED|RETRY_UPDATE|STORAGE_EXCEPTION|STORE_DISABLED|THROTTLED|UNKNOWN_ERROR)|JSON_APPEND|STATUS_(?:PHYSICS|ROTATE_[XYZ]|PHANTOM|SANDBOX|BLOCK_GRAB(...
+0x00389ac4	getMobileSensorsBridge
+0x0038d8ec	SensorsEnableFlag.
+0x0038fe3c	package:capsapps_sdk/algorithms/tilt/positioning_vertical_level_algorithm.dart
+0x00396d64	_collectMainMeasurementBuffer@1411034922
+0x0039b21c	package:capsapps_sdk/algorithms/tilt/kalman_filter/measurement_kalman_model.dart
+0x0039ba2c	 (no recent measurements)
+0x0039cf34	Positioning Vertical Level Algorithm2
+0x0039d344	_measurementMatrixT@1434081265
+0x0039ef74	LoadingMobileSensorsState
+0x0039efb4	updateSensorData
+0x0039f76c	subscribedToMonitorLiveData
+0x003a26e4	XGBoostModelV33
+0x003a30ac	Algorithm live data processing timeout
+0x003ac354	package:capsapps_sdk/algorithms/common/entities/algorithm_result.dart
+0x003ad144	_MobileSensorsBottomSheetFlowState@6872196872
+0x003ad83c	SubscribeToLiveDataState.
+0x003aeff4	Clearing algorithm flow
+0x003b519c	setActiveAlgorithm
+0x003b61d4	package:capsapps_sdk/algorithms/boxer/anticheat_validator_v2_9.dart
+0x003bf07c	createAlgorithm
+0x003c1b04	package:capsapps_sdk/algorithms/common/utils/calculations.dart
+0x003c2a4c	readyToSubscribeMonitorLiveData
+0x003c835c	package:capsapps_sdk/algorithms/tilt/kalman_filter/decomposition_solver.dart2
+0x003c920c	sensorsAlways
+0x003c9664	package:capsapps_sdk/algorithms/tilt/kalman_filter/process_kalman_model.dart2
+0x003ca924	package:capsapps_sdk/algorithms/algorithm_factory.dart
+0x003ca9cc	MobileSensorsState.
+0x003ce4d4	package:capsapps_sdk/algorithms/base_algorithm/base_algorithm.dart
+0x003cfc14	package:capsapps_sdk/algorithms/base_algorithm/algorithms_imports.dart
+0x003cffe4	accelerometerAndGyroscope
+0x003d0bcc	package:capsapps_sdk/algorithms/shake/shake_force.dart
+0x003d1a34	package:capsapps_sdk/algorithms/toss_algorithm/toss_score_rounding.dart
+0x003d3b24	package:capsapps_bridge/src/app_bridges/mobile_sensors/mobile_sensors_bridge.dart
+0x003d4e9c	_decodeAcceleration@1464211018
+0x003dbb04	Failed to start data streaming
+0x003dbdd4	MobileSensorsCubit.
+0x003de46c	package:capsapps_sdk/algorithms/toss_algorithm/toss_end_detection.dart
+0x003df19c	package:capsapps_sdk/algorithms/steer_rotation/rotation_result.dart
+0x003e3a54	Subscribed to LiveData, and let search and connect again
+0x003e5eb4	Accel
+0x003e615c	SubscribeToLiveDataState
+0x003e6b1c	AlgorithmStreamSession.
+0x003e6b94	_TossAcceleration|_calculateAccSaturationPercentage@1411034922
+0x003e8b74	startDataStreamingException
+0x003e9f8c	Unsupported algorithm result type: 
+0x003ef05c	_measurementBuffer@1411034922
+0x003ef94c	activateMonitoringLiveDataException
+0x003f0be4	Getting processed live data stream for device: 
+0x003f6384	_TossEndDetection|_analyzeMeasurementToDetectTossEnd@1411034922
+0x003f6554	pauseStreaming
+0x003f955c	package:caps_test_games/src/test_algorithm_session.dart
+0x003fcaf4	startMonitorLiveData2
+0x003fd36c	_mapMobileSensorsState@669019992
+0x003ff51c	package:capsapps_sdk/algorithms/steer_rotation/rotation_speed_with_button_algorithm.dart
+0x00402084	AASTriangle AbelianGroup Abort AbortKernels AbortProtect AbortScheduledTask Above Abs AbsArg AbsArgPlot Absolute AbsoluteCorrelation AbsoluteCorrelationFunction AbsoluteCurrentValue AbsoluteDashing AbsoluteFileName AbsoluteOptions AbsolutePointSize AbsoluteThickness AbsoluteTime AbsoluteTiming AcceptanceThreshold AccountingForm Accumulate Accura...
+0x0041a75c	package:capsapps_sdk/algorithms/common/utils/circular_buffer.dart
+0x0041b154	stopDataStreamingException
+0x0041bd24	startDataStreaming
+0x0041c1cc	SensorsFrequencyOdr.2
+0x0041d224	Measurement|getXYZAngularSpeed
+0x0041e554	get:algorithmDataStream
+0x0041eb94	package:capsapps_sdk/algorithms/toss_algorithm/toss_score_analysis.dart
+0x004204c4	Stopping listening to processed live data for device 
+0x0042153c	package:capsapps_sdk/algorithms/steer_rotation/rotation_speed_only_no_low_pass_algorithm.dart
+0x004216bc	package:capsapps_sdk/algorithms/toss_algorithm/plateau.dart
+0x00424d94	MobileSensorsBridge
+0x004252a4	get:algorithmService2
+0x00428894	_ShakeResult&AlgorithmResult&EquatableMixin@1396184185
+0x0042903c	lowAccelerationMean
+0x0042b214	MobileSensorsBridgeImpl
+0x0042ba34	package:capsapps_sdk/algorithms/toss_algorithm/toss_result.dart
+0x0042bb44	get:requestAlgorithmResetEvent
+0x0043111c	Failed to start data streaming for device 
+0x00432c94	activateDeviceMonitoringLiveData
+0x00432f4c	\b(?:state_(?:entry|exit)|touch(?:_(?:start|end))?|(?:land_)?collision(?:_(?:start|end))?|timer|listen|(?:no_)?sensor|control|(?:not_)?at_(?:rot_)?target|money|email|experience_permissions(?:_denied)?|run_time_permissions|changed|attach|dataserver|moving_(?:start|end)|link_message|(?:on|object)_rez|remote_data|http_re(?:sponse|quest)|path_update...
+0x0043491c	Activate monitoring live data for device 
+0x00435284	Error activating monitoring live data, unknown error is triggered 
+0x00435fcc	package:capsapps_sdk/algorithms/common/entities/game_flow_with_scores.dart
+0x00438384	resetAlgorithmState
+0x004383d4	AlgorithmStreamSession
+0x0043dfe4	waitingToSubscribeMonitorLiveData
+0x00440b7c	PositioningPitchRollAlgorithm.
+0x00442684	stopLiveData2
+0x00442cf4	clearDeviceMonitoringLiveData
+0x004432a4	_activateLiveDataMonitoring@1466197479
+0x00467a8c	MeasurementDecoder
+0x00468bdc	package:capsapps_sdk/algorithms/boxer/score_calculation_v4_1.dart
+0x00468f44	Cancel all devices algorithm data
+0x00469aec	Connection Service: Activating monitoring live data for device: 
+0x00469b54	ActivateMonitoringLiveDataException
+0x0046b214	startLiveMeasurementRequestData
+0x0046b754	MeasurementBundle
+0x0046ba5c	package:capsapps_sdk/algorithms/toss_algorithm/toss_validation_metrics.dart
+0x0046d674	package:capsapps_sdk/algorithms/tilt/kalman_models/position_vertical_level_model.dart
+0x0046e574	_getAlgorithmObject@1410296203
+0x004744ac	 abasep abs absint absolute_real_time acos acosh acot acoth acsc acsch activate addcol add_edge add_edges addmatrices addrow add_vertex add_vertices adjacency_matrix adjoin adjoint af agd airy airy_ai airy_bi airy_dai airy_dbi algsys alg_type alias allroots alphacharp alphanumericp amortization %and annuity_fv annuity_pv antid antidiff AntiDiffe...
+0x0047b6ac	Device connected - skipping subscribe to live data characteristic stream - state: 
+0x0047fb6c	StartDataStreamingException
+0x004810ac	StreamExtensionTransformerForAlgorithms|applyTransformer
+0x00482d14	Prescan error, sending mobileSensorsError state for device 
+0x00483564	package:capsapps_sdk/algorithms/shake/shake_result.dart
+0x004845b4	debugProvideTossAlgorithmResult
+0x00485024	get:sensorsStateStream
+0x004856ec	KalmanFilter2
+0x0048574c	package:capsapps_sdk/algorithms/common/entities/cap_side.dart
+0x00485e54	package:capsapps_sdk/algorithms/toss_algorithm/toss_algorithm.dart
+0x0048dd04	std string wstring cin cout cerr clog stdin stdout stderr stringstream istringstream ostringstream auto_ptr deque list queue stack vector map set bitset multiset multimap unordered_set unordered_map unordered_multiset unordered_multimap array shared_ptr abort terminate abs acos asin atan2 atan calloc ceil cosh cos exit exp fabs floor fmod fprint...
+0x0048fad4	_processMeasurementTossRunning@1411034922
+0x00490bfc	Dimension mismatch predict vector and control matrix kalman
+0x00490eb4	TossAlgorithm.
+0x0049483c	MobileSensorsBottomSheetFlow2
+0x0049866c	package:capsapps_sdk/algorithms/tilt/tilt_result.dart
+0x0049a11c	setReadyForNewGameAlgorithm
+0x0049a80c	_handleAcceleration@1288350434
+0x0049d35c	Connection State Handler: Handling mobile sensors error state for device: 
+0x0049d3b4	AlgorithmService
+0x004a0294	hashAlgorithm
+0x004a32f4	_handleMobileSensorsErrorState@1509179881
+0x004a369c	getProcessedLiveDataStream
+0x004a4ba4	wrong dimens matrix measurementMatrix and transitionMatrix kalman
+0x004a710c	AlgorithmProcessingException2
+0x004a8b34	clearReadingsRestartAlgorithm
+0x004abe3c	RotationSpeedWithButtonAlgorithm
+0x004adbfc	get:_algorithmService@1305240075
+0x004afa44	algorithmTimeoutException
+0x004afacc	package:capsapps_sdk/algorithms/tilt/kalman_filter/cholesky_decomposition.dart
+0x004b2204	zAxisKalmanFilter
+0x004b304c	Algorithm processing error for device 
+0x004b48bc	_measurementMatrix@1434081265
+0x004b6da4	No connected devices to provide debug algorithm result
+0x004b83e4	package:capsapps_sdk/algorithms/tilt/positioning_pitch_roll_algorithm.dart
+0x004b9e3c	wrong dimension z and measurementMatrix
+0x004ba994	Algorithm
+0x004bac44	is_real is_string is_array is_undefined is_int32 is_int64 is_ptr is_vec3 is_vec4 is_matrix is_bool typeof variable_global_exists variable_global_get variable_global_set variable_instance_exists variable_instance_get variable_instance_set variable_instance_get_names array_length_1d array_length_2d array_height_2d array_equals array_create array_c...
+0x004c7e9c	_TossGyroscope|_calculateXYZRotationBalance@1411034922
+0x004c8824	OneAxisPositioningLevelKalmanModel.
+0x004c8a04	filterAccelerationWithLowPass
+0x004d3144	package:capsapps_bridge/src/app_bridges/mobile_sensors/mobile_sensors_bridge_impl.dart
+0x004d5594	PositioningPitchRollAlgorithm
+0x004d5a54	OneAxisPositioningLevelKalmanModel
+0x004d840c	package:capsapps_sdk/algorithms/toss_algorithm/toss_start_detection.dart
+0x004d9394	stopDataStreaming
+0x004daf04	liveDataTransformer
+0x004db114	AlgorithmException
+0x004dca84	StopDataStreamingException
+0x004dd76c	Failed to stop data streaming
+0x004de27c	_createMeasurementConfig@1305240075

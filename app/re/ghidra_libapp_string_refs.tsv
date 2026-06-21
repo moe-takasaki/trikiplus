@@ -1,0 +1,1966 @@
+offset	ref_count	refs	string
+0x00002dbc	0		_List.filled2
+0x00003754	0		UnhandledException
+0x00004e2c	0		List.filled
+0x00004ff4	0		_GrowableList.filled2
+0x002c7884	0		package:caps_games_common/src/controllers/audio/game_sound_controller.dart
+0x002c82c4	0		onFirmwareUpdateCompleted
+0x002c835c	0		Live data streaming error, forcing reconnection: 
+0x002c874c	0		package:caps_shake/src/systems/overlays/ui/level_hud.dart
+0x002c89dc	0		package:capsapps_sdk/algorithms/toss_algorithm/gyroscope.dart
+0x002c8c0c	1	0023462c	signPayloadInitPlaySessionNotInitialized
+0x002c93c4	0		package:caps_snake_vs_block/src/snake_vs_block/systems/collisions/collision_handler.dart
+0x002c955c	0		package:reactive_ble_mobile/src/converter/protobuf_converter.dart
+0x002c973c	0		Scaffold.of() called with a context that does not contain a Scaffold.
+0x002c9bb4	0		Asking for audio data is not enabled (on the C++ side). Please use `setVisualizationEnabled(true);` to enable.
+0x002c9db4	0		package:capsapps_sdk/bluetooth/service/discovery/filters/rssi_filter.dart
+0x002ca48c	0		MeasurementModel
+0x002ca584	0		assets/images/triki-background.png
+0x002ca864	0		add may only be called once.2
+0x002caaa4	0		searchingTRIKI
+0x002cae0c	0		package:caps_shake/src/components/bitmap_components/spawn_positions_mixin.dart
+0x002cb08c	0		package:caps_snake_vs_block/src/snake_vs_block/components/debug/debug_line.dart
+0x002cb2dc	0		_InitFailedBottomSheet@315128691
+0x002cb944	0		package:caps_zp_ui/src/exit_app/exit_app.dart
+0x002cbb0c	0		Firmware update state changed: 
+0x002cbdc4	0		LED not lighting? Reconnect Triki or choose another one 
+0x002cc094	0		_BluetoothDisabledBottomSheet@687219687
+0x002cc0cc	0		initialize() failed with error: 
+0x002cc1dc	0		_addCommandsTag@1992314182
+0x002cc204	0		package:capsapps_sdk/bluetooth/service/connection/ble_device_session.dart
+0x002cc534	0		Reconnection Strategy: Reconnection disabled for 
+0x002cc8dc	0		DFU: startDfu failed2
+0x002cc8fc	0		CharacteristicValue
+0x002cc9ec	0		_topSignedMeanByAbs@1411034922
+0x002cd6d4	0		&circleddash;
+0x002cd804	0		package:capsapps_bridge/src/presentation/onboarding/video/game_ob_player_error_view.dart
+0x002cdcbc	0		package:caps_snake_vs_block/src/snake_vs_block/systems/spawn/strategies/dense_blocks_strategy.dart
+0x002cdd94	0		Location is disabled2
+0x002cdf54	0		package:caps_boxer/src/domain/player_model.dart
+0x002ce394	0		pauseGame callback disabled
+0x002ce754	0		package:caps_zp_ui/src/bottom_sheet/bottom_sheet_messages.dart
+0x002ce94c	0		package:caps_shake/src/systems/camera/camera_centering_system.dart
+0x002ced3c	0		DFU: Device connected: 
+0x002cf024	0		SensorsEnableFlag
+0x002cf284	0		let in if then else case of where module import exposing type alias as infix infixl infixr port effect command subscription
+0x002cf57c	0		_handleEndHandleDragStart@202111801
+0x002cf66c	0		Pogled nagore
+0x002cf9dc	0		package:caps_games_common/src/ui/round_summary/widgets/round_summary_header.dart
+0x002cfc84	0		stopLiveMeasurementRequestData
+0x002cfdd4	0		package:caps_shake/src/systems/overlays/ui/animated_multiline_text.dart
+0x002cff34	0		package:caps_snake_vs_block/src/snake_vs_block/components/orb/slow_down.orb.dart
+0x002d0294	0		package:caps_shake/src/caps_shake_game.dart
+0x002d097c	0		Checksum failed after 
+0x002d0a04	0		deviceConnection_BluetoothError_Message
+0x002d0a3c	0		MobileSensorsViewState
+0x002d0abc	0		Failed to decode 
+0x002d0cac	0		_RenderScaledInlineWidget@215328197
+0x002d0e7c	0		ServiceWithCharacteristics._@1975234311
+0x002d0ef4	0		package:reactive_ble_platform_interface/src/model/discovered_service.dart
+0x002d11e4	0		continueFromLedTest
+0x002d12b4	0		MobileSensorsError
+0x002d151c	0		package:caps_boxer/src/ui_overlay/setup_game/player_setup/bloc/player_setup_state.dart
+0x002d1584	0		_handleEndHandleDragEnd@202111801
+0x002d164c	0		set:onSemanticsEnabledChanged
+0x002d18d4	0		BluetoothRecoveredListener
+0x002d1c14	0		bluetoothError_Message
+0x002d221c	0		_FirmwareReadyBuilderState@6050684782
+0x002d2384	0		firmwareUpdate_InProgressFromSearch_Message
+0x002d24b4	0		package:caps_endless_match/src/core/bloc/endless_match_game_cubit.dart
+0x002d2dc4	1	00234c0c	package:caps_snake_vs_block/src/snake_vs_block/systems/collisions/detectors/orb_collision_detector.dart
+0x002d3ddc	0		Data on failed connection
+0x002d4174	0		bluetoothPermissions_NoAccess_Message
+0x002d440c	0		Failed to parse HTTP, 
+0x002d452c	0		package:caps_games_common/src/controllers/game_input_mode.dart
+0x002d4794	0		package:flutter_reactive_ble/src/reactive_ble.dart
+0x002d48f4	0		package:caps_games_common/src/flame/caps_sprite_animation_component.dart
+0x002d49dc	0		package:capsapps_sdk/algorithms/tilt/common/pitch_roll_yaw_entity.dart
+0x002d4bbc	0		file:///home/runner/work/capsapps-zappka-flutter-module/capsapps-zappka-flutter-module/flutter_module/.dart_tool/flutter_build/dart_plugin_registrant.dart
+0x002d4cd4	0		Failed to sign payload: Device not initialized
+0x002d4d24	0		hasBluetoothService
+0x002d5044	0		package:capsapps_sdk/bluetooth/exceptions/bluetooth_exceptions.dart
+0x002d560c	0		package:caps_boxer/src/core/bloc/player_queue.dart
+0x002d5a2c	0		Blue command init play session execution failed for device 
+0x002d6354	0		onSignedPayload
+0x002d685c	0		package:reactive_ble_mobile/src/reactive_ble_mobile_platform.dart
+0x002d68ac	0		Sending signed payload of length: 
+0x002d6b3c	0		_handleData@5048458
+0x002d6ed4	0		package:caps_snake_vs_block/src/snake_vs_block/components/walls/vertical_wall.dart
+0x002d6f94	0		MaxSignPayloadSize
+0x002d7154	0		Sign payload timeout: 
+0x002d7864	0		__ToggleLedButtonState&State&SingleTickerProviderStateMixin@673300305
+0x002d7b3c	0		MobileSensorsListener
+0x002d7d2c	0		package:caps_boxer/src/ui_overlay/setup_game/player_setup/widget/boxer_setup_player_title_widget.dart
+0x002d7fec	0		activateMonitoringLiveData
+0x002d806c	0		package:caps_asset_management/src/presentation/download/firmware_ready_builder.dart
+0x002d80cc	0		ServicesWithCharacteristics._@1975234311
+0x002d8234	0		ledTest_WorksButton
+0x002d8284	0		package:caps_snake_1_v_1/src/core/events/game_event.dart
+0x002d82cc	0		servicesWithCharacteristicsToDiscover
+0x002d88f4	0		Wakelock enable failed with unexpected error2
+0x002d89e4	0		_BatteryCheckBottomSheetState@628421663
+0x002d8cf4	0		Failed to get battery status for device 
+0x002d911c	0		remoteAssetsFlow_Error_AssetDownloadFailedMessage
+0x002d9174	0		DrawCommandType
+0x002d91ec	1	00234ecc	package:caps_boxer/src/config/boxer_assets.dart
+0x002d935c	0		package:caps_test_games/src/exit_test_game.dart
+0x002d95d4	0		FirmwareUpdateState
+0x002d973c	0		package:caps_games_common/src/ui/no_setup_screen.dart
+0x002da03c	0		package:caps_snake_vs_block/src/snake_vs_block/systems/analytics/snake_length_observator.dart
+0x002da2a4	0		writeCharacteristicWithoutResponse has not been implemented.2
+0x002da32c	0		:(visited|valid|root|right|required|read-write|read-only|out-range|optional|only-of-type|only-child|nth-of-type|nth-last-of-type|nth-last-child|nth-child|not|link|left|last-of-type|last-child|lang|invalid|indeterminate|in-range|hover|focus|first-of-type|first-line|first-letter|first-child|first|enabled|empty|disabled|default|checked|before|after...
+0x002da694	0		package:caps_shake/src/mixins/spawn_positions_provider.dart
+0x002da96c	1	00234fe4	collisionEnabled
+0x002dab6c	0		characteristicUuids
+0x002dac84	0		package:caps_snake_1_v_1/src/components/header/timer_update_system.dart
+0x002db40c	0		request cancelled
+0x002dbbf4	0		ReadyMobileSensorsState
+0x002dbcb4	0		accelerometer
+0x002dbff4	0		package:capsapps_bridge/src/presentation/game/game_overlay/pause/active_pause_cubit.dart
+0x002dc2dc	0		NotifyCharacteristicRequest.2
+0x002dc36c	0		package:caps_snake_1_v_1/src/components/arena/bloc/arena_state.dart
+0x002dcb74	0		(AR|P|PAYLOAD|PR|R|SR|RSR|LBL|VR|UALM|MESSAGE|UTOOL|UFRAME|TIMER|TIMER_OVERFLOW|JOINT_MAX_SPEED|RESUME_PROG|DIAG_REC)\[
+0x002dcbfc	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/pickup/bloc/pickup_manager_cubit.dart
+0x002dccec	0		Measurement|getXYAngularSpeed
+0x002dd18c	0		Try reconnecting or disconnect Triki from other phones and try again.
+0x002dd52c	1	002350fc	package:caps_endless_match/src/component/goal/goal_result_badge.dart2
+0x002dd594	0		PathCommand
+0x002dd5bc	0		package:capsapps_sdk/algorithms/tilt/kalman_models/position_horizontal_level_model.dart
+0x002dd764	0		&FilledVerySmallSquare;
+0x002dd8b4	0		package:caps_games_common/src/interface/caps_game_controller.dart
+0x002de02c	0		Listening to processed live data for device 2
+0x002de474	0		Client error - the request contains bad syntax or cannot be fulfilled
+0x002de924	0		LedTestStepState
+0x002de9a4	0		package:caps_endless_match/src/component/effect/effects_overlay_component.dart
+0x002df19c	0		package:capsapps_sdk/core/shared/configuration/live_measurement_config.dart
+0x002df334	0		filledButtonTheme
+0x002df354	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/pickup/pickup_manager_provider.dart
+0x002df484	0		decodeBothSensorsMeasurements
+0x002df72c	0		WriteCharacteristicFailure.
+0x002df974	0		boolean bit character integer time delay_length natural positive string bit_vector file_open_kind file_open_status std_logic std_logic_vector unsigned signed boolean_vector integer_vector std_ulogic std_ulogic_vector unresolved_unsigned u_unsigned unresolved_signed u_signed real_vector time_vector
+0x002dfafc	0		package:caps_shake/src/components/frog/character_frog.dart
+0x002dfb5c	0		startLiveData
+0x002dfe94	0		package:caps_shake/src/systems/spawning/difficulty_config.dart
+0x002e037c	0		package:nordic_dfu/src/nordic_dfu.dart
+0x002e0504	0		package:capsapps_sdk/algorithms/tilt/kalman_filter/measurement_model.dart
+0x002e0744	0		Multiple matching characteristics found: 
+0x002e094c	0		_TossGyroscope|_calculateGyroscopeSaturationPercentage@1411034922
+0x002e0ac4	0		CubicToCommand._fromIterablePoints@1999307832
+0x002e0bdc	0		package:flutter_reactive_ble/src/device_scanner.dart2
+0x002e0eb4	0		get:popGestureEnabled
+0x002e117c	0		operation failed
+0x002e12b4	0		DeviceScanResult(uuid: 
+0x002e1b34	0		package:caps_snake_vs_block/src/snake_vs_block/systems/collisions/detectors/block_collision_detector.dart
+0x002e1dbc	0		firmwareAssetEntryA
+0x002e1e74	0		Failed to send signed session: 
+0x002e1ea4	0		characteristicValueFrom
+0x002e273c	0		_bleDeviceInteractor@1465205209
+0x002e2c8c	0		get:firmwareUpdate_Required_StartButton
+0x002e2d5c	0		package:capsapps_sdk/algorithms/services/algorithm_service.dart
+0x002e3aac	0		_BluetoothErrorBottomSheet@6872196872
+0x002e413c	0		ABORT ALTER ANALYZE BEGIN CALL CHECKPOINT|10 CLOSE CLUSTER COMMENT COMMIT COPY CREATE DEALLOCATE DECLARE DELETE DISCARD DO DROP END EXECUTE EXPLAIN FETCH GRANT IMPORT INSERT LISTEN LOAD LOCK MOVE NOTIFY PREPARE REASSIGN|10 REFRESH REINDEX RELEASE RESET REVOKE ROLLBACK SAVEPOINT SECURITY SELECT SET SHOW START TRUNCATE UNLISTEN|10 UPDATE VACUUM|10...
+0x002e4e2c	0		package:caps_endless_match/src/component/player/endless_player_cubit.dart
+0x002e508c	0		_handleEndHandleDragUpdate@2021118012
+0x002e517c	0		package:caps_zp_logger/src/emitters/caps_console_log_emitter.dart
+0x002e522c	0		package:caps_snake_vs_block/src/snake_vs_block/systems/analytics/base_analytics.dart2
+0x002e55cc	0		package:caps_boxer/src/common/boxer_frame_with_gloves_widget.dart
+0x002e5734	0		CubicToCommand
+0x002e582c	0		package:caps_snake_1_v_1/src/common/snake_1v1_object_type.dart
+0x002e5a44	0		doubleDigitMinuteFormat
+0x002e5a6c	0		bluetoothPermissionDeniedUnknown
+0x002e5f34	0		Sign payload failed: 
+0x002e627c	0		package:caps_asset_management/src/data/assets/loader/asset_load_exception.dart
+0x002e62fc	0		sensors
+0x002e661c	0		singleDigitSecondFormat
+0x002e6dec	0		Failed to cleanup connection for device 
+0x002e73f4	0		_handleDeviceUpdateMouseEvents@232437380
+0x002e78dc	0		package:caps_shake/src/components/mountains/mountain_2.dart
+0x002e7c7c	0		init:_linrgbFromScaledDiscount@1871253021
+0x002e8144	0		package:app/features/device_connection/battery_check/battery_check_cubit.freezed.dart
+0x002e82b4	0		UninitializedLocaleData
+0x002e839c	0		package:caps_snake_vs_block/src/snake_vs_block/constants/scoring_constants.dart
+0x002e847c	0		Timeline_isDartStreamEnabled2
+0x002e8a9c	0		Connection attempt cancelled, host: 2
+0x002e8d64	0		package:caps_boxer/src/ui_overlay/setup_game/player_setup/widget/player_item_widget.dart
+0x002e8e2c	0		firmwareUpdate_NotSupported_Message
+0x002e93ec	0		Write failed2
+0x002e9abc	0		get:_isEnabled@418181401
+0x002ea0ec	0		alog alog10 amax0 amax1 amin0 amin1 amod cabs ccos cexp clog csin csqrt dabs dacos dasin datan datan2 dcos dcosh ddim dexp dint dlog dlog10 dmax1 dmin1 dmod dnint dsign dsin dsinh dsqrt dtan dtanh float iabs idim idint idnint ifix isign max0 max1 min0 min1 sngl algama cdabs cdcos cdexp cdlog cdsin cdsqrt cqabs cqcos cqexp cqlog cqsin cqsqrt dcmp...
+0x002ea8cc	0		package:caps_endless_match/src/domain/difficulty_manager.dart
+0x002eaa24	0		package:caps_shake/src/systems/spawning/mountain_factory.dart
+0x002eaa84	0		package:caps_endless_match/src/data/analytics_repository.dart
+0x002eac34	0		CharacteristicValueInfo
+0x002eae6c	0		FirmwarePreloadState2
+0x002eb17c	0		isActivatedMonitoringLiveData
+0x002eb304	0		Failed to read PCM frames.
+0x002ebcb4	0		_FirmwareUpdateStep@695489582
+0x002ebf0c	0		bluetoothReady
+0x002ec044	0		MobileSensorsCubit
+0x002ed17c	0		package:caps_toss_challenge/src/widget/toss_game_widget.dart2
+0x002ed53c	0		package:caps_boxer/src/feature/active_game/boxer_overlay_result.dart2
+0x002ed754	0		package:caps_endless_match/src/core/bloc/game_resetter.dart
+0x002eda74	0		package:caps_asset_management/src/data/assets/game_resolver/manifest_entry_not_found_exception.dart
+0x002edcb4	0		package:caps_asset_management/src/presentation/preload/asset_preload_cubit.dart
+0x002edffc	0		package:capsapps_sdk/algorithms/toss_algorithm/toss_v3_3/rotation_predictor_v3_3.dart
+0x002ee3e4	0		goal_failed
+0x002ee4bc	0		package:caps_asset_management/src/presentation/download/asset_download_flow.dart
+0x002eeaac	0		package:capsapps_sdk/core/service/raw_data_service.dart
+0x002eec44	0		ExceptionBridgeReadBatteryException
+0x002ef19c	0		package:caps_toss_challenge/src/widget/toss_lost.dart
+0x002ef43c	0		package:capsapps_sdk/core/infrastructure/di/sdk_container.dart
+0x002eff3c	0		package:caps_snake_1_v_1/src/core/flame_game/snake_1v1_world.dart
+0x002f0274	0		Failed to get firmware version for device 
+0x002f033c	0		Snake killed - reason: 
+0x002f03a4	0		firmwareUpdate_Error_Message2
+0x002f051c	0		dev.flutter.pigeon.flutter_native_api_plugin.NativeGameHostApi.onSignedPayload
+0x002f0934	0		package:caps_asset_management/src/presentation/download/orchestration/can_start_game_eta_calculator.dart
+0x002f0a8c	0		get:_primaryEnabled@372059085
+0x002f0ae4	0		firmwareUpdate_Error_Header
+0x002f0bfc	0		package:capsapps_sdk/bluetooth/service/discovery/filters/helpers.dart
+0x002f0ddc	0		package:caps_toss/src/caps_toss_game.dart
+0x002f0fbc	0		package:caps_snake_vs_block/src/snake_vs_block/components/blocks/effects/block_destruction/block_destruction_energy_orb.dart2
+0x002f10b4	0		BluetoothService.
+0x002f11e4	0		package:caps_boxer/src/service/audio/audio_player.dart
+0x002f1f24	0		package:app/features/device_connection/permissions/mobile_sensors/mobile_sensors_listener.dart
+0x002f247c	0		Failed to rasterize a picture: 
+0x002f25f4	0		package:caps_shake/src/systems/collision/bitmap_collision_component/has_bitmap_collision.dart
+0x002f2ce4	0		_hasScrolled@188426794
+0x002f2e94	0		package:caps_l10n/caps_l10n.dart
+0x002f3b4c	0		Failed to sign payload: Init play session not initialized
+0x002f3e64	0		, characteristicIds: 
+0x002f428c	0		Failed to send update: 
+0x002f433c	0		initFailed
+0x002f439c	0		assembly module package import alias class interface object given value assign void function new of extends satisfies abstracts in out return break continue throw assert dynamic if else switch case for while try catch finally then let this outer super is exists nonempty shared abstract formal default actual variable late native deprecatedfinal s...
+0x002f4c3c	0		package:caps_toss_challenge/src/service/audio/audio_player.dart
+0x002f4e44	0		package:app/features/device_connection/led_test/led_test_cubit.dart
+0x002f50fc	0		put abs acos aliasReference annuity arrayDecode arrayEncode asin atan atan2 average avg avgDev base64Decode base64Encode baseConvert binaryDecode binaryEncode byteOffset byteToNum cachedURL cachedURLs charToNum cipherNames codepointOffset codepointProperty codepointToNum codeunitOffset commandNames compound compress constantNames cos date dateFo...
+0x002f684c	0		Failed to read firmware version string for device 
+0x002f6b04	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/snake/system/snake_movement_system.dart
+0x002f6d4c	0		package:capsapps_sdk/bluetooth/service/state/bluetooth_state_service.dart
+0x002f6e74	0		getBleDeviceSession
+0x002f78a4	0		, requireLocationServicesEnabled: 
+0x002f793c	0		package:caps_endless_match/src/data/game_rules_repository.dart
+0x002f7efc	0		Failed to connect to TRIKI
+0x002f803c	0		Error turning on LED2
+0x002f82bc	0		package:capsapps_sdk/utils/app_lifecycle_helper.dart2
+0x002f83dc	0		_rxCharUuid@1468105895
+0x002f863c	0		package:caps_shake/src/components/top_mountains/top_mountain_4.dart
+0x002f86dc	0		SoLoudReadSamplesFailedToGetDataFormatCppException
+0x002f88cc	0		package:reactive_ble_platform_interface/src/model/generic_failure.dart
+0x002f8984	0		bluetoothConnect
+0x002f8ce4	0		MeasurementKalmanModel
+0x002f8e0c	0		package:caps_toss/src/widget/center_area/toss_current_throw_widget.dart
+0x002f8f8c	0		package:caps_toss/src/widget/center_area/toss_strikes.dart
+0x002f94ac	0		signPayloadResponsePayloadSize
+0x002f981c	0		package:caps_endless_match/src/core/spawner/world_spawner_component.dart
+0x002f98bc	0		_createBleDeviceSession@1467427683
+0x002f9c4c	0		QualifiedCharacteristic
+0x002f9d4c	0		The `handler` has already been called, make sure each handler gets called only once.2
+0x002f9f8c	0		_BatteryCheckState&Object&_$BatteryCheckState@629498949
+0x002fa01c	0		failed
+0x002fa3e4	0		powerupPickupEnabled2
+0x002fa454	0		package:caps_endless_match/src/component/obstacle/mud/mud_obstacle.dart
+0x002fa9b4	0		package:caps_toss_challenge/src/widget/init/game_init_cap.dart
+0x002faa04	0		package:app/features/device_connection/permissions/bluetooth_permissions/bluetooth_no_access_bottom_sheet.dart
+0x002faa9c	0		bluetoothNotSupported
+0x002faac4	0		_LocationDisabledBottomSheet@687219687
+0x002fac44	0		firmwareUpdate_Required_Header
+0x002faf8c	0		performPrivateCommand
+0x002fb224	0		package:capsapps_sdk/bluetooth/service/bluetooth_service.dart
+0x002fb984	0		SDK not initialized. Call CapsAppsSdk.initialize() first.
+0x002fba04	0		_RestorationInformation@146124995.fromSerializableData
+0x002fbb0d	0		  commands: <PathCommand>
+0x002fbde4	0		package:caps_endless_match/src/ui_overlay/endless_match_game_summary_page.dart
+0x002fc39c	0		_deviceInformationServiceUuid@1468105895
+0x002fc91c	0		Failed to sign payload: No active connection2
+0x002fd464	0		package:caps_test_games/src/tilt_pitch_roll/tilt_pitch_roll_test_page.dart
+0x002fd4bc	0		package:caps_endless_match/src/config/endless_match_game_config.dart2
+0x002fd58c	0		Low battery in Triki2
+0x002fd70c	0		package:capsapps_bridge/src/app_bridges/mobile_sensors/mobile_sensors_state.dart
+0x002fddb4	0		kind do while private call intrinsic where elsewhere type endtype endmodule endselect endinterface end enddo endif if forall endforall only contains default return stop then block endblock public subroutine|10 function program .and. .or. .not. .le. .eq. .ge. .gt. .lt. goto save else use module select case access blank direct exist file fmt form ...
+0x002fe4fc	0		package:capsapps_sdk/algorithms/tilt/kalman_filter/process_model.dart
+0x002fe804	0		package:caps_snake_vs_block/src/snake_vs_block/components/blocks/effects/block_hit_wave/block_hit_wave_effect.dart
+0x002fe8ec	0		WriteCharacteristicInfo.fromBuffer
+0x002ff03c	0		DFU: Idle timeout (
+0x002ff07c	0		scaledByDouble
+0x002ff574	0		_List@0150898.filled2
+0x002ff9b4	0		package:reactive_ble_platform_interface/src/model/discovered_device.g.dart
+0x002fff6c	0		package:caps_networking/src/domain/connectivity_status.dart
+0x002fffb4	0		_impellerEnabled@17065589
+0x0030006c	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/pickup/components/barriers_pickup.dart
+0x003004e4	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/models/blocked_area.dart
+0x00300f9c	0		Failed to stop data streaming for device 
+0x00301974	0		ByRef Case Const ContinueCase ContinueLoop Default Dim Do Else ElseIf EndFunc EndIf EndSelect EndSwitch EndWith Enum Exit ExitLoop For Func Global If In Local Next ReDim Return Select Static Step Switch Then To Until Volatile WEnd While With
+0x00301de4	0		get:firmwareReady
+0x00302194	0		get:bluetoothPermissions_NoAccess_Title
+0x003023ec	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/snake/models/snake_body_positions.dart
+0x003027ac	0		bluetoothNotAuthorized
+0x003028f4	0		package:capsapps_bridge/src/presentation/game/orchestration/native_api_side_effects.dart
+0x00302cdc	0		package:caps_shake/src/systems/overlays/ui/force_bar.dart
+0x00302d84	0		package:caps_l10n/src/l10n/intl/messages_all.dart
+0x00302e6c	0		NordicDfu
+0x00302f0c	0		ReadCharacteristicRequest._@1975234311
+0x00303264	0		, servicesWithCharacteristicsToDiscover: 
+0x0030329c	0		' has been assigned during initialization.
+0x0030348c	0		Firmware update error for device 
+0x00303504	0		package:caps_toss/src/widget/components/toss_colored_widget.dart
+0x0030362c	0		ledTest_Help2
+0x00303684	0		battery_Low_StartButton
+0x003036ac	0		setPosition failed
+0x00303ba4	0		package:caps_shake/src/systems/fuel/fuel_controller.dart
+0x00303d4c	0		&FilledSmallSquare;
+0x00303dec	0		set:_trikiSlide@1339430752
+0x00303fb4	0		_subscribeToLiveDataCharacteristicStream@1466197479
+0x00304154	0		package:vector_graphics_compiler/src/draw_command_builder.dart
+0x003041bc	0		UUID requires at least 16 bytes, got 
+0x0030463c	0		SignPayloadException2
+0x003046f4	0		package:caps_games_common/src/flame/caps_sprite_component.dart
+0x00304ae4	0		get:firmwareUpdate_NotSupported_Message
+0x00304b1c	0		AudioTrebleDown
+0x00304bbc	0		package:caps_zp_logger/src/emitters/disabled_logger_emitter.dart
+0x00304efc	0		package:caps_boxer/src/boxer_game_widget.dart
+0x00305364	0		CapsAppsException
+0x00305474	0		LiveMeasurementConfig
+0x00305524	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/snake/components/snake_body_segment_id.dart
+0x003060a4	0		flutter_reactive_ble_connected_device
+0x0030635c	0		package:capsapps_sdk/core/infrastructure/services/timeout_service.dart
+0x00306cac	0		package:caps_toss_challenge/src/widget/toss_active_game.dart2
+0x00306f04	0		package:caps_games_common/src/ui/assets/asset_image_widget.dart
+0x003071ac	0		int float while private char char8_t char16_t char32_t catch import module export virtual operator sizeof dynamic_cast|10 typedef const_cast|10 const for static_cast|10 union namespace unsigned long volatile static protected bool template mutable if public friend do goto auto void enum else break extern using asm case typeid wchar_tshort reinter...
+0x0030798c	0		BatteryCheckStatePatterns|maybeMap
+0x00307b2c	0		_handleDragStart@331001611
+0x00307b9c	0		package:caps_endless_match/src/component/objective_indicator/objective_indicator_component.dart
+0x00307e54	0		package:caps_endless_match/src/component/player/player_ball.dart
+0x0030807c	0		" not handled.
+0x003085cc	0		package:caps_shake/src/systems/collision/collision_checker.dart
+0x0030893c	0		package:caps_endless_match/src/component/obstacle/barrier/barrier_obstacle_cubit.dart
+0x003089fc	0		Directory listing failed
+0x00308af4	0		Error subscribing to live data characteristic stream: 
+0x00308b9c	0		Error starting live data for device 2
+0x00308c24	0		hasEnabledState
+0x00308d3c	0		permissions_Location_Disabled_Header2
+0x00308d8c	0		package:capsapps_bridge/src/presentation/game/game_state_controller.dart
+0x0030902c	0		package:caps_shake/src/config/shake_assets.dart
+0x003092ac	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/snake/components/player_snake_head.dart
+0x003093ec	0		Firmware configured: A=
+0x0030a0d4	0		package:capsapps_bridge/src/presentation/game/orchestration/cap_data/algorithm_stream_session.dart
+0x0030a3cc	0		computeSerializableData
+0x0030aee4	0		StartDfuModeException
+0x0030b02c	0		package:caps_games_common/src/flame/flame_bloc_mixins.dart
+0x0030b25c	0		package:capsapps_sdk/core/types/connection/connection_mode.dart
+0x0030b464	0		MoveToCommand(
+0x0030b5dc	0		_mapSensorsState@495129043
+0x0030b8dc	0		package:caps_shake/src/components/water.dart2
+0x0030badc	0		batteryLevel2
+0x0030bd04	0		package:capsapps_bridge/src/presentation/game/orchestration/game_input_resolver.dart2
+0x0030bd8c	0		package:caps_shake/src/systems/movement/frog/frog_movement_controller.dart
+0x0030bf14	0		get:battery_Low_Title
+0x0030c0e4	0		Failed to load assets
+0x0030c474	0		locationServicesDisabled
+0x0030c644	0		turnOffLed
+0x0030c8b4	0		package:capsapps_sdk/algorithms/algorithm_enum.dart
+0x0030ca44	0		Algorithm processing failed
+0x0030cb94	0		package:caps_zp_common/src/player_number.dart
+0x0030cc8c	0		serviceUuids2
+0x0030d05c	0		package:caps_snake_1_v_1/src/components/header/snake1v1_game_header.dart
+0x0030d104	0		Asking for audio data is not enabled! Please use `setVisualizationEnabled(true);` to enable!2
+0x0030d444	0		DFU: Device disconnected: 
+0x0030d624	0		filled
+0x0030d84c	0		WriteCharacteristicInfo._@19752343112
+0x0030da04	0		package:caps_shake/src/components/top_mountains/top_mountain_2.dart
+0x0030dbfc	0		_invokeStartDfu@1501094166
+0x0030e0b4	0		package:caps_endless_match/src/ui_overlay/hud/trapezoid_hud_container.dart
+0x0030e17c	0		flutter_reactive_ble_status
+0x0030e2c4	0		package:caps_toss_challenge/caps_toss_challenge_game.dart
+0x0030e36c	0		pauseGame callback enabled
+0x0030e574	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/components/blocked_positions_debug_renderer.dart
+0x0030e694	0		kind do while private call intrinsic where elsewhere type endtype endmodule endselect endinterface end enddo endif if forall endforall only contains default return stop then public subroutine|10 function program .and. .or. .not. .le. .eq. .ge. .gt. .lt. goto save else use module select case access blank direct exist file fmt form formatted iosta...
+0x0030f13c	0		_commandService@1465205209
+0x0030f2c4	0		\s(aget|aput|array|check|execute|fill|filled|goto/16|goto/32|iget|instance|invoke|iput|monitor|packed|sget|sparse)((\-|/)[a-zA-Z0-9]+)*\s
+0x0030f5c4	0		package:caps_snake_1_v_1/src/ui_overlay/setup_game/snake1v1_setup_game_screen.dart
+0x0030f624	0		_awaitUserDefinedFuture@5048458
+0x0030fbfc	0		startDfuModeException
+0x0030ff1c	0		Read characteristic: 
+0x0031014c	0		Enable Bluetooth to connect with Triki again.
+0x00310264	0		FirmwareAssetResolver
+0x0031071c	0		Characteristic
+0x00310834	0		package:caps_snake_1_v_1/src/core/events/game_event_bus.dart2
+0x003108f4	0		set:serviceUuid
+0x0031114c	0		RecycledQueue.
+0x00311ba4	0		_GrowableList@0150898.filled2
+0x003121cc	0		package:caps_toss/src/config/toss_assets.dart
+0x003125bc	0		get:firmwareUpdate_NotSupported_ChangeDeviceButton
+0x00312c1c	0		Connected Triki
+0x0031303c	0		MobileSensorsError.
+0x0031305c	0		requestBluetoothScanPermission
+0x00313444	0		alternativeAdvertisingNameEnabled
+0x003135dc	0		package:capsapps_sdk/core/types/raw_data/cap_data.dart
+0x0031388c	0		': Failed assertion: line 
+0x00313c3c	0		Firmware update completed successfully for device 
+0x00313e24	0		_handleDragEnd@331001611
+0x0031408c	0		package:flutter_reactive_ble/src/rx_ext/serial_disposable.dart
+0x003143c4	0		Payload sent to SDK: 
+0x003143ec	0		characteristicId
+0x0031456c	0		package:caps_shake/src/systems/overlays/ui/game_over_overlay.dart
+0x00314b4c	0		 Failed assertion:
+0x00314e3c	0		package:app/features/device_connection/permissions/bluetooth_permissions/blue_permission_state.dart
+0x003150ac	0		onFirmwareValidating2
+0x00315334	0		MobileSensorsState
+0x0031562c	0		(\.\./|/|\s)((traffic-flow|traffic-generator|firewall|scheduler|aaa|accounting|address-list|address|align|area|bandwidth-server|bfd|bgp|bridge|client|clock|community|config|connection|console|customer|default|dhcp-client|dhcp-server|discovery|dns|e-mail|ethernet|filter|firewall|firmware|gps|graphing|group|hardware|health|hotspot|identity|igmp-pr...
+0x00315acc	0		firmwareUpdateRequired
+0x00315c4c	0		package:caps_snake_1_v_1/src/core/audio/snake1v1_audio_player.dart
+0x00315d7c	0		Error stopping live data for device 2
+0x0031650c	0		get:ledTest_Title
+0x00316664	0		set:bluetoothStateSubject
+0x0031674c	0		NoBleCharacteristicDataReceived
+0x00316fa4	0		package:caps_asset_management/src/data/download/download_result.dart2
+0x0031727c	0		package:caps_games_common/src/ui/assets/caps_memory_image.dart
+0x0031754c	0		reconnectionCheckBluetoothState
+0x00317844	0		package:capsapps_sdk/algorithms/common/utils/rx.dart2
+0x003178ec	0		package:caps_shake/src/systems/scroll/scroll_controller.dart2
+0x00317934	0		_awaitCompletedFuture@5048458
+0x0031809c	0		_handleBuildScheduled@105399801
+0x00318164	0		An error occurred while checking battery
+0x0031826c	0		WriteCharacteristicInfo
+0x00318614	0		package:caps_asset_management/src/domain/manifest/asset_entry.g.dart2
+0x003186fc	0		&DoubleDownArrow;
+0x00318804	0		Nie znaleziono Triki2
+0x0031883c	0		package:caps_asset_management/src/presentation/init/init_asset_flow.dart
+0x00318d2c	0		Failed to initialize audio controller: 
+0x00318dd4	0		disabledBackgroundColor
+0x00318e44	0		, inDfuMode: 
+0x00318ec4	0		package:caps_endless_match/src/component/goal/gatekeeper_strategy.dart
+0x00319134	0		readCharacteristic
+0x0031944c	0		package:capsapps_bridge/src/native_integration/operations/sdk_response_matcher.dart
+0x0031960c	0		array_agg array_append array_concat array_contains array_count array_distinct array_ifnull array_length array_max array_min array_position array_prepend array_put array_range array_remove array_repeat array_replace array_reverse array_sort array_sum avg count max min sum greatest least ifmissing ifmissingornull ifnull missingif nullif ifinf ifna...
+0x00319b64	0		BatteryCheckFailed
+0x00319d84	0		package:caps_snake_1_v_1/src/ui_overlay/snake1v1_attempt_result_page.dart
+0x0031a08c	0		package:caps_shake/src/systems/score/points_manager.dart
+0x0031ad14	0		package:caps_zp_ui/src/bottom_sheet_variants/common_bottom_sheet.dart
+0x0031ad6c	0		package:caps_boxer/src/feature/active_game/widget/eq/boxer_eq_frame.dart
+0x0031aedc	0		NotifyNoMoreCharacteristicRequest
+0x0031b064	0		_clearLiveDataSubscription@1466197479
+0x0031b26c	0		mobileSensorsError
+0x0031b3b4	0		package:reactive_ble_mobile/src/converter/args_to_protubuf_converter.dart
+0x0031b4a4	0		get:cutEnabled
+0x0031b65c	0		package:caps_snake_vs_block/src/snake_vs_block/config/snake_vs_block_assets.dart
+0x0031b7cc	0		failedToSeekPcm
+0x0031bab4	0		get:characteristicUuids
+0x0031bb54	0		package:caps_snake_1_v_1/src/core/flame_game/game_cubit_event_listener.dart
+0x0031bc94	0		command on
+0x0031c29c	0		package:capsapps_sdk/bluetooth/infrastructure/utils/measurement_decoder.dart2
+0x0031c374	0		Failed to create Opus decoder.
+0x0031c534	0		package:caps_endless_match/src/domain/world_generation/world_generation_manager.dart2
+0x0031c60c	0		package:caps_snake_vs_block/src/snake_vs_block/components/snake/trail_manager.dart
+0x0031c73c	0		package:caps_asset_management/src/data/download/download_controller.dart
+0x0031cdd4	0		bluetoothAdvertise
+0x0031cf4c	0		_handleSelectionEndHandleDragStart@2021118012
+0x0031d2dc	0		\b(abs|acos|asin|atan|atan2|atanh|ceil|cloglog|comb|cos|digamma|exp|floor|invcloglog|invlogit|ln|lnfact|lnfactorial|lngamma|log|log10|max|min|mod|reldif|round|sign|sin|sqrt|sum|tan|tanh|trigamma|trunc|betaden|Binomial|binorm|binormal|chi2|chi2tail|dgammapda|dgammapdada|dgammapdadx|dgammapdx|dgammapdxdx|F|Fden|Ftail|gammaden|gammap|ibeta|invbinom...
+0x0031d90c	0		handleDragStart
+0x0031db74	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/snake/system/snake_body_manager.dart
+0x0031e084	0		button_Disabled_Message
+0x0031e29c	0		set:characteristic
+0x0031e69c	0		DFU: device version 2
+0x0031e934	0		Add another Triki
+0x0031ec64	0		package:caps_shake/src/systems/movement/frog/jump_movement.dart
+0x0031ed5c	0		com.capsapps.flutter_native_api_plugin/disk_space
+0x0031f174	0		package:caps_snake_vs_block/src/snake_vs_block/steer_game_widget.dart
+0x0031f41c	0		dev.flutter.pigeon.flutter_native_api_plugin.FlutterGameApi.signPayload
+0x0031f554	0		writeCharacteristicInfoFrom
+0x0031f6dc	0		package:caps_snake_vs_block/src/snake_vs_block/systems/spawn/spawners/wall_spawner.dart
+0x0031f864	0		package:caps_asset_management/src/data/assets/game_resolver/game_asset_resolver.dart2
+0x0031faac	0		ReadCharacteristicRequest.
+0x0031fc7c	0		&circledcirc;
+0x0032021c	0		package:caps_snake_vs_block/src/snake_vs_block/systems/analytics/analytics_orchestrator.dart2
+0x003203bc	0		LineToCommand(
+0x003203fc	0		package:capsapps_sdk/algorithms/toss_algorithm/acceleration.dart
+0x003206fc	0		get:firmwareUpdate_Required_Message
+0x00320b8c	0		package:caps_shake/src/systems/camera/viewport_bounds.dart
+0x00320d34	0		package:caps_games_common/src/controllers/game_input.dart
+0x00320dac	0		bluetoothScan
+0x00321704	0		AssetFlowDownloadFailedBottomSheet
+0x0032178c	0		&TripleDot;
+0x003219f4	0		package:caps_endless_match/src/endless_match_game_widget.dart
+0x00321d64	0		package:caps_shake/src/systems/collision/bitmap_collision_component/collision_quadrant.dart
+0x00321e6c	0		updateFirmware
+0x00321f7c	0		package:caps_endless_match/src/domain/world/player_movement_calculator.dart
+0x0032200c	0		_onSignPayloadException@486089426
+0x003226a4	0		Abs ACos AdlibRegister AdlibUnRegister Asc AscW ASin Assign ATan AutoItSetOption AutoItWinGetTitle AutoItWinSetTitle Beep Binary BinaryLen BinaryMid BinaryToString BitAND BitNOT BitOR BitRotate BitShift BitXOR BlockInput Break Call CDTray Ceiling Chr ChrW ClipGet ClipPut ConsoleRead ConsoleWrite ConsoleWriteError ControlClick ControlCommand Cont...
+0x00323fd4	0		package:capsapps_sdk/algorithms/shake/shake_motion.dart
+0x00324434	0		package:caps_snake_1_v_1/src/components/arena/components/game_arena.dart
+0x0032478c	0		package:caps_boxer/src/feature/active_game/widget/eq/boxer_equalizer_widget.dart
+0x00324894	0		package:caps_endless_match/src/domain/world_generation/world_generation_difficulty_resolver.dart
+0x00324aac	0		NotifyCharacteristicRequest._@1975234311
+0x00324ae4	0		sendCommandException2
+0x00324ddc	0		package:capsapps_sdk/algorithms/tilt/kalman_filter/kalman_filter.dart
+0x00325264	0		set:readEventsEnabled
+0x0032598c	0		UninitializedLocaleData.
+0x00325b34	0		startDfuMode2
+0x00325ce4	0		package:caps_snake_vs_block/src/snake_vs_block/components/blocks/effects/block_destruction/block_destruction_spark_trail_effect.dart2
+0x00325df4	0		package:capsapps_sdk/algorithms/toss_algorithm/cap_side.dart2
+0x00325e3c	0		package:caps_networking/src/data/dio_http_client.dart
+0x00325f0c	0		Failed to init play session for device 
+0x003261ac	0		failedToDecodeOpusPacket
+0x003264dc	0		package:caps_toss/src/widget/bottom_data/toss_score.dart
+0x0032677c	0		Firmware pair resolved: A=
+0x003269b4	0		package:caps_endless_match/src/data/score_repository.dart
+0x003278dc	0		SensorsFrequencyOdr
+0x0032793c	0		Failed to set pause for 
+0x003279bc	0		&circledast;2
+0x00327a2c	0		package:reactive_ble_platform_interface/src/model/scan_session.dart
+0x00327b5c	0		package:caps_endless_match/src/component/effect/collision_impact_badge.dart
+0x00327c54	0		onFirmwareUpdateStarted
+0x00327d8c	0		package:caps_toss_challenge/src/widget/toss_rounds_progress.dart
+0x0032857c	0		package:caps_toss_challenge/src/config/toss_challenge_assets.dart
+0x003287bc	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/pickup/components/grow_pickup.dart2
+0x00328af4	0		init:_semanticsEnabled@301275577
+0x00328d34	0		Payload exceeds maximum allowed length
+0x00329c2c	0		Failed to report exception: 2
+0x00329ecc	0		Prescan throttled: 
+0x0032a164	0		bluetooth_denial_count
+0x0032aa6c	0		package:caps_asset_management/src/data/remote_asset_url_builder.dart2
+0x0032ab5c	0		CubicToCommand.fromPoints
+0x0032ae9c	0		CharacteristicsUpdateService2
+0x0032b1f4	0		disabledSetextHeading
+0x0032b25c	0		package:capsapps_bridge/src/presentation/game/orchestration/bloc/caps_game_orchestrator_cubit.dart
+0x0032b2dc	0		_processMeasurementPackets@1477184402
+0x0032b574	0		package:caps_snake_1_v_1/src/core/bloc/snake1v1_game_state.dart
+0x0032b5c4	0		package:caps_shake/src/components/paralaxa/background_paralax.dart
+0x0032b6b4	0		abstract as base bool break byte case catch char checked const continue decimal default delegate do double enum event explicit extern finally fixed float for foreach goto if implicit in int interface internal is lock long object operator out override params private protected public readonly ref sbyte sealed short sizeof stackalloc static string ...
+0x0032e79c	0		package:caps_shake/src/systems/scroll/position_controller.dart
+0x0032ea94	0		package:caps_shake/src/systems/analytics/shake_analytics.dart
+0x0032ec14	0		package:caps_snake_vs_block/src/snake_vs_block/components/orb/orb_type.dart
+0x0032ee54	0		package:caps_asset_management/src/data/storage_service.dart
+0x0032ee9c	0		Pogled prema gore
+0x0032efcc	0		&triangledown;
+0x0032f694	0		package:caps_snake_1_v_1/src/widget/snake_game_widget.dart
+0x0032f8cc	0		package:caps_toss/src/widget/bottom_data/toss_score_change.dart
+0x0032fabc	0		Starting firmware update for device 2
+0x0032fe64	0		package:caps_toss_challenge/src/widget/toss_target_widget.dart
+0x003305b4	0		DFU: Device not found in DFU mode
+0x003305fc	0		DFU: DFU Aborted: 
+0x0033061c	0		Sound toggled: 
+0x0033083c	0		get:liveTextInputEnabled
+0x003308f4	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/snake/components/style/snake_style.dart
+0x00330f84	0		MobileSensorsErrorState
+0x00331004	0		turnOnLed
+0x003311fc	0		MeasurementExt|filterHighPass
+0x003312ec	0		Align And Array As Break CallDebugger Case CompilerCase CompilerDefault CompilerElse CompilerElseIf CompilerEndIf CompilerEndSelect CompilerError CompilerIf CompilerSelect CompilerWarning Continue Data DataSection Debug DebugLevel Declare DeclareC DeclareCDLL DeclareDLL DeclareModule Default Define Dim DisableASM DisableDebugger DisableExplicit ...
+0x00331a3c	0		Battery level for device 
+0x00331acc	0		port effect module where command subscription exposing
+0x00331b14	0		Uuid.parse
+0x00331f1c	0		set:quarterTurns
+0x003320dc	0		package:caps_games_common/src/flame/caps_sprite_animation_group_component.dart
+0x003331bc	0		package:capsapps_sdk/bluetooth/service/firmware/firmware_asset_loader.dart
+0x003333d4	0		Failed to create decoder. This could happen when some internal error occurred while creating the decoder. Maybe not enough memory or maybe the data is corrupted. (on the C++ side).2
+0x003336a4	0		forcePressEnabled
+0x003338bc	0		package:caps_snake_1_v_1/src/ui_overlay/setup_game/snake1v1_setup_game_data.dart
+0x0033411c	0		CompletedFirmwareUpdateState2
+0x00334204	0		wrong dimens matrix measNoise and measurementMatrix kalman
+0x00334324	0		BluetoothConnectionService.
+0x003350a4	0		package:caps_toss_challenge/src/widget/toss_claim_reward.dart
+0x003352d4	0		InitNativeStateFailed
+0x003352fc	0		package:caps_snake_vs_block/src/snake_vs_block/worlds/base_game_world.dart
+0x00335b54	0		_ledStateCharUuid@14681058952
+0x0033621c	0		package:reactive_ble_platform_interface/src/reactive_ble_platform_interface.dart
+0x00336474	0		_$FirmwareAssetEntryFromJson@597392867
+0x0033654c	0		FirmwarePreloadReady2
+0x00336c04	0		BluetoothStateService.
+0x00336cbc	0		abs accTime acos action actionIDs actionKeys actionKeysImages actionKeysNames actionKeysNamesArray actionName actionParams activateAddons activatedAddons activateKey add3DENConnection add3DENEventHandler add3DENLayer addAction addBackpack addBackpackCargo addBackpackCargoGlobal addBackpackGlobal addCamShake addCuratorAddons addCuratorCameraArea ...
+0x0033e634	0		ErrorFirmwareUpdateState
+0x0033e66c	0		getSensorsState
+0x0033ea0c	0		 (scaled: 
+0x0033ea64	0		\b(?:ll(?:AgentInExperience|(?:Create|DataSize|Delete|KeyCount|Keys|Read|Update)KeyValue|GetExperience(?:Details|ErrorMessage)|ReturnObjectsBy(?:ID|Owner)|Json(?:2List|[GS]etValue|ValueType)|Sin|Cos|Tan|Atan2|Sqrt|Pow|Abs|Fabs|Frand|Floor|Ceil|Round|Vec(?:Mag|Norm|Dist)|Rot(?:Between|2(?:Euler|Fwd|Left|Up))|(?:Euler|Axes)2Rot|Whisper|(?:Region|O...
+0x0033fcdc	0		package:caps_snake_vs_block/src/snake_vs_block/systems/spawn/spawners/block_spawner.dart
+0x0034004c	0		Pogled gor
+0x003402c4	0		init:_ledStateCharUuid@1468105895
+0x0034062c	0		onDfuAborted2
+0x003408c4	0		get:serviceUuid
+0x003409bc	0		package:caps_games_common/src/ui/round_summary/widgets/rounds_indicators.dart
+0x00340c5c	0		package:capsapps_bridge/src/presentation/onboarding/video/game_ob_player_loading_view.dart
+0x00340d1c	0		abstract add and array as asc aspect assembly async begin break block by case class concat const copy constructor continue create default delegate desc distinct div do downto dynamic each else empty end ensure enum equals event except exit extension external false final finalize finalizer finally flags for forward from function future global gro...
+0x0034130c	0		package:caps_snake_1_v_1/src/core/flame_game/snake_1v1_game.dart
+0x00344574	0		package:capsapps_sdk/algorithms/steer_rotation/rotation_base.dart
+0x00344d94	0		Proxy failed to establish tunnel (
+0x00345474	0		Update controller firmware and play on!
+0x0034553c	0		singleDigitMinuteFormat
+0x00345894	0		package:reactive_ble_platform_interface/src/logger.dart
+0x0034602c	0		FirmwareAssetResolver.
+0x0034610c	0		package:capsapps_sdk/core/types/measurement/measurement_bundle.dart
+0x00346234	0		DFU: aborted ignored during retry transition: 
+0x003463cc	0		_initializeBluetoothStateStream@1471007728
+0x003464ac	0		package:flutter_reactive_ble/src/debug_logger.dart
+0x003466b4	0		package:capsapps_sdk/algorithms/toss_algorithm/toss_v3_3/xgboost_model_v3_3.dart
+0x00346974	0		package:capsapps_sdk/algorithms/common/exceptions/algorithm_exceptions.dart
+0x00346fbc	0		read failed
+0x00347134	0		REACTIVE_BLE2
+0x0034728c	0		Failed to seek audio data.
+0x003472dc	0		package:caps_endless_match/src/data/world/player_information_repository.dart2
+0x003473ac	0		ledTest_Instruction
+0x00347554	0		Sound is not enabled, skipping 
+0x0034764c	0		ServicesWithCharacteristics
+0x00347674	0		package:caps_shake/src/systems/time/game_time_controller.dart
+0x00347a7c	0		package:caps_endless_match/src/component/goal/endless_gatekeeper_cubit.dart
+0x00347b24	0		initialConnectionCheckBluetoothState2
+0x00347e5c	0		signPayloadException2
+0x00348c04	0		(characteristic: 
+0x00348c94	0		openFailed
+0x00348fac	0		onDfuProcessStarted
+0x0034945c	0		setLedOn
+0x00349e1c	0		package:caps_endless_match/src/core/flame_game/endless_match_world.dart
+0x0034a6c4	0		_firmwareVersionStringCharUuid@1468105895
+0x0034a7e4	0		package:caps_shake/src/components/mountains/mountain_1.dart
+0x0034a8b4	0		Subscribing to characteristic: 
+0x0034b8bc	0		_FirmwareUpdateInProgressBottomSheet@670504465
+0x0034b8fc	0		package:caps_endless_match/src/domain/world/tracked_objectives_manager.dart
+0x0034c38c	0		package:caps_games_common/src/interface/caps_game.dart
+0x0034c3f4	0		Failed to report Flutter error: 
+0x0034c494	0		package:caps_shake/src/systems/distance/distance_controller.dart
+0x0034c714	0		get:selectAllEnabled2
+0x0034c8c4	0		if else in foreach for forv forva forval forvalu forvalue forvalues by bys bysort xi quietly qui capture about ac ac_7 acprplot acprplot_7 adjust ado adopath adoupdate alpha ameans an ano anov anova anova_estat anova_terms anovadef aorder ap app appe appen append arch arch_dr arch_estat arch_p archlm areg areg_p args arima arima_dr arima_estat a...
+0x003504fc	0		package:caps_shake/src/systems/effects/rain_effect_controller.dart
+0x00350764	0		get:ledTest_Instruction
+0x00350a84	0		RcLowBattery2
+0x00350b34	0		package:caps_l10n/src/l10n/l10n.dart2
+0x00350c64	0		package:app/features/device_connection/permissions/mobile_sensors/mobile_sensors_cubit.dart
+0x00350e44	0		get:pasteEnabled
+0x00351384	0		done() must not be called more than once on the same VectorGraphicsBuffer.
+0x003515ec	0		DiscoveredCharacteristic._@1975234311
+0x003522c4	0		package:capsapps_sdk/bluetooth/service/firmware/firmware_update_state.dart
+0x00352424	0		PathCommandType
+0x0035287c	0		package:caps_asset_management/src/presentation/preload/asset_preload_state.dart
+0x00352964	0		_endHandleDragPosition@202111801
+0x00352a84	0		package:caps_shake/src/ui_overlay/shake_active_overlay.dart
+0x00352f7c	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/bloc/blocked_positions_state.dart
+0x00353614	0		package:caps_zp_common/src/device_id_formatter.dart
+0x00353e14	0		init:_uartServiceUuid@1468105895
+0x0035421c	0		Starting BLE scan for 
+0x00355054	0		init:_getVisualizationEnabledPtr@1604500395
+0x00355c24	0		&DoubleDot;
+0x00355e54	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/snake/bloc/calculations/wrapped_position_calculator.dart
+0x00356404	0		Failed to stop 
+0x00356644	0		scaleSensorScoreToDisplay
+0x00356794	0		package:caps_snake_vs_block/src/snake_vs_block/components/blocks/effects/block_destruction/block_destruction_effect.dart
+0x003568dc	0		package:caps_shake/src/mixins/resettable_component.dart
+0x00356cc4	0		Invalid command type in path2
+0x00366c8c	0		Constructor will never be called because null is never provided as current tween.
+0x00366d14	0		package:caps_snake_vs_block/src/ui_overlay/snake_vs_block_active_overlay.dart
+0x00366dfc	0		UuidV4.fromBytes
+0x00366e64	0		Received signPayload call, requestId: 
+0x00366ebc	0		_FirmwarePair@1501094166
+0x00366f4c	0		&CircleDot;
+0x0036708c	0		Triki 
+0x00367114	0		Unknown segment command
+0x0036729c	0		invalidFirmware
+0x0036735c	0		validateMovementDetailed
+0x00367fd4	0		package:caps_toss/src/widget/center_area/toss_hit_lose_score.dart
+0x003681b4	0		DFU: DFU Completed: 2
+0x003681fc	0		package:caps_games_common/src/ui/game_over/default_game_over_page.dart
+0x0036840c	0		get:semanticsEnabled2
+0x00368ca4	0		package:capsapps_bridge/src/utils/handle_exit_game.dart
+0x00368d94	0		package:caps_endless_match/src/core/bloc/endless_match_game_state.dart
+0x00368e2c	0		onDfuCompleted
+0x00369304	0		 channel was discarded before it could be handled.
+0x003696a4	0		ledTestScreen
+0x0036971c	0		ledTest_NoLight_Part2
+0x003698dc	0		Closing FirmwareUpdateCubit - cancelling firmware update stream
+0x00369b34	0		package:capsapps_sdk/core/types/connection/cap_connection_state_enum.dart
+0x00369eb4	0		ANY AbstractArray AbstractChannel AbstractFloat AbstractMatrix AbstractRNG AbstractSerializer AbstractSet AbstractSparseArray AbstractSparseMatrix AbstractSparseVector AbstractString AbstractUnitRange AbstractVecOrMat AbstractVector Any ArgumentError Array AssertionError Associative Base64DecodePipe Base64EncodePipe Bidiagonal BigFloat BigInt Bi...
+0x0036ab4c	0		Wyszukiwanie TRIKI
+0x0036ae1c	0		package:caps_boxer/src/ui_overlay/boxer_active_overlay.dart
+0x0036afd4	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/pickup/pattens/full_map_pattern.dart
+0x0036b124	0		_handleSelectionStartHandleDragStart@202111801
+0x0036b9fc	0		DFU: abortDfu failed2
+0x0036bec4	0		SignPayloadResponsePayloadSizeException
+0x0036c144	0		alias batch cd clear command connect connection-factory connection-info data-source deploy deployment-info deployment-overlay echo echo-dmr help history if jdbc-driver-info jms-queue|20 jms-topic|20 ls patch pwd quit read-attribute read-operation reload rollout-plan run-batch set shutdown try unalias undeploy unset version xa-data-source
+0x0036c41c	0		UnsignedInt
+0x0036c70c	0		package:reactive_ble_platform_interface/src/model/discovered_characteristic.dart
+0x0036c91c	0		dev.steenbakker.nordic_dfu/method
+0x0036c994	0		TraversalEdgeBehavior
+0x0036ca14	0		DfuModeDeviceDiscoveryFilter2
+0x0036cb24	0		All pending requests have been failed
+0x0036cef4	0		package:caps_snake_1_v_1/src/widget/snake_active_game.dart
+0x0036d1a4	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/snake/bloc/calculations/snake_movement_calculator.dart
+0x0036db44	0		_getScaledFontSize@17065589
+0x0036db6c	0		continueFromBatteryCheck
+0x0036dcac	0		package:caps_asset_management/src/presentation/asset_flow_common_bottom_sheets.dart
+0x0036e2dc	0		Bluetooth Error
+0x0036e504	0		ABS ACCRINT ACCRINTM ACOS ACOSH ACOT ACOTH AGGREGATE ADDRESS AMORDEGRC AMORLINC AND ARABIC AREAS ASC ASIN ASINH ATAN ATAN2 ATANH AVEDEV AVERAGE AVERAGEA AVERAGEIF AVERAGEIFS BAHTTEXT BASE BESSELI BESSELJ BESSELK BESSELY BETADIST BETA.DIST BETAINV BETA.INV BIN2DEC BIN2HEX BIN2OCT BINOMDIST BINOM.DIST BINOM.DIST.RANGE BINOM.INV BITAND BITLSHIFT BI...
+0x0036f3ec	0		_handleDragUpdate@202111801
+0x0036f974	0		package:caps_snake_vs_block/src/snake_vs_block/systems/audio/audio_player.dart
+0x0036fab4	0		package:caps_zp_ui/src/bottom_sheet/bottom_sheet_page.dart
+0x0036fbc4	0		package:caps_toss_challenge/src/ui_overlay/toss_challenge_active_overlay.dart
+0x0036fc5c	0		package:capsapps_sdk/core/infrastructure/repositories/device_repository.dart2
+0x0036fde4	0		_platformIsolatesEnabled@17065589
+0x0036fe5c	0		package:caps_asset_management/src/presentation/resolved_game_assets_provider.dart
+0x0036fecc	0		package:caps_shake/src/mixins/positioned.dart
+0x003701e4	0		tossChallenge_Failed2
+0x00370614	0		Subscribing to live data characteristic stream
+0x003713dc	0		abs acf aconcat aeye amax amean AmericanBinomCall AmericanBinomCall_Greeks AmericanBinomCall_ImpVol AmericanBinomPut AmericanBinomPut_Greeks AmericanBinomPut_ImpVol AmericanBSCall AmericanBSCall_Greeks AmericanBSCall_ImpVol AmericanBSPut AmericanBSPut_Greeks AmericanBSPut_ImpVol amin amult annotationGetDefaults annotationSetBkd annotationSetFont...
+0x003743e4	0		package:caps_snake_vs_block/src/snake_vs_block/systems/scroll/scroll_controller.dart2
+0x003744e4	0		batteryLow
+0x00374acc	0		signPayload callback registered
+0x00374bbc	0		firmwareUpdate_InProgress_Header
+0x00374c14	0		:[ \t]*(IApplication|IAccessRights|IAccountRepository|IAccountSelectionRestrictions|IAction|IActionList|IAdministrationHistoryDescription|IAnchors|IApplication|IArchiveInfo|IAttachment|IAttachmentList|ICheckListBox|ICheckPointedList|IColumn|IComponent|IComponentDescription|IComponentToken|IComponentTokenFactory|IComponentTokenInfo|ICompRecordInf...
+0x00375cf4	0		Disconnecting from Triki
+0x00375dcc	0		enableSignPayloadCallback
+0x0037665c	0		Sign session failed: 
+0x00376d3c	0		package:app/features/device_connection/permissions/mobile_sensors/mobile_sensors_bottom_sheet_flow.dart
+0x00376db4	0		package:caps_shake/src/systems/collision/collision_handler.dart
+0x0037711c	0		package:caps_boxer/src/domain/score_mapper.dart
+0x003774b4	0		package:caps_shake/src/systems/overlays/ui/button_restart.dart
+0x00377584	0		get:firmwareUpdate_NotSupported_Header
+0x003775dc	0		package:caps_zp_ui/src/bottom_sheet/triki_bottom_sheet_background.dart
+0x00377994	0		package:caps_toss_challenge/src/widget/toss_won.dart2
+0x00379414	0		package:caps_endless_match/src/component/obstacle/barrier/barrier_obstacle.dart
+0x0037962c	0		package:capsapps_bridge/src/app_bridges/bridge_exceptions.dart
+0x00379964	0		_updateScaledTransform@391490068
+0x0037a614	0		dev.steenbakker.nordic_dfu/event
+0x0037a83c	0		set:restorationEnabled
+0x0037b0d4	0		type yield lazy override def with val var sealed abstract private trait object if forSome for while throw finally protected extends import final return else break new catch super class case package default try this match continue throws implicit
+0x0037d72c	0		package:caps_zp_ui/src/markdown_content/markdown_content.dart
+0x0037da1c	0		package:caps_asset_management/src/domain/manifest/manifest.dart
+0x0037db14	0		BatteryCheckBottomSheet
+0x0037e144	0		FirmwareAssetLoader
+0x0037e22c	0		package:capsapps_bridge/src/native_integration/initialization/caps_bridge_initializer.dart
+0x0037e554	0		BatteryCheckStepState
+0x0037f19c	0		_nativeAvailableDatagram@15069316
+0x0037f1dc	0		Starting sign payload operation: 
+0x0037f7d4	0		package:caps_networking/src/domain/caps_http_exception.dart
+0x0037fa0c	0		package:caps_asset_management/src/presentation/download/firmware_preload_cubit.dart
+0x0037fdfc	0		PlatformConfigurationNativeApi::GetScaledFontSize
+0x003801bc	0		package:caps_boxer/caps_boxer_game.dart
+0x003801f4	0		package:caps_endless_match/src/domain/world_generation/coin/coin_pattern.dart
+0x00380abc	0		Failed to retrieve decoder data format.
+0x00380c14	0		package:caps_endless_match/src/component/obstacle/mud/mud_obstacle_cubit.dart
+0x00380ca4	0		package:caps_endless_match/src/domain/world_generation/chunk/goal_chunk_generator.dart
+0x00380d4c	0		package:caps_zp_ui/src/bottom_sheet_variants/select_device_bottom_sheet.dart2
+0x00380fac	0		init:_batteryServiceUuid@1468105895
+0x003811dc	0		BatteryCheckState.failed(deviceId: 
+0x0038136c	0		package:capsapps_sdk/bluetooth/service/firmware/firmware_update_config.dart
+0x00381454	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/pickup/bloc/pickup_manager_state.dart
+0x00381aa4	0		package:caps_snake_vs_block/src/snake_vs_block/components/blocks/effects/block_hit_wave/block_hit_wave_component.dart
+0x00381b84	0		Temporary directory hasn't been initialized, yet cleanUp() is called.
+0x00381c4c	0		set:isEnabled
+0x0038217c	0		\b(abs|acf|aconcat|aeye|amax|amean|AmericanBinomCall|AmericanBinomCall_Greeks|AmericanBinomCall_ImpVol|AmericanBinomPut|AmericanBinomPut_Greeks|AmericanBinomPut_ImpVol|AmericanBSCall|AmericanBSCall_Greeks|AmericanBSCall_ImpVol|AmericanBSPut|AmericanBSPut_Greeks|AmericanBSPut_ImpVol|amin|amult|annotationGetDefaults|annotationSetBkd|annotationSetF...
+0x003848a4	0		_setFieldFailedMessage@1970070143
+0x003848f4	0		package:caps_shake/src/systems/spawning/rocket_spawn_system.dart
+0x003853e4	0		GetFirmwareVersionException
+0x003858a4	0		RevealedOffset
+0x00385a4c	0		init:_measurementBuffer@1411034922
+0x00385bc4	0		package:caps_toss/src/widget/center_area/toss_glowing_strikes.dart
+0x00386374	0		MobileSensorsBridgeImpl.
+0x0038639c	0		_handleDragStart@443053933
+0x00386444	0		Uuid._@1975234311
+0x0038678c	0		PathCommandType.
+0x003869f4	0		\b(?:XP_ERROR_(?:EXPERIENCES_DISABLED|EXPERIENCE_(?:DISABLED|SUSPENDED)|INVALID_(?:EXPERIENCE|PARAMETERS)|KEY_NOT_FOUND|MATURITY_EXCEEDED|NONE|NOT_(?:FOUND|PERMITTED(?:_LAND)?)|NO_EXPERIENCE|QUOTA_EXCEEDED|RETRY_UPDATE|STORAGE_EXCEPTION|STORE_DISABLED|THROTTLED|UNKNOWN_ERROR)|JSON_APPEND|STATUS_(?:PHYSICS|ROTATE_[XYZ]|PHANTOM|SANDBOX|BLOCK_GRAB(...
+0x0038889c	0		FirmwareUpdateErrorType.
+0x0038890c	0		scaleDown
+0x0038902c	0		_$FirmwareAssetEntryToJson@5973928672
+0x003893b4	0		FirmwareUpdateConfig.
+0x00389534	0		CapsAppScaffold
+0x003896fc	0		Failed to send signed payload: 
+0x00389ac4	0		getMobileSensorsBridge
+0x00389ce4	0		package:caps_asset_management/src/data/manifest/manifest_local_store.dart
+0x00389e24	0		package:caps_endless_match/src/domain/game_status_manager.dart
+0x0038a08c	0		get:permissions_Bluetooth_Disabled_Message
+0x0038a2a4	0		BatteryCheckBatteryLow
+0x0038ae34	0		package:capsapps_bridge/src/presentation/onboarding/video/video_player_cubit.dart
+0x0038b054	0		handleDismiss
+0x0038b2d4	0		permissions_Location_Disabled_iOS_Message
+0x0038bedc	0		get:firmwareUpdate_Error_Message
+0x0038c264	0		argument_relative argument argument0 argument1 argument2 argument3 argument4 argument5 argument6 argument7 argument8 argument9 argument10 argument11 argument12 argument13 argument14 argument15 argument_count x y xprevious yprevious xstart ystart hspeed vspeed direction speed friction gravity gravity_direction path_index path_position path_positi...
+0x0038d3dc	0		package:caps_zp_logger/src/caps_log_emitter.dart
+0x0038d50c	0		package:caps_toss/src/widget/taget_values/toss_target_values.dart
+0x0038d8ec	0		SensorsEnableFlag.
+0x0038e1cc	0		package:caps_endless_match/src/component/background/background_logos.dart
+0x0038e2a4	0		get:firmwareUpdate_Error_ChangeDeviceButton
+0x0038e314	0		package:caps_games_common/src/flame/caps_shadow_component.dart
+0x0038e7cc	0		package:capsapps_sdk/core/service/connection_service.dart
+0x0038ecb4	0		_getHandleDy@202111801
+0x0038ed74	0		package:capsapps_bridge/src/app_bridges/game_device_connection/game_device_bridge_impl.dart
+0x0038f2bc	0		package:caps_asset_management/src/data/assets/firmware_resolver/firmware_asset_resolver.dart2
+0x0038f7a4	0		package:caps_endless_match/src/component/goal/endless_goal_cubit.dart
+0x0038fe3c	0		package:capsapps_sdk/algorithms/tilt/positioning_vertical_level_algorithm.dart
+0x0038ff9c	0		package:caps_endless_match/src/domain/world_generation/chunk/defender_placement_strategy.dart
+0x00390114	0		get:shareEnabled
+0x003906a4	0		ScrollableDetails
+0x0039108c	0		DFU: isInDfuMode failed (locked DFU mode?), error: 
+0x003912ac	0		package:caps_boxer/src/feature/active_game/widget/eq/boxer_eq_content.dart
+0x0039141c	0		package:caps_endless_match/src/ui_overlay/hud/endless_match_hud_cubit.dart
+0x0039199c	0		package:nordic_dfu/src/parameters/darwin_parameters.dart
+0x00391dbc	0		. Firmware is not supported.2
+0x00391f74	0		CapsAppsSdk already initialized
+0x00392114	0		\.(BIGINT|INT8|BIGSERIAL|SERIAL8|BIT|VARYING|VARBIT|BOOLEAN|BOOL|BOX|BYTEA|CHARACTER|CHAR|VARCHAR|CIDR|CIRCLE|DATE|DOUBLE|PRECISION|FLOAT8|FLOAT|INET|INTEGER|INT|INT4|INTERVAL|JSON|JSONB|LINE|LSEG|MACADDR|MACADDR8|MONEY|NUMERIC|DEC|DECIMAL|PATH|POINT|POLYGON|REAL|FLOAT4|SMALLINT|INT2|SMALLSERIAL|SERIAL2|SERIAL|SERIAL4|TEXT|TIME|ZONE|TIMETZ|TIMES...
+0x003932f4	0		setLedOff
+0x00393444	0		package:caps_asset_management/src/data/assets/loader/asset_cache.dart
+0x003935ac	0		as abort abs absolute acc acce accep accept access accessed accessible account acos action activate add addtime admin administer advanced advise aes_decrypt aes_encrypt after agent aggregate ali alia alias all allocate allow alter always analyze ancillary and anti any anydata anydataset anyschema anytype apply archive archived archivelog are as ...
+0x0039627c	0		package:caps_asset_management/src/presentation/asset_flow_providers.dart
+0x00396534	0		BluetoothConnectionService
+0x00396754	0		Error during battery check for device 
+0x0039693c	0		package:capsapps_bridge/src/presentation/game/game_overlay/pause/pause_overlay_widget.dart
+0x00396ba4	0		getVisualizationEnabled
+0x00396d64	0		_collectMainMeasurementBuffer@1411034922
+0x00396dcc	0		package:caps_endless_match/src/component/footballer/footballer_phase.dart
+0x003973dc	0		DrawCommand(2
+0x00397b14	0		package:reactive_ble_platform_interface/src/model/log_level.dart
+0x00397d8c	0		package:caps_toss_challenge/src/widget/toss_game_layout.dart2
+0x0039860c	0		package:caps_toss/src/bloc/toss_game_state.dart
+0x003988bc	0		package:caps_snake_vs_block/src/snake_vs_block/steer_game_cubit.dart2
+0x00398c9c	0		onDfuProcessStarting2
+0x00398e5c	1	002386cc	sendSignedSession
+0x003990cc	0		_FirmwareUpdateRequiredBottomSheet@6705044652
+0x003994ec	0		package:caps_endless_match/src/common/has_listeners.dart
+0x003995dc	0		semanticsEnabled
+0x00399684	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/pickup/components/speedup_pickup.dart
+0x0039985c	0		abort break case clear catch continue do elseif else endfunction end for function global if pause return resume select try then while
+0x0039a0ac	0		Signed payload sent to native: 
+0x0039a204	0		$finish $stop $exit $fatal $error $warning $info $realtime $time $printtimescale $bitstoreal $bitstoshortreal $itor $signed $cast $bits $stime $timeformat $realtobits $shortrealtobits $rtoi $unsigned $asserton $assertkill $assertpasson $assertfailon $assertnonvacuouson $assertoff $assertcontrol $assertpassoff $assertfailoff $assertvacuousoff $is...
+0x0039ac64	0		_throttledPush@210437083
+0x0039aec4	0		package:flame/src/components/core/recycled_queue.dart
+0x0039b184	0		_resumeBackgroundMusicOnSoundReEnabled@802460808
+0x0039b21c	0		package:capsapps_sdk/algorithms/tilt/kalman_filter/measurement_kalman_model.dart
+0x0039b4dc	0		CENTURY DAY DECADE DOW DOY EPOCH HOUR ISODOW ISOYEAR MICROSECONDS MILLENNIUM MILLISECONDS MINUTE MONTH QUARTER SECOND TIMEZONE TIMEZONE_HOUR TIMEZONE_MINUTE WEEK YEAR
+0x0039b5bc	0		Failed to send command 
+0x0039ba2c	0		 (no recent measurements)
+0x0039bcbc	0		flutter_reactive_ble_scan
+0x0039bdd4	0		package:caps_snake_vs_block/src/snake_vs_block/overlays/game_hud/widgets/display_widget.dart2
+0x0039bf6c	0		firmwareSupported
+0x0039c29c	0		package:caps_snake_vs_block/src/snake_vs_block/systems/spawn/cycle_manager.dart
+0x0039c7fc	0		init:_grayscaleDstInPaint@19913996772
+0x0039c82c	0		_handleDrawFrame@262222615
+0x0039c97c	0		package:caps_games_common/src/flame/camera_follower.dart
+0x0039d344	0		_measurementMatrixT@1434081265
+0x0039d384	0		Triki
+0x0039d634	0		DownloadCancelled
+0x0039db74	0		by a synchronously-called image listener
+0x0039dbac	0		package:reactive_ble_platform_interface/src/model/discovered_service.g.dart
+0x0039dfa4	0		_handleDragCancel@180019050
+0x0039ea34	0		package:caps_endless_match/src/data/game_difficulty_repository.dart
+0x0039ef74	0		LoadingMobileSensorsState
+0x0039efb4	0		updateSensorData
+0x0039f3a4	0		package:caps_endless_match/src/component/footballer/attacker/attacker_footballer_cubit.dart
+0x0039f4f4	1	00238c14	package:app/features/device_connection/battery_check/battery_check_bottom_sheet.dart2
+0x0039f76c	0		subscribedToMonitorLiveData
+0x003a031c	0		package:capsapps_sdk/bluetooth/service/firmware/firmware_update_service.dart2
+0x003a0494	0		SignPayloadTimeout
+0x003a07ec	0		package:caps_asset_management/src/presentation/asset_flow_context.dart
+0x003a0964	0		_checkIfWorldFullyLoaded@1231361434
+0x003a0d6c	0		package:capsapps_sdk/core/service/handlers/timeout_handler.dart
+0x003a137c	0		package:caps_snake_vs_block/src/snake_vs_block/systems/spawn/strategies/clear_blocks_strategy.dart
+0x003a171c	0		handleDrawFrame
+0x003a1a5c	0		Dodaj kolejny Triki
+0x003a1efc	0		package:caps_asset_management/src/presentation/init/asset_init_state.dart
+0x003a216c	0		ServiceWithCharacteristics
+0x003a25cc	0		DrawCommandBuilder.
+0x003a2d54	0		flutter_reactive_ble_method
+0x003a2e74	0		Failed to initialize CapsAppsSdk
+0x003a2ea4	0		Wakelock enabled successfully
+0x003a2f5c	0		firmwareUpdate_Required_StartButton
+0x003a3024	0		BatteryCheckState.checking(deviceId: 
+0x003a30ac	0		Algorithm live data processing timeout
+0x003a3144	0		FilledButtonThemeData
+0x003a31c4	0		_ToggleLedButton@673300305
+0x003a876c	0		package:caps_games_common/src/ui/game_over/widgets/score_table.dart
+0x003a886c	0		NotifyNoMoreCharacteristicRequest.
+0x003a8a4c	0		package:capsapps_sdk/bluetooth/infrastructure/adapters/ble_device_interactor.dart
+0x003a8ba4	0		registerSignPayload
+0x003a90b4	0		get:commands2
+0x003a95d4	0		SignPayloadException without requestId: 
+0x003a9724	0		&bigtriangledown;
+0x003a99a4	0		set:_trikiOpacity@13394307522
+0x003aa3ac	0		handleDragEnd
+0x003aaabc	0		canceled
+0x003aaea4	0		, characteristics: 
+0x003ab14c	0		recordDistanceTravelled
+0x003ab45c	0		InProgressFirmwareUpdateState
+0x003abb94	0		DfuEventHandler
+0x003abd64	0		Asset download failed: 
+0x003abe94	0		Your controller's firmware is too old to update. Please use a newer controller.
+0x003abfd4	0		Exists failed
+0x003ac354	0		package:capsapps_sdk/algorithms/common/entities/algorithm_result.dart
+0x003ac4e4	0		CapsTrikiImage
+0x003aca14	0		add must be called once.
+0x003ad144	0		_MobileSensorsBottomSheetFlowState@6872196872
+0x003ad83c	0		SubscribeToLiveDataState.
+0x003adb04	0		CharacteristicAddress._@1975234311
+0x003add54	0		package:caps_shake/src/world/base_game_world.dart
+0x003ade04	0		package:capsapps_sdk/core/types/connection/bluetooth_state_enum.dart2
+0x003ae15c	0		get:_firmwareService@1305240075
+0x003ae2ac	0		firmwareUpdate_NotSupported_Header
+0x003ae4c4	0		package:caps_snake_vs_block/src/snake_vs_block/overlays/overlays_controller.dart
+0x003aeebc	0		package:caps_toss_challenge/src/widget/toss_timer.dart
+0x003af02c	0		package:caps_asset_management/src/presentation/asset_loading_status.dart
+0x003afadc	0		set:servicesWithCharacteristicsToDiscover
+0x003b01ac	0		package:caps_endless_match/src/data/game_status_repository.dart
+0x003b0ed4	0		Phi Phi_approx abs acos acosh algebra_solver append_array append_col append_row asin asinh atan atan2 atanh bernoulli_cdf bernoulli_lccdf bernoulli_lcdf bernoulli_logit_lpmf bernoulli_logit_rng bernoulli_lpmf bernoulli_rng bessel_first_kind bessel_second_kind beta_binomial_cdf beta_binomial_lccdf beta_binomial_lcdf beta_binomial_lpmf beta_binomi...
+0x003b2584	0		package:caps_endless_match/src/component/background/background_logos_cubit.dart
+0x003b2724	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/snake/bloc/calculations/snake_history_interpolator.dart
+0x003b2a5c	0		BatteryCheckBatteryOk
+0x003b2f1c	0		Failed to read battery information
+0x003b388c	0		firmwareUpdate_NotSupported_ChangeDeviceButton
+0x003b3f84	0		qualifiedCharacteristicFrom
+0x003b416c	0		package:capsapps_bridge/src/presentation/onboarding/video/game_ob_bottom_section_widget.dart2
+0x003b4274	0		[NordicDfu:abortDfu] Warning: aborting all DFU processes on Android
+0x003b544c	0		PreparingFirmwareUpdateState2
+0x003b548c	0		WriteCharacteristicRequest
+0x003b58bc	0		set:characteristicUuid
+0x003b5c0c	0		package:flutter_reactive_ble/src/device_connector.dart
+0x003b5eac	0		DFU: 
+0x003b61d4	0		package:capsapps_sdk/algorithms/boxer/anticheat_validator_v2_9.dart
+0x003b6974	0		package:reactive_ble_platform_interface/src/model/write_characteristic_info.dart
+0x003b6a6c	0		ServiceWithCharacteristics.
+0x003b6a94	0		[^<\/\$\:'"-]\b(?:abs|accumulator\-(?:after|before)|adjust\-(?:date(?:Time)?|time)\-to\-timezone|analyze\-string|apply|available\-(?:environment\-variables|system\-properties)|avg|base\-uri|boolean|ceiling|codepoints?\-(?:equal|to\-string)|collation\-key|collection|compare|concat|contains(?:\-token)?|copy\-of|count|current(?:\-)?(?:date(?:Time)?...
+0x003b758c	0		Blue command sign payload execution failed for device 
+0x003b7614	0		battery_Low_ExitButton
+0x003b7ab4	0		get:verticalMetersTravelled
+0x003b7f8c	0		package:caps_games_common/src/ui/round_summary/default_round_summary_page.dart
+0x003b82a4	0		package:caps_toss_challenge/src/widget/miss_copy_resolver.dart
+0x003b82f4	0		package:caps_endless_match/src/component/ball/kicked_ball_cubit.dart2
+0x003b847c	0		LabeledGlobalKey
+0x003b865c	0		ledTest_Title
+0x003b8bfc	0		package:caps_endless_match/src/component/goal/endless_gatekeeper_animated_body.dart
+0x003b8c9c	0		alog alog10 amax0 amax1 amin0 amin1 amod cabs ccos cexp clog csin csqrt dabs dacos dasin datan datan2 dcos dcosh ddim dexp dint dlog dlog10 dmax1 dmin1 dmod dnint dsign dsin dsinh dsqrt dtan dtanh float iabs idim idint idnint ifix isign max0 max1 min0 min1 sngl algama cdabs cdcos cdexp cdlog cdsin cdsqrt cqabs cqcos cqexp cqlog cqsin cqsqrt dcmp...
+0x003b94fc	0		bluetoothPermissionDeniedPermanently2
+0x003b96a4	0		package:caps_endless_match/src/domain/common/difficulty_progression.dart
+0x003b9714	0		firmwareUpdate_Required_Message
+0x003b98a4	0		package:caps_snake_1_v_1/src/ui_overlay/setup_game/painters/snake_body_painter.dart
+0x003ba004	0		BatteryCheckCubit.
+0x003ba354	0		package:app/features/device_connection/firmware_update/firmware_update_cubit.dart
+0x003baa3c	0		enableDeltaModel
+0x003bab44	0		package:caps_endless_match/src/domain/world_generation/spawn_instruction.dart
+0x003baebc	0		package:caps_zp_ui/src/devices/device_list.dart
+0x003bb0fc	0		FirmwareUpdateService.
+0x003be25c	0		package:caps_snake_vs_block/src/snake_vs_block/systems/spawn/block_distribution_manager.dart2
+0x003be4dc	0		doesExceedMaxSignPayloadLength
+0x003be92c	0		DrawCommandBuilder
+0x003beb44	0		createNotifyCharacteristicRequest
+0x003bf25c	0		package:reactive_ble_platform_interface/src/model/connection_state_update.g.dart
+0x003bf374	0		Codec failed to produce an image, possibly due to invalid image data.
+0x003bf874	0		get:battery_Low_Message
+0x003c015c	0		get:selectionEnabled2
+0x003c09ec	0		createNotifyNoMoreCharacteristicRequest
+0x003c0ae4	0		_FirmwareNotSupportedBottomSheet@670504465
+0x003c1a44	1	00239e5c	readBatteryException2
+0x003c1b04	0		package:capsapps_sdk/algorithms/common/utils/calculations.dart
+0x003c1e74	0		invokeActionIfEnabled
+0x003c1fcc	0		package:caps_games_common/src/ui/assets/asset_svg_widget.dart
+0x003c20f4	0		LedTestButtonEvent
+0x003c2a4c	0		readyToSubscribeMonitorLiveData
+0x003c2db4	0		onFirmwareUploading
+0x003c33dc	0		LocaleDataException: 
+0x003c3694	0		HTTP request failed, statusCode: 
+0x003c372c	0		package:capsapps_sdk/bluetooth/service/discovery/device_discovery_filter.dart
+0x003c3824	0		package:caps_toss/src/widget/components/toss_top_frame_widget.dart
+0x003c3944	0		package:caps_shake/src/shake_game_cubit.dart2
+0x003c3be4	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/snake/system/snake_position_propagator.dart
+0x003c3c74	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/snake/bloc/snake_state.dart
+0x003c3f6c	0		package:caps_snake_vs_block/src/snake_vs_block/overlays/text_bonus/bonus_text_overlay.dart
+0x003c3fd4	0		package:caps_snake_1_v_1/src/core/audio/snake1v1_audio_listener.dart2
+0x003c40ac	0		addSemanticsEnabledListener
+0x003c5a0c	0		BleDeviceInteractor
+0x003c5a4c	0		package:caps_zp_ui/src/menus/contextual_menu.dart
+0x003c5e34	0		Failed to stop all sounds: 
+0x003c6164	0		get:enabled
+0x003c61dc	0		package:caps_zp_ui/src/buttons/link_button.dart
+0x003c62bc	0		SignPayloadException for requestId 
+0x003c760c	0		Uuid.
+0x003c7c64	0		_handleDragHandleHover@331001611
+0x003c7d34	0		gameOnboarding_Error_LoadFailed
+0x003c81a4	0		get:goalFailed
+0x003c821c	0		package:caps_snake_vs_block/src/snake_vs_block/systems/spawn/spawners/orb_spawner.dart
+0x003c835c	0		package:capsapps_sdk/algorithms/tilt/kalman_filter/decomposition_solver.dart2
+0x003c874c	0		fileLoadFailed
+0x003c87bc	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/pickup/components/add_time_pickup.dart
+0x003c8ec4	0		package:caps_snake_1_v_1/src/core/flame_game/game_livecycle_controller.dart
+0x003c8f7c	0		 validation failed: 2
+0x003c8fd4	0		&circledS;
+0x003c90ac	0		package:caps_snake_vs_block/src/snake_vs_block/overlays/game_hud/level_hud_overlay.dart
+0x003c91a4	0		package:caps_boxer/src/domain/punch_result.dart
+0x003c920c	0		sensorsAlways
+0x003c9284	0		Invalid firmware semver version: 
+0x003c9664	0		package:capsapps_sdk/algorithms/tilt/kalman_filter/process_kalman_model.dart2
+0x003c97fc	0		InitPlaySessionResponsePayloadSizeException
+0x003c9e34	0		package:caps_snake_1_v_1/src/caps_snake_1_v_1_game.dart
+0x003ca0bc	0		requestSignSession callback enabled
+0x003ca4c4	0		package:caps_asset_management/src/presentation/init/asset_init_cubit.dart
+0x003ca924	0		package:capsapps_sdk/algorithms/algorithm_factory.dart
+0x003ca9cc	0		MobileSensorsState.
+0x003caf5c	0		FirmwareAssetEntry
+0x003cb4cc	0		connectionFailedScreen
+0x003cb4f4	0		CharacteristicAddress
+0x003cb51c	0		package:caps_snake_1_v_1/src/ui_overlay/snake_1_v_1_active_overlay.dart
+0x003cbdac	0		Failed to send event: 
+0x003cc19c	0		NordicDfu._internal@1493463081
+0x003cc23c	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/snake/snake_provider.dart
+0x003cc3bc	0		getBatteryStatus
+0x003cc424	1	0023a52c	Preparing task failed: 
+0x003cc904	0		BluetoothNoAccessBottomSheet2
+0x003cca84	0		The request was manually cancelled by the user.
+0x003ccb24	0		package:caps_games_common/src/flame/caps_asset_access.dart
+0x003ccba4	0		CloseCommand2
+0x003ccd24	0		bluetoothDisabled
+0x003cce14	0		createReadCharacteristicRequest
+0x003cce44	0		package:caps_toss_challenge/src/widget/cap_throw_animation.dart
+0x003cce94	0		package:caps_snake_vs_block/src/snake_vs_block/snake_vs_block_game.dart
+0x003cd00c	0		_trikiOpacity@1339430752
+0x003cd344	0		package:capsapps_sdk/bluetooth/service/connection/bluetooth_connection_service.dart
+0x003cd964	0		A null pointer was captured on the C++ side. This could happen when passing a non initialized pointer (with calloc()) to retrieve FFT or wave data. Or, setVisualization has not been enabled.
+0x003cda6c	0		Invalid response line, failed to parse HTTP version
+0x003cdb1c	0		package:capsapps_bridge/src/presentation/game/orchestration/round_manager.dart
+0x003cdd34	0		BatteryCheckStatePatterns|mapOrNull
+0x003cde44	0		_trikiSlide@1339430752
+0x003cdebc	0		FirmwareNotSupportedState
+0x003cdf64	0		_batteryStatusCharUuid@1468105895
+0x003ce2dc	0		package:caps_snake_vs_block/src/snake_vs_block/systems/spawn/strategies/corridor_strategy.dart
+0x003ce384	0		packetReceiptNotificationsEnabled
+0x003ce4d4	0		package:capsapps_sdk/algorithms/base_algorithm/base_algorithm.dart
+0x003ce684	0		package:caps_endless_match/src/config/endless_match_assets.dart
+0x003ce94c	0		package:caps_snake_vs_block/src/snake_vs_block/components/blocks/number_block.dart
+0x003cec24	0		$_setSignedInt32
+0x003cee5c	0		Please set "hierarchicalLoggingEnabled" to true if you want to change the level on a non-root logger.
+0x003cef2c	0		package:caps_boxer/src/ui_overlay/setup_game/player_setup/bloc/player_setup_cubit.dart
+0x003cf0e4	0		package:caps_snake_1_v_1/src/ui_overlay/common/snake1v1_gradient_card.dart
+0x003cf1a4	0		disabledMouseCursor
+0x003cf294	0		readInto failed
+0x003cf354	0		package:caps_shake/src/components/helpers/debug_grid.dart
+0x003cf82c	0		package:caps_snake_vs_block/src/snake_vs_block/components/snake/snake.dart
+0x003cfc14	0		package:capsapps_sdk/algorithms/base_algorithm/algorithms_imports.dart
+0x003cffe4	0		accelerometerAndGyroscope
+0x003d005c	0		handled internally
+0x003d0144	0		DisabledLoggerEmitter
+0x003d057c	0		package:caps_boxer/src/feature/active_game/widget/boxer_background_widget.dart
+0x003d0614	0		package:caps_shake/src/mixins/sized.dart
+0x003d0bcc	0		package:capsapps_sdk/algorithms/shake/shake_force.dart
+0x003d0c9c	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/snake/models/snake_config.dart
+0x003d1734	0		package:caps_boxer/src/core/bloc/boxer_statistics_tracker.dart
+0x003d1a34	0		package:capsapps_sdk/algorithms/toss_algorithm/toss_score_rounding.dart
+0x003d1ffc	0		package:caps_test_games/src/tilt_vertical/tilt_vertical_test_page.dart
+0x003d24a4	0		package:caps_snake_1_v_1/src/core/flame_game/overlay_controller.dart2
+0x003d24f4	0		init:_scaledDiscountFromLinrgb@1871253021
+0x003d267c	0		TrikiBottomSheetBackground
+0x003d2744	0		, serviceUuids: 
+0x003d2bdc	0		package:caps_endless_match/src/component/pickup/ball_pickup_cubit.dart
+0x003d2eec	0		package:capsapps_sdk/core/types/common/device_id_with_value.dart
+0x003d3574	0		package:capsapps_bridge/src/app_bridges/game_device_connection/game_device_connection_state.dart
+0x003d35fc	0		get:characteristics
+0x003d3704	0		package:caps_endless_match/src/component/background/background_grid_lines.dart
+0x003d3a34	0		bluetoothSwitchedOff2
+0x003d3b24	0		package:capsapps_bridge/src/app_bridges/mobile_sensors/mobile_sensors_bridge.dart
+0x003d3d34	0		break cd continue eval exec exit export getopts hash pwd readonly return shift test times trap umask unset alias bind builtin caller command declare echo enable help let local logout mapfile printf read readarray source type typeset ulimit unalias set shopt autoload bg bindkey bye cap chdir clone comparguments compcall compctl compdescribe compf...
+0x003d426c	0		Error checking firmware file at 
+0x003d4ecc	0		Assertion failed
+0x003d5024	0		ignoreBatteryOptimizations
+0x003d6c7c	0		accept_on alias always always_comb always_ff always_latch and assert assign assume automatic before begin bind bins binsof bit break buf|0 bufif0 bufif1 byte case casex casez cell chandle checker class clocking cmos config const constraint context continue cover covergroup coverpoint cross deassign default defparam design disable dist do edge el...
+0x003d747c	0		_linrgbFromScaledDiscount@18712530212
+0x003d767c	0		\b(ARRAY_AGG|AVG|BIT_AND|BIT_OR|BOOL_AND|BOOL_OR|COUNT|EVERY|JSON_AGG|JSONB_AGG|JSON_OBJECT_AGG|JSONB_OBJECT_AGG|MAX|MIN|MODE|STRING_AGG|SUM|XMLAGG|CORR|COVAR_POP|COVAR_SAMP|REGR_AVGX|REGR_AVGY|REGR_COUNT|REGR_INTERCEPT|REGR_R2|REGR_SLOPE|REGR_SXX|REGR_SXY|REGR_SYY|STDDEV|STDDEV_POP|STDDEV_SAMP|VARIANCE|VAR_POP|VAR_SAMP|PERCENTILE_CONT|PERCENTIL...
+0x003d877c	0		serviceUuid
+0x003d882c	0		package:caps_snake_vs_block/src/snake_vs_block/systems/analytics/orb_analytics.dart
+0x003d9a0c	0		package:capsapps_sdk/core/shared/exceptions/core_exceptions.dart
+0x003d9adc	0		CharacteristicValueInfo._@19752343112
+0x003d9d3c	0		init:_onLoadFuture@8690909202
+0x003da104	0		package:caps_zp_common/src/uuid.dart2
+0x003da90c	0		package:capsapps_sdk/utils/stream_utils.dart2
+0x003db4e4	0		tossChallenge_Title_Triki
+0x003dbb04	0		Failed to start data streaming
+0x003dbdd4	0		MobileSensorsCubit.
+0x003dc19c	0		package:capsapps_sdk/bluetooth/service/discovery/filters/dfu_mode_filter.dart
+0x003dc32c	0		FirmwareUpdateCubit
+0x003dc45c	0		_isMatchingCharacteristic@14433300772
+0x003dc774	0		get:shake_DistanceTraveled
+0x003dcd94	0		firmwareUpdate_InProgress_Message
+0x003dd41c	0		Wakelock disable failed with unexpected error
+0x003dd57c	0		Failed to decode data using encoding 'utf-8'2
+0x003dd824	0		package:caps_zp_ui/src/bottom_sheet/common_initializing_content.dart2
+0x003ddad4	0		package:caps_asset_management/src/data/assets/loader/asset_loader.dart
+0x003ddc44	0		No Bluetooth access
+0x003ddda4	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/bloc/blocked_positions_registry_cubit.dart
+0x003ddeac	0		SoLoudReadSamplesFailedToReadPcmFramesCppException
+0x003de1d4	0		_handleDragUpdate@180019050
+0x003de2c4	0		(characteristicId: 
+0x003de3f4	0		package:caps_endless_match/src/domain/world_generation/occupancy.dart
+0x003de46c	0		package:capsapps_sdk/algorithms/toss_algorithm/toss_end_detection.dart
+0x003de894	0		Failed to decode data using encoding '
+0x003deaac	0		package:caps_endless_match/src/domain/world/ball_information_manager.dart
+0x003def2c	0		package:caps_endless_match/src/component/goal/goal_side_strip_component.dart2
+0x003df19c	0		package:capsapps_sdk/algorithms/steer_rotation/rotation_result.dart
+0x003df6bc	0		package:caps_boxer/src/feature/active_game/boxer_in_progress_screen.dart
+0x003df744	0		get:gameOverScheduled
+0x003e003c	0		_UuidParseFailure@14623247142
+0x003e0424	0		CharacteristicValueUpdateError.
+0x003e077c	0		requestSignSession callback disabled2
+0x003e098c	0		Initialization failed. Probably an unsupported format.
+0x003e0e5c	0		_handleSelectionEndHandleDragUpdate@202111801
+0x003e110c	0		package:caps_asset_management/src/presentation/download/orchestration/session/download_queue.dart
+0x003e1464	0		_scaledDiscountFromLinrgb@18712530212
+0x003e16ec	0		$_COOKIE $_FILES $_GET $_GET_BINARY $_GET_RAW $_POST $_POST_BINARY $_POST_RAW $_SESSION $_SERVER codepoint codepoints segment segments codeunit codeunits sentence sentences trueWord trueWords paragraph after byte bytes english the until http forever descending using line real8 with seventh for stdout finally element word words fourth before blac...
+0x003e1d4c	0		SendCommandException2
+0x003e2294	0		package:caps_toss_challenge/src/widget/toss_waiting_for_throw.dart
+0x003e26ec	0		get:bluetoothService2
+0x003e27fc	0		NotifyNoMoreCharacteristicRequest._@1975234311
+0x003e2bac	0		package:caps_snake_vs_block/src/snake_vs_block/systems/time/game_time_controller.dart
+0x003e2cec	0		package:caps_snake_1_v_1/src/core/events/component_loaded_event.dart2
+0x003e2d4c	0		package:caps_games_common/src/collision/identifiable.dart
+0x003e361c	0		Failed to download game files
+0x003e3684	0		package:reactive_ble_mobile/src/generated/bledata.pb.dart
+0x003e3a54	0		Subscribed to LiveData, and let search and connect again
+0x003e3ac4	0		DFU: primary startDfu rejected after retry kickoff; awaiting retry handler events
+0x003e46e4	0		int float while private char char8_t char16_t char32_t catch import module export virtual operator sizeof dynamic_cast|10 typedef const_cast|10 const for static_cast|10 union namespace unsigned long volatile static protected bool template mutable if public friend do goto auto void enum else break extern using asm case typeid wchar_tshort reinter...
+0x003e51cc	0		package:caps_snake_vs_block/src/snake_vs_block/systems/extra_effects/slow_down_orchestrator.dart
+0x003e53d4	0		initEventFetchFailed2
+0x003e5594	0		get:firmwareUpdate_InProgressFromSearch_Message
+0x003e55ec	0		package:caps_games/src/get_game_assets.dart
+0x003e57d4	0		InitPlaySessionBluetoothCommandExecution
+0x003e5c4c	0		get:remoteAssetsFlow_Error_AssetDownloadFailedMessage
+0x003e615c	0		SubscribeToLiveDataState
+0x003e62d4	0		package:app/features/device_connection/led_test/led_test_bottom_sheet.dart
+0x003e6404	0		_handleStartHandleDragEnd@202111801
+0x003e6a2c	0		package:caps_endless_match/src/domain/world_generation/chunk/chunk_coord.dart
+0x003e7054	0		package:caps_toss_challenge/src/widget/toss_background.dart
+0x003e713c	0		_onGameOverScheduled@934062859
+0x003e73c4	0		alias audit before loglevel noop require subscribe tag owner ensure group mode name|0 changes context force incl lens load_path onlyif provider returns root show_diff type_check en_address ip_address realname command environment hour monute month monthday special target weekday creates cwd ogoutput refresh refreshonly tries try_sleep umask backu...
+0x003e7e5c	0		package:caps_endless_match/src/component/player/endless_player.dart
+0x003e827c	0		Deletion failed
+0x003e85cc	0		package:caps_shake/src/components/rocket.dart
+0x003e88c4	0		failedToConnect
+0x003e8aec	0		executeSignPayload
+0x003e92d4	0		TrikiDeviceNameFilter
+0x003e94ec	0		package:capsapps_bridge/src/presentation/game/orchestration/game_input_mapper.dart
+0x003e9eb4	0		Failed to resolve firmware path (attempt 
+0x003ea36c	0		Getting current working directory failed
+0x003ea88c	0		package:caps_shake/src/systems/camera/camera_follow_target.dart
+0x003eab9c	0		package:capsapps_bridge/src/utils/game_rules_assets_ext.dart2
+0x003eb984	0		package:capsapps_bridge/src/presentation/game/game_overlay/game_countdown_overlay_widget.dart
+0x003ebb74	0		Download plan: firmwares=
+0x003ebc84	0		inline no_inline type_spec source_file fact_table obsolete memo loop_check minimal_model terminates does_not_terminate check_termination promise_equivalent_clauses foreign_proc foreign_decl foreign_code foreign_type foreign_import_module foreign_export_enum foreign_export foreign_enum may_call_mercury will_not_call_mercury thread_safe not_thread...
+0x003ec62c	0		get:serviceUuids
+0x003ec664	0		package:caps_boxer/src/domain/best_score.dart
+0x003ec924	0		enabled
+0x003ec99c	0		Server error - the server failed to fulfil an apparently valid request
+0x003eceec	0		package:caps_endless_match/src/domain/analytics_manager.dart2
+0x003ed8dc	0		package:caps_zp_ui/src/buttons/internal/button_rebuild_on_resume.dart
+0x003edae4	0		DFU: Starting firmware update for device 
+0x003edb8c	0		Failed to send command to device
+0x003eddac	0		SearchThrottlingTimeoutService: Throttling timeout expired, sending bluetoothReady to recover
+0x003ede4c	0		singleDigitHourFormat
+0x003edf9c	0		initPlaySessionResponsePayloadSize
+0x003ee0dc	0		Expected a path command
+0x003eebbc	0		_cancelEditing@799267894
+0x003eec14	0		length failed
+0x003eec54	0		Initialize BLE platform
+0x003eeea4	0		BluetoothService
+0x003ef05c	0		_measurementBuffer@1411034922
+0x003ef194	0		package:caps_zp_ui/src/custom/zp_smile_widget.dart
+0x003ef78c	0		package:caps_toss/src/widget/toss_game_widget.dart
+0x003ef94c	0		activateMonitoringLiveDataException
+0x003efaf4	0		isDebugTossEnabled
+0x003f0064	0		assertion failed
+0x003f067c	0		package:caps_asset_management/src/presentation/download/orchestration/session/download_tracker/download_tracker.dart2
+0x003f08b4	0		package:caps_boxer/src/feature/active_game/widget/player_with_round_bottom_widget.dart
+0x003f0be4	0		Getting processed live data stream for device: 
+0x003f0cac	0		BIGINT INT8 BIGSERIAL SERIAL8 BIT VARYING VARBIT BOOLEAN BOOL BOX BYTEA CHARACTER CHAR VARCHAR CIDR CIRCLE DATE DOUBLE PRECISION FLOAT8 FLOAT INET INTEGER INT INT4 INTERVAL JSON JSONB LINE LSEG|10 MACADDR MACADDR8 MONEY NUMERIC DEC DECIMAL POINT POLYGON REAL FLOAT4 SMALLINT INT2 SMALLSERIAL|10 SERIAL2|10 SERIAL|10 SERIAL4|10 TEXT TIME ZONE TIMET...
+0x003f0fdc	0		package:caps_shake/src/components/top_mountains/top_mountain_5.dart
+0x003f106c	0		Failed!
+0x003f1694	0		package:caps_asset_management/src/data/manifest/manifest_repository.dart
+0x003f1954	0		package:caps_endless_match/src/component/goal/goal_collision_gate.dart
+0x003f1b14	0		package:reactive_ble_mobile/src/select_from.dart
+0x003f1bec	0		Assertion failed: 
+0x003f1d3c	0		SignPayloadException occurred: 
+0x003f2094	0		package:caps_endless_match/src/data/world/ball_information_repository.dart
+0x003f23bc	0		package:app/features/device_connection/battery_check/battery_check_cubit.dart
+0x003f246c	0		package:capsapps_sdk/bluetooth/service/firmware/firmware_state.dart
+0x003f276c	0		_$BatteryCheckState@629498949
+0x003f27e4	0		Failed to load video2
+0x003f2aec	0		bluetoothPermissionDeniedRestricted
+0x003f2d24	0		WriteCharacteristicRequest.
+0x003f2e84	0		LedTestScreenOpenEvent
+0x003f36ec	0		package:capsapps_sdk/bluetooth/service/device/device_command_service.dart
+0x003f3a7c	0		commands
+0x003f3a94	0		package:caps_shake/src/components/helpers/world_bounds.dart
+0x003f3b4c	0		debugPrintThrottled
+0x003f3c14	0		package:caps_endless_match/src/config/endless_match_component_sizes.dart
+0x003f4154	0		payloadSizeExceeded
+0x003f4174	0		Invalid firmware version format: 
+0x003f435c	0		package:caps_shake/src/systems/overlays/ui/fuel_bar.dart
+0x003f456c	0		CapsAppsSdk
+0x003f4994	0		get:ledTest_NoLight_Part1
+0x003f4cdc	0		true false nullptr NULL DIGITAL_MESSAGE FIRMATA_STRING ANALOG_MESSAGE REPORT_DIGITAL REPORT_ANALOG INPUT_PULLUP SET_PIN_MODE INTERNAL2V56 SYSTEM_RESET LED_BUILTIN INTERNAL1V1 SYSEX_START INTERNAL EXTERNAL DEFAULT OUTPUT INPUT HIGH LOW
+0x003f50dc	0		signPayloadTimeoutException
+0x003f5164	0		scaled
+0x003f56c4	0		synIDtrans atan2 range matcharg did_filetype asin feedkeys xor argv complete_check add getwinposx getqflist getwinposy screencol clearmatches empty extend getcmdpos mzeval garbagecollect setreg ceil sqrt diff_hlID inputsecret get getfperm getpid filewritable shiftwidth max sinh isdirectory synID system inputrestore winline atan visualmode inputl...
+0x003f6224	0		_throwLocalAssignedDuringInitialization@10040228
+0x003f6384	0		_TossEndDetection|_analyzeMeasurementToDetectTossEnd@1411034922
+0x003f7444	0		_handleDone@5048458
+0x003f7724	0		package:flutter_reactive_ble/src/connected_device_operation.dart
+0x003f7b8c	0		package:caps_games_common/src/collision/game_object_type.dart
+0x003f806c	0		# How to turn Triki on and off?
+0x003f808d	0		Press the cap casing to turn it on. The LED should flash once. Hold the casing for 3 seconds to turn the device off.
+0x003f8103	0		# Can't see your cap on the list or its LED doesn't light up when you press the casing?
+0x003f8226	0		Turn the cap off and on to disconnect it from other phones. You can also disconnect the device in Bluetooth settings.
+0x003f875c	0		package:caps_shake/src/flame_utils/assets_builder.dart
+0x003f8b0c	0		package:caps_toss/src/widget/center_area/toss_in_progress.dart
+0x003f8f44	0		flutter_reactive_ble_char_update
+0x003f955c	0		package:caps_test_games/src/test_algorithm_session.dart
+0x003f95dc	0		sound_enabled
+0x003f9f0c	0		computeUnmangledName2
+0x003f9f2c	0		package:caps_endless_match/src/ui_overlay/hud/hud_shield_indicator.dart
+0x003fa134	0		package:caps_shake/src/shake_game.dart
+0x003fa594	0		get:absoluteScaledSize
+0x003fa7ec	0		DrawCommand
+0x003fab1c	0		Sign payload failed to acquire lock: 
+0x003fabdc	0		FirmwareState.
+0x003fabfc	0		NotifyCharacteristicRequest
+0x003faed4	0		get:isSecurityFeatureEnabled2
+0x003fb024	0		package:reactive_ble_platform_interface/src/model/connection_state_update.dart
+0x003fb22c	0		CharacteristicsUpdateService.
+0x003fb2bc	0		isInDfuMode
+0x003fb354	0		Failed to get firmware version from device
+0x003fb4b4	0		package:caps_games/src/caps_game_factory.dart
+0x003fb69c	0		Bluetooth permission granted - resetting denial counter
+0x003fb7c4	0		package:caps_endless_match/src/component/pickup/coin.dart
+0x003fbebc	0		package:app/features/device_connection/permissions/bluetooth_permissions/blue_permissions_bottom_sheet.dart
+0x003fc1b4	0		package:capsapps_sdk/bluetooth/service/discovery/discovered_device_aggregator.dart
+0x003fc32c	0		handled
+0x003fc4a4	0		_performThrottledJump@1152077122
+0x003fc4f4	0		ResolvedFirmwarePair2
+0x003fc514	0		_getVisualizationEnabledPtr@1604500395
+0x003fc854	0		FirmwareUpdateService
+0x003fc9c4	0		package:caps_asset_management/src/data/assets/game_assets.dart
+0x003fca14	0		SoLoudFailedToDecodeOpusPacketCppException
+0x003fcaf4	0		startMonitorLiveData2
+0x003fcb14	0		init:_getVisualizationEnabled@1604500395
+0x003fcde4	0		addion cfunc cmd cmpopt comfunc const defcfunc deffunc define else endif enum epack func global if ifdef ifndef include modcfunc modfunc modinit modterm module pack packopt regcmd runtime undef usecom uselib
+0x003fd0fc	0		init:_transformCommand@2020062824
+0x003fd36c	0		_mapMobileSensorsState@669019992
+0x003fd52c	0		LedTestCubit2
+0x003fd7ac	0		package:caps_games_common/src/flame/caps_flame_game.dart
+0x003fd934	0		package:caps_shake/src/components/weather/rain_effect.dart
+0x003fdacc	0		package:caps_networking/src/data/retry_interceptor.dart
+0x003fdd94	0		package:caps_snake_1_v_1/src/components/arena/listeners/arena_event_listener.dart
+0x003fe57c	0		package:caps_snake_vs_block/src/snake_vs_block/systems/score/game_score_controller.dart
+0x003fe8e4	0		Verification failed
+0x003fef7c	0		CapsAppScaffoldOverlayState
+0x003ff154	0		bluetoothError
+0x003ff434	0		FirmwareState
+0x003ff51c	0		package:capsapps_sdk/algorithms/steer_rotation/rotation_speed_with_button_algorithm.dart
+0x003ffa1c	0		get:firmwareService
+0x003ffda4	0		package:caps_zp_ui/src/text/text.dart
+0x003ffddc	0		forceScanningForNewAddressInLegacyDfu
+0x0040006c	0		cleanUp() called
+0x004004cb	0		The clone() method of a previously-disposed Image was called. Once an Image object has been disposed, it can no longer be used to create handles, as the underlying data may have been released.
+0x0040069c	0		confirmAllPlayersAdded must be called with at least one player
+0x00400724	0		package:caps_boxer/src/ui_overlay/boxer_game_summary_page.dart
+0x00400d9c	0		RecycledQueue
+0x00400f24	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/pickup/models/pickup_type.dart
+0x0040101c	0		package:caps_snake_1_v_1/src/core/bloc/snake1v1_game_cubit.dart
+0x00401194	0		bluetoothPermissionDenied
+0x004019b4	0		package:caps_shake/src/components/mountains/mountain_3.dart
+0x00401c74	0		DownloadFailed
+0x00401dec	0		Initializing CapsAppsSdk...
+0x00401f74	0		Firmware update stream error for device 
+0x00402084	0		AASTriangle AbelianGroup Abort AbortKernels AbortProtect AbortScheduledTask Above Abs AbsArg AbsArgPlot Absolute AbsoluteCorrelation AbsoluteCorrelationFunction AbsoluteCurrentValue AbsoluteDashing AbsoluteFileName AbsoluteOptions AbsolutePointSize AbsoluteThickness AbsoluteTime AbsoluteTiming AcceptanceThreshold AccountingForm Accumulate Accura...
+0x004196f4	0		_batteryServiceUuid@1468105895
+0x00419994	0		Powerup Pickup Enabled
+0x00419aa4	0		Failed to sign payload for device 
+0x00419e44	0		initialConnectionBatteryCheck
+0x00419ff4	0		package:caps_endless_match/src/component/ball/kicked_ball.dart
+0x0041a0d4	0		get:characteristic
+0x0041a104	0		Battery status for device 
+0x0041a12c	0		_scheduleDismissTooltip@429220820
+0x0041a20c	0		_handleStartHandleDragStart@202111801
+0x0041a75c	0		package:capsapps_sdk/algorithms/common/utils/circular_buffer.dart
+0x0041a9e4	0		Sign payload completed: 
+0x0041acdc	0		package:reactive_ble_platform_interface/src/model/scan_mode.dart
+0x0041b644	0		package:caps_endless_match/src/domain/active_effects_manager.dart
+0x0041b694	0		VectorGraphicsDecodeException: Failed to decode vector graphic from 2
+0x0041be6c	0		_handleDragUpdate@443053933
+0x0041be94	0		Failed to find valid position for 
+0x0041c1cc	0		SensorsFrequencyOdr.2
+0x0041c494	0		WriteCharacteristicFailure
+0x0041d224	0		Measurement|getXYZAngularSpeed
+0x0041d454	0		package:capsapps_sdk/caps_apps_sdk.dart
+0x0041d84c	0		createWriteCharacteristicRequest
+0x0041da34	0		package:caps_endless_match/src/core/flame_game/camera_vignette_component.dart
+0x0041db2c	0		\b(BIGINT|INT8|BIGSERIAL|SERIAL8|BIT|VARYING|VARBIT|BOOLEAN|BOOL|BOX|BYTEA|CHARACTER|CHAR|VARCHAR|CIDR|CIRCLE|DATE|DOUBLE|PRECISION|FLOAT8|FLOAT|INET|INTEGER|INT|INT4|INTERVAL|JSON|JSONB|LINE|LSEG|MACADDR|MACADDR8|MONEY|NUMERIC|DEC|DECIMAL|PATH|POINT|POLYGON|REAL|FLOAT4|SMALLINT|INT2|SMALLSERIAL|SERIAL2|SERIAL|SERIAL4|TEXT|TIME|ZONE|TIMETZ|TIMES...
+0x0041e41c	0		Sign session failed to acquire lock: 
+0x0041eb94	0		package:capsapps_sdk/algorithms/toss_algorithm/toss_score_analysis.dart
+0x0041f1a4	0		package:nordic_dfu/src/dfu_event_handler.dart
+0x0041f4dc	0		ResolvedFirmwareAsset
+0x0041f584	0		get:tossChallenge_Failed
+0x0041f604	0		get:permissions_Bluetooth_Disabled_Header
+0x0041ff2c	0		CapsAppScaffoldOverlayState.2
+0x00420164	0		Firmware file not found at path: 
+0x00420444	0		_drawImageScaledAndCentered@391490068
+0x004204c4	0		Stopping listening to processed live data for device 
+0x0042099c	0		package:capsapps_bridge/src/presentation/game/orchestration/time_operations_coordinator.dart2
+0x00420ac4	0		_handleDisconnectedState@1509179881
+0x00420cbc	0		package:caps_snake_vs_block/src/snake_vs_block/background/scrolling_rain_layer.dart
+0x0042138c	0		set:_throttledPush@2104370832
+0x0042153c	0		package:capsapps_sdk/algorithms/steer_rotation/rotation_speed_only_no_low_pass_algorithm.dart
+0x004216bc	0		package:capsapps_sdk/algorithms/toss_algorithm/plateau.dart
+0x00421d74	0		package:capsapps_bridge/src/presentation/game/game_overlay/pause/active_pause_state.dart
+0x00421e4c	0		\b(whitespace|wait|w-resize|visible|vertical-text|vertical-ideographic|uppercase|upper-roman|upper-alpha|underline|transparent|top|thin|thick|text|text-top|text-bottom|tb-rl|table-header-group|table-footer-group|sw-resize|super|strict|static|square|solid|small-caps|separate|se-resize|scroll|s-resize|rtl|row-resize|ridge|right|repeat|repeat-y|rep...
+0x00422514	0		Failed to start DFU mode
+0x00422944	0		_transformCommand@20200628242
+0x00422994	0		handleDisconnection
+0x00422abc	0		package:capsapps_bridge/src/presentation/game/game_session_widget.dart
+0x00422b94	0		Failed to update Triki
+0x00422eb4	0		_subscribeMonitorCharacteristicStream@1466197479
+0x00423164	0		package:caps_snake_vs_block/src/snake_vs_block/systems/leveling/spawn_level_config.dart
+0x004237b4	0		package:caps_boxer/src/feature/active_game/widget/eq/single_stage_widget.dart
+0x004246e4	0		_toRadixStringUnsigned@1546302436
+0x00424b5c	0		get:_floatingLabelEnabled@374019562
+0x00424bb4	0		package:caps_boxer/src/core/bloc/boxer_game_cubit.dart
+0x00424c24	0		_TrikiGlowBottom@1349154227
+0x00424d94	0		MobileSensorsBridge
+0x004250cc	0		_handleDragDown@180019050
+0x0042516c	0		package:caps_endless_match/src/ui_overlay/hud/endless_match_hud_overlay.dart2
+0x00425454	0		LedTestBottomSheet
+0x00425684	0		scrolledUnder
+0x004256cc	0		_getVisualizationEnabled@1604500395
+0x004257cc	0		ReadBatteryException2
+0x00425a54	0		package:caps_endless_match/src/data/world/tracked_objectives_repository.dart2
+0x00425bdc	0		package:caps_snake_1_v_1/src/system/time_effect/snake_timed_effect_manager.dart
+0x00425cec	0		get:framesEnabled
+0x00425e3c	0		package:caps_endless_match/src/common/player_collision.dart
+0x00426554	0		package:caps_zp_ui/src/buttons/secondary_button.dart2
+0x004265c4	0		battery_Low_Message
+0x0042663c	0		SignPayloadBluetoothCommandExecution2
+0x0042689c	0		package:caps_shake/src/systems/spawning/spawn_boundary.dart
+0x00426a14	0		_TrikiGlowTop@1349154227
+0x00426a5c	0		package:caps_snake_1_v_1/src/core/analytics/snake1v1_analytics_service.dart
+0x00426c1c	0		Connecting to Triki
+0x00426da4	0		package:caps_endless_match/src/domain/world/player_information_manager.dart
+0x00426fac	0		CubicToCommand(
+0x004272cc	0		package:caps_snake_vs_block/src/snake_vs_block/components/orb/power_up_orb.dart
+0x004274c4	0		SignPayloadDeviceNoActiveConnectionException2
+0x00427604	0		disableSignPayloadCallback
+0x004276a4	0		, transitioning to cancelledConnection
+0x004276f4	0		permissions_Bluetooth_Disabled_iOS_Message
+0x00427754	0		get:bluetoothStateSubject
+0x004278bc	0		package:caps_boxer/src/ui_overlay/setup_game/boxer_setup_game_data.dart
+0x00427b9c	0		firmwareAssetEntryB
+0x00427c7c	0		package:caps_boxer/src/feature/active_game/widget/boxer_top_score_widget.dart
+0x00427cdc	0		signPayload callback enabled2
+0x00427fe4	0		Connection failed
+0x00428194	0		ledTest_NoLight_Part1
+0x0042846c	0		addFuel
+0x004291a4	0		visualizationNotEnabled
+0x00429f9c	0		_scaledPadding@357256481
+0x0042a754	0		getBatteryLevel
+0x0042a774	0		package:app/features/device_connection/firmware_update/firmware_update_bottom_sheet.dart
+0x0042b08c	0		Failed to acquire lock: another operation in progress
+0x0042b214	0		MobileSensorsBridgeImpl
+0x0042b7e4	0		This ticker was canceled: 
+0x0042b8b4	0		package:caps_endless_match/src/component/goal/endless_gatekeeper.dart
+0x0042ba34	0		package:capsapps_sdk/algorithms/toss_algorithm/toss_result.dart
+0x0042bac4	0		get:battery_Low_StartButton
+0x0042bc14	0		package:caps_zp_ui/src/pages/caps_no_transition_page.dart
+0x0042bc84	0		package:caps_boxer/src/ui_overlay/setup_game/player_setup/setup_player_screen.dart
+0x0042bce4	0		Creation failed
+0x0042c524	0		_FilledTonalIconButtonDefaultsM3@365331726
+0x0042c63c	0		package:capsapps_sdk/bluetooth/service/discovery/filters/triki_device_name_filter.dart
+0x0042caf4	0		package:reactive_ble_platform_interface/src/model/characteristic_value.dart
+0x0042cd94	0		SoLoudVisualizationNotEnabledException
+0x0042d60c	0		self other all noone global local undefined pointer_invalid pointer_null path_action_stop path_action_restart path_action_continue path_action_reverse true false pi GM_build_date GM_version GM_runtime_version  timezone_local timezone_utc gamespeed_fps gamespeed_microseconds  ev_create ev_destroy ev_step ev_alarm ev_keyboard ev_mouse ev_collision...
+0x0043053c	0		_NamedRestorationInformation@146124995.fromSerializableData
+0x00430674	0		permissions_Bluetooth_Disabled_Message
+0x00430704	0		Vyhledat
+0x004307b4	0		FirmwarePreloadError2
+0x00430a4c	0		cancelledConnection
+0x00430e0c	0		package:caps_toss/src/widget/components/toss_colored_asset.dart
+0x00430e5c	0		_onLoadFuture@869090920
+0x0043111c	0		Failed to start data streaming for device 
+0x0043126c	0		_bubbleDown@1026248
+0x004314dc	0		DeviceCommandService2
+0x00431784	0		package:caps_snake_vs_block/src/snake_vs_block/caps_steer_game.dart
+0x00431d7c	0		package:caps_games_common/src/ui/debug_toss_overlay_widget.dart
+0x00431dcc	0		package:capsapps_bridge/src/app_bridges/game_device_connection/game_device_bridge.dart
+0x004323e4	0		package:caps_shake/src/components/flag.dart
+0x004324dc	0		package:caps_asset_management/src/data/disk_space_checker.dart
+0x004326ac	0		CapsHttpCancelledException
+0x00432be4	0		&blacktriangledown;
+0x00432c04	0		package:capsapps_bridge/src/native_integration/operations/operation_lock.dart
+0x00432c94	0		activateDeviceMonitoringLiveData
+0x00432f4c	0		\b(?:state_(?:entry|exit)|touch(?:_(?:start|end))?|(?:land_)?collision(?:_(?:start|end))?|timer|listen|(?:no_)?sensor|control|(?:not_)?at_(?:rot_)?target|money|email|experience_permissions(?:_denied)?|run_time_permissions|changed|attach|dataserver|moving_(?:start|end)|link_message|(?:on|object)_rez|remote_data|http_re(?:sponse|quest)|path_update...
+0x00433254	0		_handleDragStart@180019050
+0x0043388c	0		firmwareNotSupported2
+0x004339a4	0		set:writeEventsEnabled
+0x00433d14	0		package:caps_asset_management/src/presentation/download/orchestration/session/download_session.dart
+0x004341fc	0		package:caps_zp_ui/src/icons/wifi_slash_icon.dart
+0x00434344	0		Failed to get available fonts: 
+0x004346fc	0		enableDragging
+0x004347fc	0		package:caps_asset_management/src/presentation/download/orchestration/session/optional_status.dart
+0x0043491c	0		Activate monitoring live data for device 
+0x00434a94	0		configureFirmware
+0x00434c64	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/pickup/components/reverse_controls_pickup.dart
+0x00434d74	0		_maybeImplicitCommand@1913395440
+0x00434fdc	0		package:caps_snake_vs_block/src/snake_vs_block/overlays/game_hud/time_display.dart
+0x00435284	0		Error activating monitoring live data, unknown error is triggered 
+0x004358ec	0		package:caps_feature_flags/src/feature_flags.dart
+0x0043594c	0		package:caps_toss/src/widget/top_area/toss_title.dart
+0x00435cb4	0		_scaleDelta@896507691
+0x00435fcc	0		package:capsapps_sdk/algorithms/common/entities/game_flow_with_scores.dart
+0x00436254	0		dfuDeviceId
+0x0043630c	0		Error turning off LED
+0x004366d4	0		package:caps_toss/src/widget/components/toss_background.dart2
+0x0043688c	0		package:caps_endless_match/src/component/pickup/shield_power_up_pickup_cubit.dart
+0x004369a4	0		package:caps_snake_1_v_1/src/ui_overlay/common/text_segment_with_zp_smile.dart
+0x00436fdc	0		enableDomStorage
+0x00437184	0		get:distanceTraveled2
+0x004371d4	0		get:remoteAssetsFlow_Error_AssetDownloadFailedTitle
+0x00437284	0		package:caps_snake_vs_block/src/snake_vs_block/background/background_scroll_controller.dart
+0x00437434	0		package:caps_games_common/src/ui/game_action_button.dart
+0x004379ac	0		bluetoothPermissions_NoAccess_Title
+0x00437d1c	0		package:reactive_ble_platform_interface/src/model/characteristic_instance.dart
+0x00437e64	0		Prescan failed: 
+0x00437eec	0		package:caps_endless_match/src/component/pickup/ball_pickup.dart
+0x00438174	0		_handleSignPayload@4860894262
+0x004384b4	0		failedToReadPcmFrames
+0x0043874c	0		ledTest_HelpContent
+0x00438c34	0		package:caps_endless_match/src/component/footballer/attacker/attacker_footballer.dart
+0x0043990c	0		firmwareUpdate_Error_ChangeDeviceButton
+0x0043996c	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/pickup/components/slowdown_pickup.dart
+0x00439aac	0		package:nordic_dfu/src/parameters/android_parameters.dart
+0x0043a04c	0		set:enabled
+0x0043a274	0		package:capsapps_sdk/core/service/strategies/reconnection_strategy.dart
+0x0043a5d4	0		CharacteristicInstance
+0x0043a614	0		DFU: Error while waiting for device restart: 
+0x0043a9bc	0		LedTestState2
+0x0043aa44	0		package:capsapps_bridge/src/presentation/game/game_lifecycle_manager.dart
+0x0043abe4	0		package:caps_shake/src/systems/collision/bitmap_collision_component/bitmap_collision_component.dart
+0x0043b1fc	0		package:caps_boxer/src/ui_overlay/setup_game/player_setup/player_name_validator.dart2
+0x0043bb9c	0		architecture augeasversion blockdevices boardmanufacturer boardproductname boardserialnumber cfkey dhcp_servers domain ec2_ ec2_userdata facterversion filesystems ldom fqdn gid hardwareisa hardwaremodel hostname id|0 interfaces ipaddress ipaddress_ ipaddress6 ipaddress6_ iphostnumber is_virtual kernel kernelmajversion kernelrelease kernelversion...
+0x0043c0cc	0		package:caps_endless_match/src/ui_overlay/hud/hud_possession_indicator.dart
+0x0043c124	0		package:caps_zp_ui/src/buttons/checkbox_button.dart
+0x0043c2b4	0		firmwareUpdate
+0x0043c774	0		get:battery_Low_ExitButton
+0x0043c9bc	0		package:caps_endless_match/src/component/footballer/defensive/defensive_footballer.dart
+0x0043ca44	0		package:caps_asset_management/src/presentation/asset_flow_config.dart
+0x0043cfac	1	0023e58c	package:caps_shake/src/systems/spawning/rocket_spawner.dart
+0x0043d274	0		_grayscaleDstInPaint@1991399677
+0x0043d554	0		_handleDragEnd@180019050
+0x0043d5b4	0		Bluetooth is disabled
+0x0043d83c	0		package:caps_shake/src/mixins/performance_check_mixin.dart
+0x0043d89c	0		dfuEventHandler
+0x0043da24	0		requireLocationServicesEnabled
+0x0043dbf4	0		package:caps_snake_1_v_1/src/core/events/snake_events.dart
+0x0043dd04	0		get:tossChallenge_Title_Triki
+0x0043dec4	1	0023e6bc	package:caps_boxer/src/common/digit_widget.dart
+0x0043dfe4	0		waitingToSubscribeMonitorLiveData
+0x0043e25c	0		_RenderScaledInlineWidget@215328197.2
+0x0043e3fc	0		package:capsapps_bridge/src/presentation/onboarding/video/game_ob_player_view.dart
+0x0043e45c	0		package:capsapps_bridge/src/presentation/game_bridge_widget.dart
+0x0043e6bc	0		package:caps_zp_ui/src/scaffold/scaffold_overlay.dart
+0x0043e7bc	0		get:battery_CheckError_Title2
+0x0043e814	0		enableSignPayload
+0x0043e97c	0		Arena walls disabled2
+0x0043f0a4	0		_CommandBuilderVisitor&Visitor&ErrorOnUnResolvedNode@2014068491
+0x0043f35c	0		package:capsapps_sdk/core/service/handlers/state_handler.dart
+0x0043f6ac	0		Vyhled
+0x0043fa94	0		Failed to handle InitEvent: 2
+0x0043fc64	0		_ToggleLedButtonState@673300305
+0x0043fe8c	0		package:caps_l10n/src/l10n/intl/messages_pl.dart
+0x0043ffa4	0		scaledPadding
+0x00440814	0		 firmware version: 
+0x00440834	0		FirmwareUpdateCubit.2
+0x00440bac	0		package:capsapps_sdk/bluetooth/service/discovery/filters/exclude_devices_filter.dart2
+0x00440d3c	0		package:caps_toss_challenge/src/bloc/toss_challenge_game_state.dart
+0x00440fc4	0		FirmwareAssetEntry.fromJson
+0x00440ffc	0		package:caps_feature_flags/src/flags.dart
+0x004411ac	0		characteristicUuid
+0x0044127c	0		package:caps_games_common/src/ui/round_summary/widgets/round_points.dart
+0x004415a4	0		package:caps_snake_vs_block/src/snake_vs_block/movement/movement_controller.dart
+0x00441834	0		get:distanceTraveledStream
+0x00441e54	0		Socket_AvailableDatagram
+0x00441e8c	0		The ticker was canceled before the "orCancel" property was first used.
+0x00442684	0		stopLiveData2
+0x0044270c	0		registerSignPayloadCallback
+0x00442ccc	0		Failed to parse header value2
+0x00442cf4	0		clearDeviceMonitoringLiveData
+0x00442e84	0		InitNativeState.failed(message: 
+0x00443164	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/pickup/models/pickup_config.dart
+0x004432a4	0		_activateLiveDataMonitoring@1466197479
+0x0044343c	0		get:firmwareUpdate_Required_Header
+0x004439b4	0		writeCharacteristicWithResponse
+0x00443bac	0		package:caps_toss/src/widget/taget_values/toss_target_values_area_widget.dart
+0x00443e74	0		payloadToSign
+0x00443f3c	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/snake/components/style/snake_gradient_paints.dart
+0x00444214	0		writeCharacteristicWithResponse has not been implemented.
+0x00444354	0		package:caps_boxer/src/ui_overlay/setup_game/player_setup/widget/player_list_widget.dart
+0x004446bc	0		package:caps_asset_management/src/presentation/download/orchestration/bloc/asset_download_orchestrator.dart
+0x00444784	0		get:ledTest_NoLight_Part2
+0x00444864	0		set:requireLocationServicesEnabled
+0x0046136c	0		CapsAppScaffoldOverlay
+0x004614cc	1	0023f9c4	CharacteristicWithId|withId
+0x004619c4	0		get:_bluetoothService@1305240075
+0x00461c8c	0		CommandBuilderVisitor
+0x004626dc	0		_handleSignPayloadException@1374210546
+0x00462da4	0		package:caps_snake_vs_block/src/snake_vs_block/components/orb/growth_orb.dart
+0x00462fac	0		Failed host lookup: '
+0x004630b4	0		package:capsapps_sdk/core/types/device/device.dart
+0x0046357c	0		package:caps_endless_match/src/common/removes_parent_on_remove.dart
+0x0046372c	0		get:ledTest_Help
+0x00463a3c	0		package:caps_toss_challenge/src/bloc/toss_challenge_game_cubit.dart
+0x00463d74	0		get:firmwareUpdate_Error_Header
+0x00463da4	0		package:reactive_ble_platform_interface/src/model/discovered_device.dart
+0x00463dfc	0		bernoulli bernoulli_logit beta beta_binomial binomial binomial_logit categorical categorical_logit cauchy chi_square dirichlet double_exponential exp_mod_normal exponential frechet gamma gaussian_dlm_obs gumbel hypergeometric inv_chi_square inv_gamma inv_wishart lkj_corr lkj_corr_cholesky logistic lognormal multi_gp multi_gp_cholesky multi_norma...
+0x0046407c	0		package:caps_zp_ui/src/devices/device_item_widget.dart
+0x004640c4	0		shake_DistanceTraveled
+0x00464274	0		package:caps_games_common/src/ui/round_summary/widgets/round_summary_message.dart
+0x004644ec	0		FirmwareUpdateError
+0x0046459c	0		Make sure Triki is turned on and try to reconnect.
+0x00464644	0		break cmake_host_system_information cmake_minimum_required cmake_parse_arguments cmake_policy configure_file continue elseif else endforeach endfunction endif endmacro endwhile execute_process file find_file find_library find_package find_path find_program foreach function get_cmake_property get_directory_property get_filename_component get_prop...
+0x0046504c	0		CharacteristicAddress.
+0x0046577c	0		init:_rxCharUuid@1468105895
+0x004658bc	0		getFirmwareState
+0x00465ad4	0		failedToGetDataFormat
+0x00465b3c	0		package:caps_shake/src/systems/audio/shake_audio_player.dart2
+0x0046628c	0		package:caps_snake_vs_block/src/snake_vs_block/overlays/game_hud/widgets/text_display.dart
+0x00466a14	0		DFU mode started for device 2
+0x00466bfc	0		get:isActionEnabled
+0x00466d54	0		TraversalEdgeBehavior.
+0x00466ea4	0		package:caps_endless_match/src/component/player/endless_player_animated_body.dart
+0x004673e4	0		_handleStartHandleDragUpdate@202111801
+0x0046755c	0		package:caps_snake_1_v_1/src/config/snake1v1_assets.dart
+0x0046767c	0		package:caps_snake_vs_block/src/snake_vs_block/systems/collisions/snake_collision_controller.dart
+0x00467a8c	0		MeasurementDecoder
+0x00468384	0		init() called when the native player is already initialized. This is expected after a hot restart but not otherwise. If you see this in production logs, there's probably a bug in your code. You may have neglected to deinit() SoLoud during the current lifetime of the app.
+0x004684bc	0		package:caps_toss_challenge/src/ui_overlay/toss_challenge_game_over_page.dart
+0x00468684	0		init:_batteryStatusCharUuid@1468105895
+0x00468784	0		init:_scaleDownTransition@391490068
+0x004689ac	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/pickup/components/pickup.dart
+0x00468b9c	0		 Triki
+0x00468bdc	0		package:capsapps_sdk/algorithms/boxer/score_calculation_v4_1.dart
+0x00468e14	0		package:capsapps_bridge/src/presentation/game/game_overlay/game_overlays_widget.dart2
+0x00468ff4	0		characteristic
+0x00469074	0		\b(BIGINT|INT8|BIGSERIAL|SERIAL8|BIT|VARYING|VARBIT|BOOLEAN|BOOL|BOX|BYTEA|CHARACTER|CHAR|VARCHAR|CIDR|CIRCLE|DATE|DOUBLE|PRECISION|FLOAT8|FLOAT|INET|INTEGER|INT|INT4|INTERVAL|JSON|JSONB|LINE|LSEG|MACADDR|MACADDR8|MONEY|NUMERIC|DEC|DECIMAL|PATH|POINT|POLYGON|REAL|FLOAT4|SMALLINT|INT2|SMALLSERIAL|SERIAL2|SERIAL|SERIAL4|TEXT|TIME|ZONE|TIMETZ|TIMES...
+0x004696ac	0		Characteristic(
+0x0046971c	0		package:caps_snake_1_v_1/src/core/events/game_event_bus_provider.dart
+0x00469a34	0		enableUnsafeExperimentalButtonlessServiceInSecureDfu2
+0x00469aec	0		Connection Service: Activating monitoring live data for device: 
+0x00469b54	0		ActivateMonitoringLiveDataException
+0x00469c8c	0		set:_commandService@1465205209
+0x00469f2c	0		Production mode initialization failed
+0x0046a464	0		package:caps_shake/src/components/coin.dart
+0x0046a49c	0		sendSignedPayload
+0x0046a504	0		forceDfu
+0x0046a6dc	0		package:caps_asset_management/src/data/manifest/manifest_service.dart
+0x0046adfc	0		&RuleDelayed;
+0x0046af84	0		package:capsapps_sdk/core/types/device/device_scan_result.dart
+0x0046b0a4	0		package:reactive_ble_platform_interface/src/model/qualified_characteristic.dart
+0x0046b214	0		startLiveMeasurementRequestData
+0x0046b334	0		package:caps_zp_ui/src/devices/device_container.dart2
+0x0046b45c	0		deinit() called
+0x0046b4e4	0		set:_bleDeviceInteractor@1465205209
+0x0046b754	0		MeasurementBundle
+0x0046ba5c	0		package:capsapps_sdk/algorithms/toss_algorithm/toss_validation_metrics.dart
+0x0046bd64	0		startFirmwareUpdate
+0x0046c18c	0		SignedPayload
+0x0046c2f4	0		_isEnabled@95441002
+0x0046c3f4	0		isEnabled
+0x0046c4ec	0		package:caps_snake_vs_block/src/snake_vs_block/systems/analytics/block_analytics.dart
+0x0046c6bc	0		package:caps_toss/src/service/target_number_generator.dart
+0x0046c714	0		package:caps_asset_management/src/presentation/download/orchestration/session/download_tracker/bucket_progress.dart
+0x0046c844	0		LedTestCubit.
+0x0046d1ac	0		get:characteristicUuid
+0x0046d674	0		package:capsapps_sdk/algorithms/tilt/kalman_models/position_vertical_level_model.dart
+0x0046e67c	0		. Assuming device is already in DFU mode.
+0x0046e764	0		init:_deviceInformationServiceUuid@1468105895
+0x0046e7d4	1	002400d4	_handleDragEnd@202111801
+0x0046e84c	0		sendLedStateCommand
+0x0046e944	0		lock rep repe repz repne repnz xaquire xrelease bnd nobnd aaa aad aam aas adc add and arpl bb0_reset bb1_reset bound bsf bsr bswap bt btc btr bts call cbw cdq cdqe clc cld cli clts cmc cmp cmpsb cmpsd cmpsq cmpsw cmpxchg cmpxchg486 cmpxchg8b cmpxchg16b cpuid cpu_read cpu_write cqo cwd cwde daa das dec div dmint emms enter equ f2xm1 fabs fadd fad...
+0x00472abc	0		package:caps_endless_match/src/endless_match_module.dart
+0x00473bfc	0		get:bluetoothPermissions_GoToSettingsButton
+0x00473dc4	0		package:caps_zp_ui/src/images/triki_image.dart
+0x0047424c	0		Failed to load audio assets
+0x004744ac	0		 abasep abs absint absolute_real_time acos acosh acot acoth acsc acsch activate addcol add_edge add_edges addmatrices addrow add_vertex add_vertices adjacency_matrix adjoin adjoint af agd airy airy_ai airy_bi airy_dai airy_dbi algsys alg_type alias allroots alphacharp alphanumericp amortization %and annuity_fv annuity_pv antid antidiff AntiDiffe...
+0x0047b534	0		package:caps_shake/src/components/fuel.dart
+0x0047b6ac	0		Device connected - skipping subscribe to live data characteristic stream - state: 
+0x0047b854	0		int float string vector matrix if else switch case default while do for in break continue global proc return about abs addAttr addAttributeEditorNodeHelp addDynamic addNewShelfTab addPP addPanelCategory addPrefixToName advanceToNextDrivenKey affectedNet affects aimConstraint air alias aliasAttr align alignCtx alignCurve alignSurface allViewFit a...
+0x0047f884	0		FirmwareUpdateBottomSheet
+0x0047fa3c	0		FirmwarePreloadCubit.
+0x00480734	0		package:caps_snake_1_v_1/src/core/events/game_over_event.dart
+0x00480a14	0		Failed to start DFU mode for device 2
+0x00480bcc	0		Failed to parse the media type: 
+0x00480e54	0		SnakeKilled
+0x004817ec	0		toUnsigned
+0x00481a1c	0		package:caps_zp_ui/src/buttons/small_button.dart
+0x004821c4	0		checkCancelled
+0x0048255c	0		_startHandleDragPosition@202111801
+0x004828e4	0		TrikiServiceFilter
+0x00482ac4	0		CommandBuilderVisitor.
+0x00482c14	0		package:caps_endless_match/src/domain/world_generation/world_difficulty_config.dart
+0x00482d14	0		Prescan error, sending mobileSensorsError state for device 
+0x00483514	0		package:caps_shake/src/systems/camera/camera_constraints.dart
+0x00483564	0		package:capsapps_sdk/algorithms/shake/shake_result.dart
+0x004837f4	0		disabledForegroundColor
+0x00484834	0		package:caps_endless_match/src/core/audio/endless_match_audio_player.dart
+0x00484ab4	0		BleDeviceSession
+0x00484b84	0		package:capsapps_sdk/bluetooth/service/device/characteristics_update_service.dart
+0x00484d14	0		get:firmwareUpdate_Required_Tips
+0x00485024	0		get:sensorsStateStream
+0x0048574c	0		package:capsapps_sdk/algorithms/common/entities/cap_side.dart
+0x004857ec	0		package:caps_asset_management/src/data/assets/asset_path_resolver.dart
+0x004859dc	0		package:caps_toss/src/widget/bottom_data/toss_bottom_data.dart
+0x00485e54	0		package:capsapps_sdk/algorithms/toss_algorithm/toss_algorithm.dart
+0x00485f3c	0		package:flutter_reactive_ble/src/rx_ext/repeater.dart
+0x00486324	0		TickerCanceled
+0x0048650c	0		package:caps_networking/src/data/connectivity_service.dart
+0x00486714	0		bluetoothPermissions_GoToSettingsButton
+0x0048696c	0		package:caps_endless_match/src/component/footballer/footballer_animated_body.dart
+0x00486a34	0		N|0 P|0 X|0 a|0 ab abc abo al am an|0 ar arga argd arge argdo argg argl argu as au aug aun b|0 bN ba bad bd be bel bf bl bm bn bo bp br brea breaka breakd breakl bro bufdo buffers bun bw c|0 cN cNf ca cabc caddb cad caddf cal cat cb cc ccl cd ce cex cf cfir cgetb cgete cg changes chd che checkt cl cla clo cm cmapc cme cn cnew cnf cno cnorea cnor...
+0x00488a6c	0		writeFrom failed
+0x00488e4c	0		package:capsapps_bridge/src/utils/game_rounds_utils.dart
+0x00488f64	0		_scaledPadding@416343580
+0x0048986c	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/pickup/system/blocked_positions_listener.dart
+0x00489dfc	0		SignPayloadInitPlaySessionNotInitializedException
+0x00489f2c	0		Error checking or requesting Bluetooth permission - 2
+0x0048a304	0		package:caps_snake_vs_block/src/snake_vs_block/systems/spawn/strategies/row_spawn_strategy.dart
+0x0048a584	0		DFU: Error while starting DFU mode: 2
+0x0048ac5c	0		CapsHttpCancelledException: request was cancelled
+0x0048b7b4	0		steeringMaxAngleDegrees
+0x0048b8b4	0		enabledMouseCursor
+0x0048bd5c	0		.2byte .4byte .align .ascii .asciz .balign .byte .code .data .else .end .endif .endm .endr .equ .err .exitm .extern .global .hword .if .ifdef .ifndef .include .irp .long .macro .rept .req .section .set .skip .space .text .word .arm .thumb .code16 .code32 .force_thumb .thumb_func .ltorg ALIAS ALIGN ARM AREA ASSERT ATTR CN CODE CODE16 CODE32 COMMO...
+0x0048c06c	0		package:capsapps_sdk/bluetooth/service/discovery/device_discovery_service.dart
+0x0048c9ec	0		int float while char export sizeof typedef const struct for union unsigned long volatile static bool mutable if do return goto void enum else break extern asm case short default double register explicit signed typename this switch continue wchar_t inline readonly assign readwrite self @synchronized id typeof nonatomic super unichar IBOutlet IBAc...
+0x0048d6e4	0		BatteryCheckState.batteryOk(deviceId: 
+0x0048d86c	0		package:caps_toss/src/widget/bottom_data/toss_timer.dart
+0x0048dd04	0		std string wstring cin cout cerr clog stdin stdout stderr stringstream istringstream ostringstream auto_ptr deque list queue stack vector map set bitset multiset multimap unordered_set unordered_map unordered_multiset unordered_multimap array shared_ptr abort terminate abs acos asin atan2 atan calloc ceil cosh cos exit exp fabs floor fmod fprint...
+0x0048f12c	0		SnakeKilled(player: 2
+0x0048f14c	0		_handleSelectionStartHandleDragUpdate@202111801
+0x0048f254	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/snake/components/snake_body_segment.dart
+0x0048f5f4	0		failedToCreateOpusDecoder
+0x0048f9b4	0		_updateTotalScrolledY@1288350434
+0x0048fad4	0		_processMeasurementTossRunning@1411034922
+0x0048fb24	0		item document-node node attribute document element comment namespace namespace-node processing-instruction text construction xs:anyAtomicType xs:untypedAtomic xs:duration xs:time xs:decimal xs:float xs:double xs:gYearMonth xs:gYear xs:gMonthDay xs:gMonth xs:gDay xs:boolean xs:base64Binary xs:hexBinary xs:anyURI xs:QName xs:NOTATION xs:dateTime x...
+0x0048ffac	0		battery_Low_Title
+0x00490184	0		SoLoudReadSamplesFailedToSeekPcmCppException2
+0x00490844	0		The selected Triki is locked in update mode. Please wait - do not close the app. After the update is complete, you will be able to select the device from the list.
+0x00490cf4	0		You can start the game, but Triki may turn off during gameplay.
+0x00490e1c	0		startDfu
+0x00490e34	0		package:caps_toss/src/widget/toss_active_game.dart
+0x0049158c	0		package:caps_snake_1_v_1/src/core/events/pickup_collected_event.dart2
+0x00491b3c	0		package:caps_snake_vs_block/src/snake_vs_block/components/orb/orb.dart
+0x00491d0c	0		package:caps_networking/src/data/caps_http_client.dart
+0x00491e0c	0		package:caps_boxer/src/feature/active_game/widget/boxer_bottom_frame.dart
+0x00492204	0		_handleDragStart@202111801
+0x0049241c	0		get:gameOverScheduledListenable
+0x0049244c	0		isWidgetEnabled
+0x00492684	0		package:caps_toss/src/bloc/toss_game_cubit.dart
+0x00492a54	0		package:caps_snake_vs_block/src/snake_vs_block/systems/leveling/game_level_scheduler.dart
+0x00493ce4	0		comboEnabled2
+0x00493cfc	0		Allow Bluetooth access to connect Triki.
+0x00493d5c	0		package:caps_shake/src/components/frog/jetpack_flame.dart
+0x004940ec	0		signed
+0x0049433c	0		package:caps_zp_ui/src/stateful/stateful_listener.dart
+0x00494434	0		disabledColor
+0x0049447c	0		ServicesWithCharacteristics.2
+0x0049483c	0		MobileSensorsBottomSheetFlow2
+0x00495074	0		package:reactive_ble_platform_interface/src/model/unit.dart
+0x0049513c	0		package:capsapps_bridge/src/presentation/game/orchestration/cap_data/cap_data_manager.dart
+0x00495324	0		Initialization failed: 
+0x0049537c	0		package:caps_snake_1_v_1/src/system/time_effect/timed_effect.dart
+0x00495bd4	0		DioException.requestCancelled
+0x004960e4	0		scheduledReconnection
+0x004963bc	0		Expected to find moveTo command
+0x0049644c	0		package:caps_endless_match/src/data/active_effects_repository.dart
+0x00496d94	0		Failed to decode Opus packet.
+0x00496ff4	0		CharacteristicValueUpdateError
+0x00497374	0		characteristics
+0x00497444	0		package:caps_snake_1_v_1/src/components/arena/bloc/arena_cubit.dart
+0x00497534	0		package:caps_endless_match/src/core/flame_game/endless_match_game.dart
+0x00497714	0		_angleDescription@706494074
+0x00497a0c	0		locationDisabled
+0x00497a64	0		&circledR;
+0x00497cd4	0		DiscoveredCharacteristic
+0x00497f04	0		package:caps_snake_vs_block/src/snake_vs_block/systems/spawn/strategies/minimal_blocks_strategy.dart2
+0x00498324	0		SoLoudFileLoadFailedException
+0x004983dc	0		package:caps_shake/src/systems/overlays/overlays_controller.dart
+0x0049866c	1	002418fc	package:capsapps_sdk/algorithms/tilt/tilt_result.dart
+0x0049878c	0		Characteristic no longer valid. Characteristics lose their validity after a device gets disconnected. Rediscover services and characteristics after reconnecting to the device.
+0x004989f4	0		' was called on null.
+0x00498b7c	0		BluetoothException
+0x00498bd4	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/snake/system/snake_state_event_mapper.dart2
+0x00498f0c	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/pickup/pickup_spawn_system.dart
+0x004990d4	0		package:caps_toss_challenge/src/widget/toss_throw_miss.dart
+0x0049911c	0		init:_firmwareVersionStringCharUuid@1468105895
+0x0049915c	0		permissions_Bluetooth_Disabled_Header
+0x0049922c	0		package:caps_games_common/src/collision/component_id.dart
+0x004994bc	0		_isDartStreamEnabled@63837152
+0x0049965c	0		_setBluetoothDenialCount@534170051
+0x0049983c	0		package:caps_endless_match/src/domain/world_generation/coin/coin_pattern_generator.dart
+0x004999f4	0		package:caps_snake_vs_block/src/snake_vs_block/systems/extra_effects/power_up_orchestrator.dart
+0x0049a08c	0		(using|assembly|command|module|namespace|type)
+0x0049a6c4	0		package:caps_toss/src/widget/center_area/toss_strike_area.dart
+0x0049aab4	0		signPayload
+0x0049aff4	0		package:reactive_ble_platform_interface/src/model/ble_status.dart
+0x0049b1c4	0		package:caps_endless_match/src/core/spawner/world_spawner_cubit.dart2
+0x0049b9d4	0		subscribeToCharacteristic
+0x0049bb34	0		getFirmwareVersionString
+0x0049c5f4	0		readCharacteristic has not been implemented.2
+0x0049d02c	0		package:caps_shake/src/systems/game_start_controller.dart
+0x0049d1f4	0		Read failed
+0x0049d35c	0		Connection State Handler: Handling mobile sensors error state for device: 
+0x0049d46c	0		AssetLoadingFailed
+0x0049d83c	0		package:caps_snake_vs_block/src/snake_vs_block/components/blocks/effects/block_destruction/block_destruction_physics_effect.dart
+0x0049d8cc	1	00241cd4	presentScore can only be called when in BoxerGameStateInProgress
+0x0049df14	0		abs arccos arcsin arctan arctan2 Beta betaReg binomial ceil centropy cos cosh cvPower div div0 eDist entropy errorf execSeed exp fact floor frac gamma gammaReg log logBeta logGamma log10 log2 mapVal max min mod ncpCM ncpF ncpVUpow ncpVUsin normal pi poly power randBinomial randLinear randTriangle round rPower sigmoid sign signPower sin sinh slex...
+0x0049e5d4	0		package:caps_endless_match/src/common/remove_when_below_camera_view.dart
+0x0049ecfc	0		ReadCharacteristicRequest
+0x0049ed24	0		disabled
+0x0049f3f4	0		by a synchronously-called image error listener
+0x0049f434	0		package:caps_toss/src/ui_overlay/toss_active_overlay.dart
+0x0049f4cc	0		Hash.add() called after close().
+0x0049f70c	0		out of range for signed 32-bit int
+0x0049f7bc	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/pickup/components/phase_through_pickup.dart
+0x0049f984	0		MoveToCommand
+0x0049fa5c	0		package:caps_asset_management/src/data/assets/game_resolver/resolved_audio_asset.dart
+0x0049fb6c	0		_setFramesEnabledState@262222615
+0x0049fd04	0		Invalid UUID format: 
+0x0049fdbc	0		_LedTestBottomSheetState@673300305
+0x004a0044	0		package:caps_snake_vs_block/src/snake_vs_block/systems/spawn/spawn_controller.dart
+0x004a01e4	0		package:caps_zp_style/src/text_style.dart
+0x004a032c	0		_handleSemanticsEnabledChanged@301275577
+0x004a042c	0		package:caps_shake/src/systems/spawning/difficulty_manager.dart
+0x004a06dc	0		package:app/features/device_connection/permissions/bluetooth_permissions/blue_permission_cubit.dart
+0x004a07c4	0		package:caps_snake_vs_block/src/snake_vs_block/systems/spawn/safety/safety_validator.dart
+0x004a0b7c	0		Niski poziom baterii w Triki2
+0x004a0de4	0		get:bluetoothPermissions_NoAccess_Message
+0x004a155c	0		abstract as val var vararg get set class object open private protected public noinline crossinline dynamic final enum if else do while for when throw try catch finally import package is in fun override companion reified inline lateinit init interface annotation data sealed internal infix operator out by constructor super tailrec where const inne...
+0x004a1f4c	0		CloseCommand()
+0x004a2394	0		package:caps_zp_ui/src/scaffold/scaffold.dart
+0x004a2454	0		package:flutter_reactive_ble/src/discovered_devices_registry.dart
+0x004a257c	0		DFU: cannot read device version, defaulting to peer A first: 
+0x004a2ae4	0		ConnectionDeviceFailedEvent
+0x004a32f4	0		_handleMobileSensorsErrorState@1509179881
+0x004a3354	0		Failed to decode Opus data. This could happen when the data is corrupted. (on the C++ side).2
+0x004a369c	0		getProcessedLiveDataStream
+0x004a461c	0		CharacteristicValueInfo.fromBuffer
+0x004a4864	1	00241fcc	package:flutter/src/material/filled_button_theme.dart
+0x004a4b5c	0		disableSignPayload
+0x004a4ba4	0		wrong dimens matrix measurementMatrix and transitionMatrix kalman
+0x004a4dd4	0		package:caps_shake/src/systems/component_orchestrator.dart
+0x004a4f64	0		_handleDeviceUpdate@232437380
+0x004a4f94	0		package:caps_shake/src/systems/overlays/ui/shake_to_start_overlay.dart
+0x004a5954	1	002420c4	package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/snake/components/player_snake_head_active_effects.dart
+0x004a5af4	0		_startHandleDragTarget@202111801
+0x004a5c0c	0		Hold the button below until the LED on Triki lights up
+0x004a5cac	0		bluetoothPermissionGranted
+0x004a5e5c	0		package:caps_zp_ui/src/bottom_sheet/common_error_content.dart
+0x004a600c	0		continueAfterPunch can only be called after a punch has been registered
+0x004a60e4	0		Handling sign payload request: 
+0x004a66a4	0		all any no-route self urpf-failed egress|5 unknown
+0x004a6ae4	0		Failed to read battery level for device 
+0x004a6e84	0		out of range for unsigned 32-bit int2
+0x004a6f14	0		package:capsapps_bridge/src/native_integration/operations/sdk_operation_coordinator.dart
+0x004a71bc	0		package:caps_endless_match/src/common/endless_match_identifiable.dart
+0x004a752c	0		battery_CheckError_Title
+0x004a7764	1	002421d4	signPayloadDeviceNoActiveConnection
+0x004a85a4	0		package:caps_boxer/src/feature/active_game/widget/boxer_current_score_widget.dart
+0x004a8c2c	0		package:capsapps_bridge/src/app_bridges/game_device_connection/game_device_connection_event.dart
+0x004a9164	0		Uuid2
+0x004a99d4	0		BatteryCheckState.batteryLow(deviceId: 
+0x004a9a6c	0		package:capsapps_bridge/src/presentation/onboarding/video/game_ob_player_widget.dart2
+0x004a9b1c	0		CapsAppsSdk initialized successfully2
+0x004a9c34	0		writeCharacteristicWithoutResponse
+0x004aa134	0		package:capsapps_sdk/core/infrastructure/logger/caps_apps_logger.dart
+0x004aa394	0		package:caps_boxer/src/feature/active_game/boxer_active_game.dart
+0x004aaa7c	0		package:capsapps_sdk/bluetooth/service/throttling/search_throttling_timeout_service.dart
+0x004ab0ac	0		package:app/features/device_connection/firmware_update/firmware_update_state.dart
+0x004ab404	0		initPlaySessionBluetoothCommandExecution
+0x004ab4dc	0		package:capsapps_sdk/bluetooth/service/connection/prescan_service.dart
+0x004ab8ec	0		package:caps_snake_1_v_1/src/ui_overlay/snake1v1_game_over_page.dart2
+0x004ab93c	0		package:caps_asset_management/src/presentation/asset_flow.dart
+0x004abc84	0		FirmwareUpdateInProgress
+0x004abf44	0		package:caps_endless_match/src/component/pickup/shield_power_up_pickup.dart
+0x004abfbc	0		package:caps_toss/src/widget/center_area/shake_animation.dart
+0x004ac354	0		package:caps_asset_management/src/data/assets/game_resolver/resolved_game_assets.dart
+0x004ac3bc	0		bluetoothError_Title2
+0x004acb9c	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/pickup/models/pickup_state.dart
+0x004ace6c	0		get:_stylusHandwritingEnabled@119183791
+0x004ad88c	0		_FilledIconButtonDefaultsM3@365331726
+0x004ad984	0		Lost connection to Triki
+0x004add24	0		package:caps_endless_match/src/component/background/endless_match_background.dart
+0x004ae004	0		wasAlreadyInDfuMode
+0x004ae054	0		IsEnabledMessage
+0x004ae1ec	0		BatteryCheckState
+0x004ae624	0		ExceptionBridgeReadBatteryException: 
+0x004ae80c	0		TRIKI
+0x004aea6c	0		signPayload callback disabled
+0x004af3d4	1	002427ac	SDK sign payload exception: 2
+0x004af514	0		_handleDragCancel@443053933
+0x004af7ec	0		package:caps_endless_match/src/domain/world_generation/background_layout.dart
+0x004afacc	0		package:capsapps_sdk/algorithms/tilt/kalman_filter/cholesky_decomposition.dart
+0x004afbdc	0		_getBluetoothDenialCount@534170051
+0x004b026c	0		package:caps_endless_match/src/component/background/background_grass.dart
+0x004b0804	0		package:caps_asset_management/src/presentation/preload/preload_asset_flow.dart
+0x004b08bc	0		set:scrollControlDisabledMaxHeightRatio
+0x004b0a74	0		WriteCharacteristicRequest._@1975234311
+0x004b0c7c	0		getSerializableData
+0x004b131c	0		package:caps_shake/src/components/mountains/mountain_5.dart
+0x004b18cc	0		get:copyEnabled
+0x004b1bdc	0		onEnablingDfuMode
+0x004b1e14	0		package:capsapps_sdk/bluetooth/service/discovery/scan_error_analyzer.dart
+0x004b21b4	0		_handleDragUpdate@331001611
+0x004b21dc	0		FirmwareUpdateStepState
+0x004b23b4	0		package:caps_snake_1_v_1/src/components/arena/models/boundary_mode.dart
+0x004b2adc	0		Checking Bluetooth connection and required permissions
+0x004b2bf4	0		initialize() called
+0x004b2d9c	0		FirmwareUpdateConfig2
+0x004b30dc	0		characteristicInstanceId
+0x004b328c	0		/caps_assets2
+0x004b33bc	0		package:caps_endless_match/src/component/footballer/activation_zone.dart
+0x004b3544	0		package:caps_snake_vs_block/src/snake_vs_block/background/background.dart
+0x004b384c	0		package:caps_asset_management/src/data/assets/game_resolver/manifest_missing_exception.dart
+0x004b3aac	0		get:firmwareUpdate_InProgress_Header2
+0x004b3adc	0		package:caps_asset_management/src/presentation/download/orchestration/bloc/asset_download_orchestrator_state.dart
+0x004b3c34	0		package:caps_endless_match/src/domain/score_manager.dart
+0x004b48bc	0		_measurementMatrix@1434081265
+0x004b4a2c	0		package:capsapps_bridge/src/presentation/onboarding/game_ob_cubit.dart
+0x004b4e2c	0		Failed to initialize native API: 
+0x004b4f04	0		package:caps_snake_vs_block/src/snake_vs_block/systems/spawn/spawners/special_power_spawner.dart
+0x004b50ec	0		BatteryCheckCubit
+0x004b550c	0		package:caps_snake_vs_block/src/snake_vs_block/systems/collisions/detectors/wall_collision_detector.dart
+0x004b55b4	0		Distance traveled:
+0x004b577c	0		package:caps_games_common/src/interface/game_setup_data.dart2
+0x004b63d4	0		_FirmwarePeer@1501094166
+0x004b6964	0		package:caps_zp_ui/src/bottom_sheet/widgets/bottom_sheet_header.dart2
+0x004b6ce4	0		package:caps_shake/src/systems/animation/frog_death_animation_controller.dart
+0x004b6e94	0		package:caps_shake/src/components/top_mountains/top_mountain_3.dart
+0x004b6f04	0		bluetoothOff2
+0x004b701c	0		deviceConnection_BluetoothError_Title
+0x004b751c	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/pickup/pattens/spawn_pattern.dart
+0x004b8054	0		package:caps_endless_match/src/component/objective_indicator/objective_indicator_cubit.dart
+0x004b82b4	0		package:caps_shake/src/components/top_mountains/top_mountain_1.dart
+0x004b83e4	0		package:capsapps_sdk/algorithms/tilt/positioning_pitch_roll_algorithm.dart
+0x004b857c	0		UuidV4.generate
+0x004b870c	0		FirmwareUpdatePreparing
+0x004b8a9c	0		goto gosub return break repeat loop continue wait await dim sdim foreach dimtype dup dupptr end stop newmod delmod mref run exgoto on mcall assert logmes newlab resume yield onexit onerror onkey onclick oncmd exist delete mkdir chdir dirlist bload bsave bcopy memfile if else poke wpoke lpoke getstr chdpm memexpand memcpy memset notesel noteadd n...
+0x004b9974	1	00243b34	BluetoothStateService
+0x004b999c	0		UuidV4
+0x004b9d14	0		package:caps_endless_match/caps_endless_match_game.dart
+0x004b9e3c	0		wrong dimension z and measurementMatrix
+0x004b9e74	0		package:caps_boxer/src/core/bloc/boxer_game_state.dart
+0x004b9f84	0		P2D P3D HALF_PI PI QUARTER_PI TAU TWO_PI
+0x004ba2ac	0		FirmwarePreloadCubit2
+0x004ba484	0		FirmwareUpdateCompleted
+0x004ba5c4	0		DrawCommandType.
+0x004ba974	0		init() called
+0x004baa6c	0		package:caps_shake/src/shake_game_widget.dart
+0x004baaac	0		get:_isCanceled@5048458
+0x004bac44	0		is_real is_string is_array is_undefined is_int32 is_int64 is_ptr is_vec3 is_vec4 is_matrix is_bool typeof variable_global_exists variable_global_get variable_global_set variable_instance_exists variable_instance_get variable_instance_set variable_instance_get_names array_length_1d array_length_2d array_height_2d array_equals array_create array_c...
+0x004c3714	0		Sending signed session
+0x004c40ec	0		package:caps_shake/src/systems/movement/frog/gravity_system.dart
+0x004c424c	0		SearchThrottlingTimeoutService: Bluetooth state changed to 
+0x004c459c	0		CURRENT_TIME CURRENT_TIMESTAMP CURRENT_USER CURRENT_CATALOG|10 CURRENT_DATE LOCALTIME LOCALTIMESTAMP CURRENT_ROLE|10 CURRENT_SCHEMA|10 SESSION_USER PUBLIC FOUND NEW OLD TG_NAME|10 TG_WHEN|10 TG_LEVEL|10 TG_OP|10 TG_RELID|10 TG_RELNAME|10 TG_TABLE_NAME|10 TG_TABLE_SCHEMA|10 TG_NARGS|10 TG_ARGV|10 TG_EVENT|10 TG_TAG|10 ROW_COUNT RESULT_OID|10 PG_C...
+0x004c5ffc	0		# LED on the cap doesn't react during the connection test?
+0x004c6114	0		SignPayloadDeviceNotInitializedException
+0x004c64fc	0		package:caps_asset_management/src/data/assets/asset_entry_validator.dart
+0x004c665c	0		Characteristic not found or discovered: 
+0x004c66e4	0		package:caps_l10n/src/l10n/intl/messages_en.dart
+0x004c6754	0		FirmwarePreloadWaiting
+0x004c69f4	0		_scaleDownTransition@391490068
+0x004c6bbc	0		handleDidPopNext
+0x004c6f14	0		_primaryButtonEnabled@372059085
+0x004c71fc	0		package:capsapps_sdk/bluetooth/service/discovery/filters/triki_service_filter.dart
+0x004c753c	0		package:reactive_ble_platform_interface/src/model/uuid.dart
+0x004c7694	0		\b(a|abbr|acronym|address|area|article|aside|audio|b|base|big|blockquote|body|br|button|canvas|caption|cite|code|col|colgroup|command|datalist|dd|del|details|dfn|div|dl|dt|em|embed|fieldset|figcaption|figure|footer|form|frame|frameset|(h[1-6])|head|header|hgroup|hr|html|i|iframe|img|input|ins|kbd|keygen|label|legend|li|link|map|mark|meta|meter|n...
+0x004c7b14	0		bluetooth
+0x004c7e4c	0		package:caps_shake/src/mixins/collision.dart2
+0x004c7e9c	0		_TossGyroscope|_calculateXYZRotationBalance@1411034922
+0x004c7f4c	0		get:onUserTapAlwaysCalled
+0x004c82cc	0		package:caps_zp_ui/src/buttons/pause_button.dart
+0x004c8594	0		package:caps_endless_match/src/domain/world_generation/chunk/chunk_generator.dart
+0x004c8a34	0		package:caps_shake/src/systems/spawning/mountain_spawn_system.dart
+0x004c8f8c	0		package:caps_snake_1_v_1/src/core/flame_game/loading/emits_component_loaded_event.dart
+0x004c8ff4	0		package:caps_endless_match/src/component/effect/effects_overlay_cubit.dart
+0x004c9204	0		package:caps_endless_match/src/component/ball/kicked_ball_animated_body.dart2
+0x004c9684	0		Button is disabled
+0x004c96a4	0		get:spellCheckEnabled
+0x004c9c24	0		_handleDragEnd@443053933
+0x004ca674	0		requestBatteryCheck
+0x004ca8bc	0		package:caps_snake_1_v_1/src/ui_overlay/setup_game/painters/diagonal_divider_painter.dart
+0x004ca9c4	0		package:caps_feature_flags/envs/prod_flags.dart
+0x004cb1c4	0		playGoalFailed
+0x004cc01c	0		get:ledTest_WorksButton
+0x004cc0d4	0		package:caps_shake/src/systems/spawning/spawn_collectible_manager.dart
+0x004d2864	0		SoLoudFailedToCreateDecoderCppException
+0x004d2f7c	0		signPayloadBluetoothCommandExecution2
+0x004d306c	0		Failed to start device 
+0x004d3144	0		package:capsapps_bridge/src/app_bridges/mobile_sensors/mobile_sensors_bridge_impl.dart
+0x004d31cc	0		firmwares
+0x004d3204	0		package:capsapps_bridge/src/presentation/onboarding/video/bottom_video_frame_widget.dart
+0x004d3834	0		batteryOk
+0x004d3b5c	0		package:caps_zp_logger/caps_zp_logger.dart
+0x004d3bc4	0		remoteAssetsFlow_Error_AssetDownloadFailedTitle
+0x004d3dac	1	00244b94	This is likely because the app called `runApp` to render its root widget, which expects the platform to provide a default view to render into (the "implicit" view).
+0x004d3e51	0		However, the platform likely has multi-view mode enabled, which does not create this default "implicit" view.
+0x004d429c	0		Failed to play 
+0x004d4374	0		permissions_Location_Disabled_Message
+0x004d441c	0		signPayloadDeviceNotInitialized
+0x004d4664	0		get:firmwareUpdate_InProgress_Message
+0x004d46dc	0		package:caps_zp_ui/src/bottom_sheet/show_bottom_sheet.dart
+0x004d4d34	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/snake/bloc/calculations/snake_position_calculator.dart
+0x004d51fc	0		Signed session sent to native: 
+0x004d522c	0		package:caps_snake_1_v_1/src/ui_overlay/setup_game/painters/snake_head_painter.dart
+0x004d5464	0		LocaleDataException
+0x004d5624	0		TextPainter.paint called when text geometry was not yet calculated.
+0x004d56c4	0		set:characteristicInstanceId2
+0x004d57ec	0		get:_enabled@355005770
+0x004d599c	0		package:caps_shake/src/components/mountains/mountain_4.dart
+0x004d6054	0		_endHandleDragTarget@202111801
+0x004d62c4	0		TextInputClient.performPrivateCommand
+0x004d6714	0		package:caps_toss/src/widget/center_area/toss_initializing.dart
+0x004d6894	0		package:reactive_ble_platform_interface/src/model/result.dart
+0x004d7004	0		Failed to load all data
+0x004d713c	0		package:caps_zp_ui/src/buttons/primary_button.dart
+0x004d79dc	0		LineToCommand
+0x004d7d9c	0		firmwareUpdate_Required_Tips2
+0x004d7e84	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/pickup/components/cut_opponent_pickup.dart2
+0x004d800c	0		, batteryLevel: 
+0x004d826c	0		package:caps_snake_1_v_1/src/components/arena/children/blocked_positions/children/snake/bloc/snake_cubit.dart
+0x004d840c	0		package:capsapps_sdk/algorithms/toss_algorithm/toss_start_detection.dart
+0x004d862c	0		package:caps_endless_match/src/component/footballer/defensive/defensive_footballer_cubit.dart
+0x004d8aa4	0		Wakelock disabled successfully
+0x004d8e0c	0		package:caps_endless_match/src/component/goal/endless_goal_component.dart
+0x004d92a4	0		FirmwareReadyBuilder2
+0x004d92c4	0		UnsignedLong2
+0x004d94dc	0		Converting object to an encodable object failed:
+0x004d95dc	0		Failed to load image2
+0x004d9794	0		handleDeviceCursorUpdate
+0x004d98bc	0		package:caps_zp_ui/src/bottom_sheet/caps_bottom_sheet.dart
+0x004d9984	0		get:characteristicInstanceId2
+0x004da074	0		abortDfu
+0x004da54c	0		DFU: Error occurred: 
+0x004da574	0		get:characteristicValueStream
+0x004dacac	0		The CancelToken was cancelled multiple times with different reason:
+0x004dadac	0		bluetoothStateSubject
+0x004dae1c	0		package:caps_snake_vs_block/src/snake_vs_block/components/snake/snake_ball.dart
+0x004daebc	0		DFU: Device connecting: 
+0x004daf04	0		liveDataTransformer
+0x004db21c	0		package:caps_snake_1_v_1/src/components/arena/components/arena_barriers.dart2
+0x004db404	0		FirmwareUpdateErrorType
+0x004db564	0		_AnonymousRestorationInformation@146124995.fromSerializableData
+0x004db5c4	0		_semanticsEnabled@301275577
+0x004db604	0		SimpleDelimiter
+0x004dbce4	0		package:caps_asset_management/src/data/assets/asset_refs.dart
+0x004dc09c	0		package:caps_toss/src/service/audio/audio_player.dart
+0x004dc10c	0		package:caps_snake_1_v_1/src/common/snake_1v1_identifiable.dart
+0x004dc2cc	0		BatteryCheckChecking2
+0x004dc6b4	0		package:caps_asset_management/src/domain/manifest/asset_entry.dart
+0x004dcb3c	0		_processThrottledInput@1152077122
+0x004dcdbc	0		package:caps_asset_management/src/domain/manifest/manifest.g.dart
+0x004dcebc	0		_updateSemanticsEnabled@17065589
+0x004dceec	0		Searching for TRIKI
+0x004dcf8c	0		package:caps_zp_ui/src/bottom_sheet_variants/exit_app_bottom_sheet.dart
+0x004dd40c	0		startBatteryCheck
+0x004dd68c	0		package:capsapps_bridge/src/presentation/game/orchestration/bloc/caps_game_state.dart
+0x004dd76c	0		Failed to stop data streaming
+0x004dde7c	0		package:caps_snake_vs_block/src/snake_vs_block/overlays/game_hud/points_display.dart2
+0x004ddfa4	0		done() must not be called more than once on the same 
+0x004de06c	0		_uartServiceUuid@1468105895
+0x004de27c	0		_createMeasurementConfig@1305240075
+0x004de2c4	0		Checking Bluetooth permission
+0x004de484	0		package:caps_games_common/src/flame/caps_svg_component.dart
+0x004de4cc	0		Capture null pointer error. Could happens when passing a non initialized pointer (with calloc()) to retrieve FFT or wave data. Or, setVisualization has not been enabled.

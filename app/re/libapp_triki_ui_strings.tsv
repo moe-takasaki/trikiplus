@@ -1,0 +1,131 @@
+offset	string
+0x002ca584	assets/images/triki-background.png
+0x002caaa4	searchingTRIKI
+0x002cbdc4	LED not lighting? Reconnect Triki or choose another one 
+0x002d0a04	deviceConnection_BluetoothError_Message
+0x002d11e4	continueFromLedTest
+0x002d8234	ledTest_WorksButton
+0x002d89e4	_BatteryCheckBottomSheetState@628421663
+0x002d900c	deviceConnection_Timeout_Message
+0x002da54c	cancelDeviceConnectionStreamAndWaitUntilDisconnected2
+0x002dd18c	Try reconnecting or disconnect Triki from other phones and try again.
+0x002de924	LedTestStepState
+0x002e058c	GameDeviceConnectionState
+0x002efa9c	get:deviceConnection_Timeout_ChangeDeviceButton
+0x002f4604	DeviceConnectionState
+0x002f7efc	Failed to connect to TRIKI
+0x002f9f8c	_BatteryCheckState&Object&_$BatteryCheckState@629498949
+0x002fd58c	Low battery in Triki2
+0x002fd7b4	updateDeviceConnectionMode
+0x0030362c	ledTest_Help2
+0x00303dec	set:_trikiSlide@1339430752
+0x0030798c	BatteryCheckStatePatterns|maybeMap
+0x0031014c	Enable Bluetooth to connect with Triki again.
+0x00312c1c	Connected Triki
+0x0031648c	deviceConnection_Connecting_Title
+0x0031650c	get:ledTest_Title
+0x00318804	Nie znaleziono Triki2
+0x00319b64	BatteryCheckFailed
+0x0031c6cc	deviceConnection_Timeout_Title
+0x0031e3c4	get:deviceConnection_Disconnecting_Title
+0x0031e934	Add another Triki
+0x0031f2fc	get:deviceConnection_UnknownError_Title
+0x00326054	get:deviceConnection_Timeout_Message2
+0x0032f864	deviceConnection_Timeout_ChangeDeviceButton
+0x003473ac	ledTest_Instruction
+0x00350764	get:ledTest_Instruction
+0x0036708c	Triki 
+0x003696a4	ledTestScreen
+0x0036971c	ledTest_NoLight_Part2
+0x0036ab4c	Wyszukiwanie TRIKI
+0x0036db6c	continueFromBatteryCheck
+0x0037414c	DeviceConnectionBuilderV2
+0x00375cf4	Disconnecting from Triki
+0x003775dc	package:caps_zp_ui/src/bottom_sheet/triki_bottom_sheet_background.dart
+0x0037a434	_getDeviceConnectionStateStream@614309998
+0x0037db14	BatteryCheckBottomSheet
+0x0037e554	BatteryCheckStepState
+0x003811dc	BatteryCheckState.failed(deviceId: 
+0x00381c6c	get:deviceConnection_Timeout_Title
+0x0038a2a4	BatteryCheckBatteryLow
+0x0039d384	Triki
+0x003a1a5c	Dodaj kolejny Triki
+0x003a2824	GameDeviceConnectionEvent
+0x003a3024	BatteryCheckState.checking(deviceId: 
+0x003a8ec4	notifyDeviceConnectionState
+0x003a99a4	set:_trikiOpacity@13394307522
+0x003ac4e4	CapsTrikiImage
+0x003b2a5c	BatteryCheckBatteryOk
+0x003b865c	ledTest_Title
+0x003ba004	BatteryCheckCubit.
+0x003c20f4	LedTestButtonEvent
+0x003cd00c	_trikiOpacity@1339430752
+0x003cdd34	BatteryCheckStatePatterns|mapOrNull
+0x003cde44	_trikiSlide@1339430752
+0x003d267c	TrikiBottomSheetBackground
+0x003db4e4	tossChallenge_Title_Triki
+0x003dcb1c	_notifyDeviceConnectionState@1502484795
+0x003e92d4	TrikiDeviceNameFilter
+0x003ec86c	_deviceConnectionManager@704518358
+0x003f250c	_mergeDeviceConnectionStates@614309998
+0x003f276c	_$BatteryCheckState@629498949
+0x003f2e84	LedTestScreenOpenEvent
+0x003f36bc	deviceConnection_Disconnecting_Title2
+0x003f4994	get:ledTest_NoLight_Part1
+0x003f806c	# How to turn Triki on and off?
+0x003fd52c	LedTestCubit2
+0x00419e44	initialConnectionBatteryCheck
+0x0041d4cc	deviceConnection_UnknownError_Title
+0x00422b94	Failed to update Triki
+0x00424c24	_TrikiGlowBottom@1349154227
+0x00425454	LedTestBottomSheet
+0x00426a14	_TrikiGlowTop@1349154227
+0x00426c1c	Connecting to Triki
+0x00428194	ledTest_NoLight_Part1
+0x00429284	DeviceConnectionManager.
+0x0042c63c	package:capsapps_sdk/bluetooth/service/discovery/filters/triki_device_name_filter.dart
+0x00430ec4	_DeviceConnectionManagerState&Object&EquatableMixin@614309998
+0x0043471c	DeviceConnectionManager
+0x0043874c	ledTest_HelpContent
+0x0043a9bc	LedTestState2
+0x0043ac8c	GameDeviceConnectionState.
+0x0043dd04	get:tossChallenge_Title_Triki
+0x00444784	get:ledTest_NoLight_Part2
+0x0046372c	get:ledTest_Help
+0x0046459c	Make sure Triki is turned on and try to reconnect.
+0x00468b9c	 Triki
+0x0046c844	LedTestCubit.
+0x00473dc4	package:caps_zp_ui/src/images/triki_image.dart
+0x004828e4	TrikiServiceFilter
+0x0048474c	cancelDeviceConnectionStream2
+0x0048c764	get:deviceConnection_Connecting_Title
+0x0048d6e4	BatteryCheckState.batteryOk(deviceId: 
+0x00490844	The selected Triki is locked in update mode. Please wait - do not close the app. After the update is complete, you will be able to select the device from the list.
+0x00490cf4	You can start the game, but Triki may turn off during gameplay.
+0x00491d54	get:deviceConnectionStateUpdateStream
+0x00493cfc	Allow Bluetooth access to connect Triki.
+0x004955dc	get:deviceConnection_UnknownError_Message
+0x0049fdbc	_LedTestBottomSheetState@673300305
+0x004a00cc	deviceConnection_UnknownError_Message
+0x004a0b7c	Niski poziom baterii w Triki2
+0x004a3164	DeviceConnectionProviders
+0x004a5c0c	Hold the button below until the LED on Triki lights up
+0x004a99d4	BatteryCheckState.batteryLow(deviceId: 
+0x004ad984	Lost connection to Triki
+0x004ae1ec	BatteryCheckState
+0x004ae80c	TRIKI
+0x004b1b9c	cancelDeviceConnectionAndWaitUntilDisconnectedStream2
+0x004b1ea4	_getDeviceConnectionStateStream@692362721
+0x004b50ec	BatteryCheckCubit
+0x004b701c	deviceConnection_BluetoothError_Title
+0x004c68ec	DeviceConnectionState.
+0x004c6b14	DeviceConnectionCubit.
+0x004c71fc	package:capsapps_sdk/bluetooth/service/discovery/filters/triki_service_filter.dart
+0x004ca674	requestBatteryCheck
+0x004cc01c	get:ledTest_WorksButton
+0x004d71d4	get:deviceConnectionSubject
+0x004db634	DeviceConnectionCubit
+0x004dbbfc	DeviceConnectionManagerState2
+0x004dc2cc	BatteryCheckChecking2
+0x004dceec	Searching for TRIKI
+0x004dd40c	startBatteryCheck

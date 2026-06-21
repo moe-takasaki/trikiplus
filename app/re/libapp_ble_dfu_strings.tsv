@@ -1,0 +1,1661 @@
+offset	string
+0x00002dbc	_List.filled2
+0x00003754	UnhandledException
+0x00004e2c	List.filled
+0x00004ff4	_GrowableList.filled2
+0x00006854	_scanFlags
+0x002c82c4	onFirmwareUpdateCompleted
+0x002c835c	Live data streaming error, forcing reconnection: 
+0x002c9494	Connection State Handler: Switching device 
+0x002c955c	package:reactive_ble_mobile/src/converter/protobuf_converter.dart
+0x002c9704	Scan text
+0x002c973c	Scaffold.of() called with a context that does not contain a Scaffold.
+0x002c9bb4	Asking for audio data is not enabled (on the C++ side). Please use `setVisualizationEnabled(true);` to enable.
+0x002c9db4	package:capsapps_sdk/bluetooth/service/discovery/filters/rssi_filter.dart
+0x002ca4cc	package:app/features/device_connection/setup_connection_flow/setup_connection_flow_state.dart
+0x002ca864	add may only be called once.2
+0x002ca8bc	_onScanError@1478387098
+0x002cabac	NotFoundLastConnectedDeviceState
+0x002cb2dc	_InitFailedBottomSheet@315128691
+0x002cb4a4	activateConnection
+0x002cbadc	Connectivity.
+0x002cbb0c	Firmware update state changed: 
+0x002cbbcc	ConnectionDeviceDisconnectedEvent
+0x002cbdc4	LED not lighting? Reconnect Triki or choose another one 
+0x002cc094	_BluetoothDisabledBottomSheet@687219687
+0x002cc0cc	initialize() failed with error: 
+0x002cc204	package:capsapps_sdk/bluetooth/service/connection/ble_device_session.dart
+0x002cc46c	ConnectivityStatus.
+0x002cc4ec	connectionLost
+0x002cc534	Reconnection Strategy: Reconnection disabled for 
+0x002cc7b4	Connection State Handler: Handling connected state for device: 
+0x002cc8dc	DFU: startDfu failed2
+0x002cc8fc	CharacteristicValue
+0x002ccfac	get:connectionService
+0x002cd04c	abs access after alias all and architecture array assert assume assume_guarantee attribute begin block body buffer bus case component configuration constant context cover disconnect downto default else elsif end entity exit fairness file for force function generate generic group guarded if impure in inertial inout is label library linkage litera...
+0x002cd6d4	&circleddash;
+0x002cda34	reconnection2
+0x002cdd94	Location is disabled2
+0x002ce394	pauseGame callback disabled
+0x002ce7a4	Connectable.2
+0x002ced3c	DFU: Device connected: 
+0x002cef9c	_connectionService@1465205209
+0x002cf1c4	ConnectableStreamExtensions|publishValueSeeded
+0x002cf57c	_handleEndHandleDragStart@202111801
+0x002cf66c	Pogled nagore
+0x002cf8b4	ConnectDeviceStrategy.
+0x002d097c	Checksum failed after 
+0x002d0a04	deviceConnection_BluetoothError_Message
+0x002d0abc	Failed to decode 
+0x002d0cac	_RenderScaledInlineWidget@215328197
+0x002d0e7c	ServiceWithCharacteristics._@1975234311
+0x002d0ef4	package:reactive_ble_platform_interface/src/model/discovered_service.dart
+0x002d11e4	continueFromLedTest
+0x002d1584	_handleEndHandleDragEnd@202111801
+0x002d164c	set:onSemanticsEnabledChanged
+0x002d16fc	DeviceScanInfo.fromBuffer
+0x002d18d4	BluetoothRecoveredListener
+0x002d197c	package:rxdart/src/streams/connectable_stream.dart
+0x002d1b2c	_connectedDeviceOperator@1443330077
+0x002d1c14	bluetoothError_Message
+0x002d221c	_FirmwareReadyBuilderState@6050684782
+0x002d2384	firmwareUpdate_InProgressFromSearch_Message
+0x002d2644	package:app/features/device_connection/reconnection/devices_reconnection_listener.dart
+0x002d26bc	scanForDevices has not been implemented.
+0x002d34c4	PreviousCandidate
+0x002d3adc	ConnectToDeviceRequest.
+0x002d3c7c	ConnectionLastActiveDeviceEvent
+0x002d3d6c	get:mouseIsConnected2
+0x002d3ddc	Data on failed connection
+0x002d4174	bluetoothPermissions_NoAccess_Message
+0x002d42f4	set:capConnectionStateChangedSubject2
+0x002d440c	Failed to parse HTTP, 
+0x002d4604	Can't establish connection after the adapter was closed.
+0x002d4794	package:flutter_reactive_ble/src/reactive_ble.dart
+0x002d4a4c	get:connectivityService
+0x002d4a74	ConnectedDeviceOperationImpl2
+0x002d4c8c	package:app/common/domain/last_connected_device_storage.dart2
+0x002d4cd4	Failed to sign payload: Device not initialized
+0x002d4d24	hasBluetoothService
+0x002d5044	package:capsapps_sdk/bluetooth/exceptions/bluetooth_exceptions.dart
+0x002d5a2c	Blue command init play session execution failed for device 
+0x002d685c	package:reactive_ble_mobile/src/reactive_ble_mobile_platform.dart
+0x002d6b3c	_handleData@5048458
+0x002d7864	__ToggleLedButtonState&State&SingleTickerProviderStateMixin@673300305
+0x002d806c	package:caps_asset_management/src/presentation/download/firmware_ready_builder.dart
+0x002d80cc	ServicesWithCharacteristics._@1975234311
+0x002d8234	ledTest_WorksButton
+0x002d82cc	servicesWithCharacteristicsToDiscover
+0x002d88f4	Wakelock enable failed with unexpected error2
+0x002d89e4	_BatteryCheckBottomSheetState@628421663
+0x002d8cf4	Failed to get battery status for device 
+0x002d900c	deviceConnection_Timeout_Message
+0x002d911c	remoteAssetsFlow_Error_AssetDownloadFailedMessage
+0x002d94d4	_HttpClientConnection@16463476.
+0x002d95d4	FirmwareUpdateState
+0x002da2a4	writeCharacteristicWithoutResponse has not been implemented.2
+0x002da32c	:(visited|valid|root|right|required|read-write|read-only|out-range|optional|only-of-type|only-child|nth-of-type|nth-last-of-type|nth-last-child|nth-child|not|link|left|last-of-type|last-child|lang|invalid|indeterminate|in-range|hover|focus|first-of-type|first-line|first-letter|first-child|first|enabled|empty|disabled|default|checked|before|after...
+0x002da54c	cancelDeviceConnectionStreamAndWaitUntilDisconnected2
+0x002da96c	collisionEnabled
+0x002dab6c	characteristicUuids
+0x002dac14	_cleanupConnection@1511441197
+0x002db084	_deviceScanner@1443330077
+0x002db40c	request cancelled
+0x002dbcd4	environ vocabularies notations constructors definitions registrations theorems schemes requirements begin end definition registration cluster existence pred func defpred deffunc theorem proof let take assume then thus hence ex for st holds consider reconsider such that and in provided of as from be being by means equals implies iff redefine defi...
+0x002dc2dc	NotifyCharacteristicRequest.2
+0x002dc40c	Prescan connection to device 
+0x002dc494	Scan t
+0x002dc824	ValueConnectableStream.
+0x002dc94c	SecureSocket_Connect2
+0x002dd18c	Try reconnecting or disconnect Triki from other phones and try again.
+0x002dd764	&FilledVerySmallSquare;
+0x002de0dc	onDeviceDisconnected2
+0x002de474	Client error - the request contains bad syntax or cannot be fulfilled
+0x002de6cc	Connection closed before full body was received
+0x002de924	LedTestStepState
+0x002defe4	createConnection
+0x002df254	Connect to device: 
+0x002df334	filledButtonTheme
+0x002df4b4	_startConnect@15069316
+0x002df4dc	ConnectionUnknownErrorState
+0x002df56c	MergedConnectionsBuilder
+0x002df72c	WriteCharacteristicFailure.
+0x002e037c	package:nordic_dfu/src/nordic_dfu.dart
+0x002e058c	GameDeviceConnectionState
+0x002e06d4	package:connectivity_plus_platform_interface/src/enums.dart
+0x002e0744	Multiple matching characteristics found: 
+0x002e0bdc	package:flutter_reactive_ble/src/device_scanner.dart2
+0x002e0eb4	get:popGestureEnabled
+0x002e0ef4	SetupConnectionFlowCubit.
+0x002e117c	operation failed
+0x002e12b4	DeviceScanResult(uuid: 
+0x002e191c	Cancelling connection streams for device 
+0x002e1dbc	firmwareAssetEntryA
+0x002e1e74	Failed to send signed session: 
+0x002e1ea4	characteristicValueFrom
+0x002e1f74	DevicesReconnectionListener
+0x002e2404	Text scannen2
+0x002e273c	_bleDeviceInteractor@1465205209
+0x002e2c8c	get:firmwareUpdate_Required_StartButton
+0x002e387c	ValueConnectableStream
+0x002e3aac	_BluetoothErrorBottomSheet@6872196872
+0x002e413c	ABORT ALTER ANALYZE BEGIN CALL CHECKPOINT|10 CLOSE CLUSTER COMMENT COMMIT COPY CREATE DEALLOCATE DECLARE DELETE DISCARD DO DROP END EXECUTE EXPLAIN FETCH GRANT IMPORT INSERT LISTEN LOAD LOCK MOVE NOTIFY PREPARE REASSIGN|10 REFRESH REINDEX RELEASE RESET REVOKE ROLLBACK SAVEPOINT SECURITY SELECT SET SHOW START TRUNCATE UNLISTEN|10 UPDATE VACUUM|10...
+0x002e508c	_handleEndHandleDragUpdate@2021118012
+0x002e5454	PrescanService
+0x002e588c	_DisconnectingBottomSheet@634406890
+0x002e5a44	doubleDigitMinuteFormat
+0x002e5a6c	bluetoothPermissionDeniedUnknown
+0x002e5f34	Sign payload failed: 
+0x002e661c	singleDigitSecondFormat
+0x002e6dec	Failed to cleanup connection for device 
+0x002e71fc	Tekst scannen
+0x002e73f4	_handleDeviceUpdateMouseEvents@232437380
+0x002e7c7c	init:_linrgbFromScaledDiscount@1871253021
+0x002e8144	package:app/features/device_connection/battery_check/battery_check_cubit.freezed.dart
+0x002e82b4	UninitializedLocaleData
+0x002e847c	Timeline_isDartStreamEnabled2
+0x002e8a9c	Connection attempt cancelled, host: 2
+0x002e8e2c	firmwareUpdate_NotSupported_Message
+0x002e8f2c	getDevicesWithActiveConnection
+0x002e93ec	Write failed2
+0x002e9abc	get:_isEnabled@418181401
+0x002ea0ec	alog alog10 amax0 amax1 amin0 amin1 amod cabs ccos cexp clog csin csqrt dabs dacos dasin datan datan2 dcos dcosh ddim dexp dint dlog dlog10 dmax1 dmin1 dmod dnint dsign dsin dsinh dsqrt dtan dtanh float iabs idim idint idnint ifix isign max0 max1 min0 min1 sngl algama cdabs cdcos cdexp cdlog cdsin cdsqrt cqabs cqcos cqexp cqlog cqsin cqsqrt dcmp...
+0x002ea9a4	AllConnectedState
+0x002eac34	CharacteristicValueInfo
+0x002eae6c	FirmwarePreloadState2
+0x002eb304	Failed to read PCM frames.
+0x002eb564	Disposing prescan service
+0x002ebcb4	_FirmwareUpdateStep@695489582
+0x002ebf0c	bluetoothReady
+0x002ec1e4	package:app/features/device_connection/shared/connection_help_button.dart
+0x002ed024	get:readyToPlay_Status_Connected
+0x002ed0c4	ReconnectionFlowCubit
+0x002ed68c	get:connectLastDevice_Timeout_Message
+0x002edf9c	onDeviceConnected
+0x002ee3e4	goal_failed
+0x002eec44	ExceptionBridgeReadBatteryException
+0x002ef574	"(GET|POST|HEAD|PUT|DELETE|CONNECT|OPTIONS|PATCH|TRACE)
+0x002ef5bc	connect
+0x002efa9c	get:deviceConnection_Timeout_ChangeDeviceButton
+0x002f0274	Failed to get firmware version for device 
+0x002f033c	Snake killed - reason: 
+0x002f03a4	firmwareUpdate_Error_Message2
+0x002f0a8c	get:_primaryEnabled@372059085
+0x002f0ae4	firmwareUpdate_Error_Header
+0x002f0bfc	package:capsapps_sdk/bluetooth/service/discovery/filters/helpers.dart
+0x002f10b4	BluetoothService.
+0x002f14c4	Data on closed connection
+0x002f1f24	package:app/features/device_connection/permissions/mobile_sensors/mobile_sensors_listener.dart
+0x002f2104	Connection Service: Disabling reconnection on next disconnect for device: 
+0x002f247c	Failed to rasterize a picture: 
+0x002f2ce4	_hasScrolled@188426794
+0x002f3974	reconnectingDeviceConnect
+0x002f3afc	_mapConnectionEvent@491288265
+0x002f3b4c	Failed to sign payload: Init play session not initialized
+0x002f3e64	, characteristicIds: 
+0x002f428c	Failed to send update: 
+0x002f433c	initFailed
+0x002f439c	assembly module package import alias class interface object given value assign void function new of extends satisfies abstracts in out return break continue throw assert dynamic if else switch case for while try catch finally then let this outer super is exists nonempty shared abstract formal default actual variable late native deprecatedfinal s...
+0x002f4604	DeviceConnectionState
+0x002f4e44	package:app/features/device_connection/led_test/led_test_cubit.dart
+0x002f50fc	put abs acos aliasReference annuity arrayDecode arrayEncode asin atan atan2 average avg avgDev base64Decode base64Encode baseConvert binaryDecode binaryEncode byteOffset byteToNum cachedURL cachedURLs charToNum cipherNames codepointOffset codepointProperty codepointToNum codeunitOffset commandNames compound compress constantNames cos date dateFo...
+0x002f684c	Failed to read firmware version string for device 
+0x002f6d4c	package:capsapps_sdk/bluetooth/service/state/bluetooth_state_service.dart
+0x002f6e74	getBleDeviceSession
+0x002f78a4	, requireLocationServicesEnabled: 
+0x002f7b84	__MultiplayerConnectedDevicesBottomSheetState&State&WidgetsBindingObserver&ScrollPauseResetMixin@690342835.
+0x002f7efc	Failed to connect to TRIKI
+0x002f803c	Error turning on LED2
+0x002f83dc	_rxCharUuid@1468105895
+0x002f86dc	SoLoudReadSamplesFailedToGetDataFormatCppException
+0x002f88cc	package:reactive_ble_platform_interface/src/model/generic_failure.dart
+0x002f8984	bluetoothConnect
+0x002f8aec	ConnectivityPlatform2
+0x002f920c	Connecting to device: 
+0x002f97e4	onDeviceDisconnecting
+0x002f98bc	_createBleDeviceSession@1467427683
+0x002f9c4c	QualifiedCharacteristic
+0x002f9d4c	The `handler` has already been called, make sure each handler gets called only once.2
+0x002f9f8c	_BatteryCheckState&Object&_$BatteryCheckState@629498949
+0x002f9fd4	connectionHelp_Content
+0x002fa01c	failed
+0x002fa3e4	powerupPickupEnabled2
+0x002faa04	package:app/features/device_connection/permissions/bluetooth_permissions/bluetooth_no_access_bottom_sheet.dart
+0x002faa9c	bluetoothNotSupported
+0x002faac4	_LocationDisabledBottomSheet@687219687
+0x002fac44	firmwareUpdate_Required_Header
+0x002fb224	package:capsapps_sdk/bluetooth/service/bluetooth_service.dart
+0x002fb46c	DeviceConnector
+0x002fba04	_RestorationInformation@146124995.fromSerializableData
+0x002fbf04	initPlaySessionDeviceNoActiveConnection
+0x002fc39c	_deviceInformationServiceUuid@1468105895
+0x002fc5a4	TextInputConnection._@86206165
+0x002fc91c	Failed to sign payload: No active connection2
+0x002fca7c	get:readyToPlay_Status_Disconnected
+0x002fcb0c	No internet connection
+0x002fd174	_nativeCreateUnixDomainConnect@15069316
+0x002fd58c	Low battery in Triki2
+0x002fd7b4	updateDeviceConnectionMode
+0x002fe8ec	WriteCharacteristicInfo.fromBuffer
+0x002ff03c	DFU: Idle timeout (
+0x002ff07c	scaledByDouble
+0x002ff574	_List@0150898.filled2
+0x002ff9b4	package:reactive_ble_platform_interface/src/model/discovered_device.g.dart
+0x002fff6c	package:caps_networking/src/domain/connectivity_status.dart
+0x002fffb4	_impellerEnabled@17065589
+0x00300f9c	Failed to stop data streaming for device 
+0x00301974	ByRef Case Const ContinueCase ContinueLoop Default Dim Do Else ElseIf EndFunc EndIf EndSelect EndSwitch EndWith Enum Exit ExitLoop For Func Global If In Local Next ReDim Return Select Static Step Switch Then To Until Volatile WEnd While With
+0x00301de4	get:firmwareReady
+0x00302194	get:bluetoothPermissions_NoAccess_Title
+0x003027ac	bluetoothNotAuthorized
+0x0030295c	You can connect from 
+0x00302e6c	NordicDfu
+0x00302f0c	ReadCharacteristicRequest._@1975234311
+0x00303264	, servicesWithCharacteristicsToDiscover: 
+0x0030348c	Firmware update error for device 
+0x00303554	package:app/features/device_connection/device_connection_providers.dart
+0x0030362c	ledTest_Help2
+0x00303684	battery_Low_StartButton
+0x003036ac	setPosition failed
+0x00303d4c	&FilledSmallSquare;
+0x00303fb4	_subscribeToLiveDataCharacteristicStream@1466197479
+0x0030408c	_handleConnectedState@1509179881
+0x003041bc	UUID requires at least 16 bytes, got 
+0x00304ae4	get:firmwareUpdate_NotSupported_Message
+0x00304b1c	AudioTrebleDown
+0x00304bbc	package:caps_zp_logger/src/emitters/disabled_logger_emitter.dart
+0x00304f3c	DeviceScanner
+0x003060a4	flutter_reactive_ble_connected_device
+0x0030618c	 found during prescan
+0x00306754	disconnectDevice
+0x00306984	package:app/features/device_connection/device_connection_cubit.dart
+0x0030798c	BatteryCheckStatePatterns|maybeMap
+0x00307b2c	_handleDragStart@331001611
+0x0030807c	" not handled.
+0x003082cc	_executeReconnection@1511441197
+0x00308454	package:app/features/device_connection/shared/on_closed_pressed.dart2
+0x003089fc	Directory listing failed
+0x00308af4	Error subscribing to live data characteristic stream: 
+0x00308c24	hasEnabledState
+0x00308d3c	permissions_Location_Disabled_Header2
+0x00309204	DevicesReconnectionBottomSheet
+0x003093ec	Firmware configured: A=
+0x003099ac	HTTP connection timed out after 
+0x0030a3cc	computeSerializableData
+0x0030a4fc	ReconnectingState
+0x0030aee4	StartDfuModeException
+0x0030b25c	package:capsapps_sdk/core/types/connection/connection_mode.dart
+0x0030b4ac	CONNECT
+0x0030b63c	_MultiplayerConnectedDevicesBottomSheetState@690342835
+0x0030badc	batteryLevel2
+0x0030bf14	get:battery_Low_Title
+0x0030c0e4	Failed to load assets
+0x0030c474	locationServicesDisabled
+0x0030c504	connecting
+0x0030c644	turnOffLed
+0x0030c704	connectionState
+0x0030ca44	Algorithm processing failed
+0x0030cc8c	serviceUuids2
+0x0030d104	Asking for audio data is not enabled! Please use `setVisualizationEnabled(true);` to enable!2
+0x0030d2f4	Connection State Handler: Handling disconnected state for device: 
+0x0030d444	DFU: Device disconnected: 
+0x0030d624	filled
+0x0030d84c	WriteCharacteristicInfo._@19752343112
+0x0030dbfc	_invokeStartDfu@1501094166
+0x0030e17c	flutter_reactive_ble_status
+0x0030e36c	pauseGame callback enabled
+0x0030f1ec	_connectionClosedNoFurtherClosing@16463476
+0x0030f2c4	\s(aget|aput|array|check|execute|fill|filled|goto/16|goto/32|iget|instance|invoke|iput|monitor|packed|sget|sparse)((\-|/)[a-zA-Z0-9]+)*\s
+0x0030f624	_awaitUserDefinedFuture@5048458
+0x0030fbfc	startDfuModeException
+0x0030fd34	_prescanAndConnect@1467427683
+0x0030ff1c	Read characteristic: 
+0x0030fff4	checkConnectivity
+0x0031014c	Enable Bluetooth to connect with Triki again.
+0x00310264	FirmwareAssetResolver
+0x0031071c	Characteristic
+0x003108f4	set:serviceUuid
+0x0031114c	RecycledQueue.
+0x0031134c	connection error
+0x0031170c	get:connectLastDevice_ChangeDeviceButton
+0x00311ba4	_GrowableList@0150898.filled2
+0x003125bc	get:firmwareUpdate_NotSupported_ChangeDeviceButton
+0x00312c1c	Connected Triki
+0x0031305c	requestBluetoothScanPermission
+0x00313444	alternativeAdvertisingNameEnabled
+0x0031388c	': Failed assertion: line 
+0x00313c3c	Firmware update completed successfully for device 
+0x00313e24	_handleDragEnd@331001611
+0x0031408c	package:flutter_reactive_ble/src/rx_ext/serial_disposable.dart
+0x003143ec	characteristicId
+0x0031466c	DisconnectFromDeviceRequest
+0x0031491c	init:_connection@644329625
+0x00314b4c	 Failed assertion:
+0x00314e3c	package:app/features/device_connection/permissions/bluetooth_permissions/blue_permission_state.dart
+0x003150ac	onFirmwareValidating2
+0x0031562c	(\.\./|/|\s)((traffic-flow|traffic-generator|firewall|scheduler|aaa|accounting|address-list|address|align|area|bandwidth-server|bfd|bgp|bridge|client|clock|community|config|connection|console|customer|default|dhcp-client|dhcp-server|discovery|dns|e-mail|ethernet|filter|firewall|firmware|gps|graphing|group|hardware|health|hotspot|identity|igmp-pr...
+0x00315acc	firmwareUpdateRequired
+0x00316084	get:readyToPlay_Status_RetryingConnection
+0x0031648c	deviceConnection_Connecting_Title
+0x0031650c	get:ledTest_Title
+0x00316664	set:bluetoothStateSubject
+0x0031674c	NoBleCharacteristicDataReceived
+0x003168bc	initialConnectionDeviceConnect
+0x0031754c	reconnectionCheckBluetoothState
+0x0031757c	Connection closed before data was received
+0x00317674	DisconnectedState
+0x00317934	_awaitCompletedFuture@5048458
+0x0031809c	_handleBuildScheduled@105399801
+0x00318164	An error occurred while checking battery
+0x0031819c	package:app/features/device_connection/device_connection_bottom_sheet_v2.dart
+0x0031826c	WriteCharacteristicInfo
+0x003186cc	DioException.connectionTimeout
+0x003186fc	&DoubleDownArrow;
+0x00318d2c	Failed to initialize audio controller: 
+0x00318dd4	disabledBackgroundColor
+0x00318e44	, inDfuMode: 
+0x00319114	ScanErrorInfo
+0x00319134	readCharacteristic
+0x0031960c	array_agg array_append array_concat array_contains array_count array_distinct array_ifnull array_length array_max array_min array_position array_prepend array_put array_range array_remove array_repeat array_replace array_reverse array_sort array_sum avg count max min sum greatest least ifmissing ifmissingornull ifnull missingif nullif ifinf ifna...
+0x00319b64	BatteryCheckFailed
+0x0031a5c4	readyToPlay_Connected
+0x0031a634	connectLastDevice_Timeout_Message
+0x0031aedc	NotifyNoMoreCharacteristicRequest
+0x0031b1fc	_optimizeConnectionParameters@1466197479
+0x0031b3b4	package:reactive_ble_mobile/src/converter/args_to_protubuf_converter.dart
+0x0031b4a4	get:cutEnabled
+0x0031b7cc	failedToSeekPcm
+0x0031bab4	get:characteristicUuids
+0x0031bbac	_ConnectedDevicesBottomSheet@615504624
+0x0031bd4c	ConnectionError
+0x0031c08c	_ConnectionInfo@16463476
+0x0031c214	_onConnected@635207155
+0x0031c29c	package:capsapps_sdk/bluetooth/infrastructure/utils/measurement_decoder.dart2
+0x0031c374	Failed to create Opus decoder.
+0x0031c6cc	deviceConnection_Timeout_Title
+0x0031c874	Connection State Handler: Handling error state for device: 
+0x0031cdd4	bluetoothAdvertise
+0x0031cf4c	_handleSelectionEndHandleDragStart@2021118012
+0x0031d2dc	\b(abs|acos|asin|atan|atan2|atanh|ceil|cloglog|comb|cos|digamma|exp|floor|invcloglog|invlogit|ln|lnfact|lnfactorial|lngamma|log|log10|max|min|mod|reldif|round|sign|sin|sqrt|sum|tan|tanh|trigamma|trunc|betaden|Binomial|binorm|binormal|chi2|chi2tail|dgammapda|dgammapdada|dgammapdadx|dgammapdx|dgammapdxdx|F|Fden|Ftail|gammaden|gammap|ibeta|invbinom...
+0x0031d90c	handleDragStart
+0x0031deb4	StringScannerException
+0x0031e084	button_Disabled_Message
+0x0031e1bc	IsConnectable._@1975234311
+0x0031e29c	set:characteristic
+0x0031e3c4	get:deviceConnection_Disconnecting_Title
+0x0031e69c	DFU: device version 2
+0x0031ef4c	__MultiplayerConnectedDevicesBottomSheetState&State&WidgetsBindingObserver&ScrollPauseResetMixin@690342835
+0x0031f2fc	get:deviceConnection_UnknownError_Title
+0x0031f554	writeCharacteristicInfoFrom
+0x0031faac	ReadCharacteristicRequest.
+0x0031fc7c	&circledcirc;
+0x003206fc	get:firmwareUpdate_Required_Message
+0x00320acc	package:app/features/device_connection/ready_to_play/multiplayer_ready_to_play_bottom_sheet.dart
+0x00320dac	bluetoothScan
+0x00321134	set:persistentConnection
+0x0032126c	get:isConnectable
+0x00321704	AssetFlowDownloadFailedBottomSheet
+0x0032178c	&TripleDot;
+0x00321e6c	updateFirmware
+0x00322384	scanThrottlingException
+0x003226a4	Abs ACos AdlibRegister AdlibUnRegister Asc AscW ASin Assign ATan AutoItSetOption AutoItWinGetTitle AutoItWinSetTitle Beep Binary BinaryLen BinaryMid BinaryToString BitAND BitNOT BitOR BitRotate BitShift BitXOR BlockInput Break Call CDTray Ceiling Chr ChrW ClipGet ClipPut ConsoleRead ConsoleWrite ConsoleWriteError ControlClick ControlCommand Cont...
+0x00324814	DisconnectFromDeviceRequest._@1975234311
+0x00324aac	NotifyCharacteristicRequest._@1975234311
+0x00325264	set:readEventsEnabled
+0x0032598c	UninitializedLocaleData.
+0x00325b34	startDfuMode2
+0x00325f0c	Failed to init play session for device 
+0x00326054	get:deviceConnection_Timeout_Message2
+0x003261ac	failedToDecodeOpusPacket
+0x0032677c	Firmware pair resolved: A=
+0x0032680c	get:connectionHelp_Content
+0x00326b44	disconnecting
+0x00326d3c	_activateConnectionTimeoutIfNotActive@1511441197
+0x00326eec	_prescanService@1467427683
+0x0032793c	Failed to set pause for 
+0x003279bc	&circledast;2
+0x00327a2c	package:reactive_ble_platform_interface/src/model/scan_session.dart
+0x00327c54	onFirmwareUpdateStarted
+0x00328af4	init:_semanticsEnabled@301275577
+0x00329a0c	_MultiplayerConnectedDevicesBottomSheetState@690342835.
+0x00329a54	_InvalidConnectionState@1976393572
+0x00329c2c	Failed to report exception: 2
+0x00329ecc	Prescan throttled: 
+0x0032a164	bluetooth_denial_count
+0x0032a6a4	ScanDevicesNotFoundEvent
+0x0032abd4	Connection Service: Forcing reconnection for device: 
+0x0032ae9c	CharacteristicsUpdateService2
+0x0032b1f4	disabledSetextHeading
+0x0032b6b4	abstract as base bool break byte case catch char checked const continue decimal default delegate do double enum event explicit extern finally fixed float for foreach goto if implicit in int interface internal is lock long object operator out override params private protected public readonly ref sbyte sealed short sizeof stackalloc static string ...
+0x0032b9cc	ConnectionService
+0x0032ed8c	LastConnectedDeviceStorageImpl
+0x0032ee9c	Pogled prema gore
+0x0032ef24	connectToDevice
+0x0032efcc	&triangledown;
+0x0032f864	deviceConnection_Timeout_ChangeDeviceButton
+0x0032fabc	Starting firmware update for device 2
+0x0033057c	ScanForDevicesRequest
+0x003305b4	DFU: Device not found in DFU mode
+0x003305fc	DFU: DFU Aborted: 
+0x0033061c	Sound toggled: 
+0x0033083c	get:liveTextInputEnabled
+0x00331004	turnOnLed
+0x0033115c	ScanErrorAnalyzer
+0x003312ec	Align And Array As Break CallDebugger Case CompilerCase CompilerDefault CompilerElse CompilerElseIf CompilerEndIf CompilerEndSelect CompilerError CompilerIf CompilerSelect CompilerWarning Continue Data DataSection Debug DebugLevel Declare DeclareC DeclareCDLL DeclareDLL DeclareModule Default Define Dim DisableASM DisableDebugger DisableExplicit ...
+0x00331a3c	Battery level for device 
+0x00331b14	Uuid.parse
+0x00331f1c	set:quarterTurns
+0x003322c4	GET POST HEAD PUT DELETE CONNECT OPTIONS PATCH TRACE2
+0x00332cbc	ConnectionStateUpdate
+0x003331bc	package:capsapps_sdk/bluetooth/service/firmware/firmware_asset_loader.dart
+0x00333214	LoadingLastConnectedDeviceState
+0x003333d4	Failed to create decoder. This could happen when some internal error occurred while creating the decoder. Maybe not enough memory or maybe the data is corrupted. (on the C++ side).2
+0x003336a4	forcePressEnabled
+0x003336f4	ConnectionState
+0x0033391c	searchForLastConnectedDeviceScreen
+0x0033411c	CompletedFirmwareUpdateState2
+0x00334324	BluetoothConnectionService.
+0x00334b8c	_onConnectivityChanged@724508500
+0x00334e5c	ConnectionDeviceConnectedEvent
+0x003352d4	InitNativeStateFailed
+0x00335b54	_ledStateCharUuid@14681058952
+0x0033621c	package:reactive_ble_platform_interface/src/reactive_ble_platform_interface.dart
+0x0033633c	There was a problem with the internet connection, check your connection and try again
+0x00336474	_$FirmwareAssetEntryFromJson@597392867
+0x0033654c	FirmwarePreloadReady2
+0x003368a4	package:app/features/device_connection/permissions/location_permissions/location_permissions_bottom_sheet.dart
+0x00336c04	BluetoothStateService.
+0x00336cbc	abs accTime acos action actionIDs actionKeys actionKeysImages actionKeysNames actionKeysNamesArray actionName actionParams activateAddons activatedAddons activateKey add3DENConnection add3DENEventHandler add3DENLayer addAction addBackpack addBackpackCargo addBackpackCargoGlobal addBackpackGlobal addCamShake addCuratorAddons addCuratorCameraArea ...
+0x0033e634	ErrorFirmwareUpdateState
+0x0033e944	set:scanMode2
+0x0033ea0c	 (scaled: 
+0x0033fb94	connectTimeout
+0x0034004c	Pogled gor
+0x003402c4	init:_ledStateCharUuid@1468105895
+0x0034062c	onDfuAborted2
+0x003408c4	get:serviceUuid
+0x00340d1c	abstract add and array as asc aspect assembly async begin break block by case class concat const copy constructor continue create default delegate desc distinct div do downto dynamic each else empty end ensure enum equals event except exit extension external false final finalize finalizer finally flags for forward from function future global gro...
+0x00344af4	, connectionState: 
+0x00344bcc	package:app/features/device_connection/setup_connection_flow/setup_connection_flow_cubit.dart
+0x00344c7c	Reconnection Strategy: Executing reconnection for device: 
+0x00344d94	Proxy failed to establish tunnel (
+0x0034529c	_connectionStateSubscription@1502484795
+0x00345474	Update controller firmware and play on!
+0x0034553c	singleDigitMinuteFormat
+0x00345894	package:reactive_ble_platform_interface/src/logger.dart
+0x0034602c	FirmwareAssetResolver.
+0x00346234	DFU: aborted ignored during retry transition: 
+0x003463cc	_initializeBluetoothStateStream@1471007728
+0x003464ac	package:flutter_reactive_ble/src/debug_logger.dart
+0x00346fbc	read failed
+0x00347134	REACTIVE_BLE2
+0x0034728c	Failed to seek audio data.
+0x003473ac	ledTest_Instruction
+0x00347554	Sound is not enabled, skipping 
+0x0034764c	ServicesWithCharacteristics
+0x00347b24	initialConnectionCheckBluetoothState2
+0x0034848c	afterConnected
+0x00348794	ConnectionFailureReason
+0x00348c04	(characteristic: 
+0x00348c94	openFailed
+0x00348fac	onDfuProcessStarted
+0x0034945c	setLedOn
+0x00349fac	package:app/features/device_connection/shared/markdown_bottom_sheet.dart
+0x0034a6c4	_firmwareVersionStringCharUuid@1468105895
+0x0034a8b4	Subscribing to characteristic: 
+0x0034af34	get:connectedDeviceStream
+0x0034b8bc	_FirmwareUpdateInProgressBottomSheet@670504465
+0x0034c3f4	Failed to report Flutter error: 
+0x0034c4e4	createDisconnectDeviceArgs
+0x0034c714	get:selectAllEnabled2
+0x0034c864	_ConnectableStreamUse.
+0x0034c8c4	if else in foreach for forv forva forval forvalu forvalue forvalues by bys bysort xi quietly qui capture about ac ac_7 acprplot acprplot_7 adjust ado adopath adoupdate alpha ameans an ano anov anova anova_estat anova_terms anovadef aorder ap app appe appen append arch arch_dr arch_estat arch_p archlm areg areg_p args arima arima_dr arima_estat a...
+0x003503cc	CONNECTION TEST
+0x00350764	get:ledTest_Instruction
+0x0035088c	GetLastConnectedBottomSheet
+0x00350a84	RcLowBattery2
+0x00350b64	Disconnected2
+0x00350c64	package:app/features/device_connection/permissions/mobile_sensors/mobile_sensors_cubit.dart
+0x00350e44	get:pasteEnabled
+0x00351384	done() must not be called more than once on the same VectorGraphicsBuffer.
+0x0035151c	connectionMode
+0x003515ec	DiscoveredCharacteristic._@1975234311
+0x003516dc	canReconnect2
+0x003522c4	package:capsapps_sdk/bluetooth/service/firmware/firmware_update_state.dart
+0x003523dc	recoverAllConnections
+0x00352514	ConnectLastDeviceStepState
+0x00352964	_endHandleDragPosition@202111801
+0x003530cc	SetupConnectionFlowState
+0x00353894	Reconnection Strategy: Can reconnect device 2
+0x00353d4c	getCapConnectionState
+0x00353e14	init:_uartServiceUuid@1468105895
+0x0035408c	Connection timeout expired for device: 
+0x0035421c	Starting BLE scan for 
+0x00354364	_getConnectionTarget@16463476
+0x00355054	init:_getVisualizationEnabledPtr@1604500395
+0x0035515c	std string wstring cin cout cerr clog stdin stdout stderr stringstream istringstream ostringstream auto_ptr deque list queue stack vector map set bitset multiset multimap unordered_set unordered_map unordered_multiset unordered_multimap array shared_ptr abort terminate abs acos asin atan2 atan calloc ceil cosh cos exit exp fabs floor fmod fprint...
+0x0035595c	_monitorMouseConnection@232437380
+0x00355c24	&DoubleDot;
+0x00356404	Failed to stop 
+0x003564fc	Connection Service: Cancelling connection for device: 
+0x00366c8c	Constructor will never be called because null is never provided as current tween.
+0x00366dfc	UuidV4.fromBytes
+0x00366ebc	_FirmwarePair@1501094166
+0x00366f4c	&CircleDot;
+0x0036729c	invalidFirmware
+0x0036735c	validateMovementDetailed
+0x00367b74	_cancelCurrentScan@1478387098
+0x00367c54	connection
+0x00367dac	\b(VERSION|OWNER|TEMPLATE|TABLESPACE|CONNECTION\s+LIMIT|PROCEDURE|RESTRICT|JOIN|PARSER|COPY|START|END|COLLATION|INPUT|ANALYZE|STORAGE|LIKE|DEFAULT|DELIMITER|ENCODING|COLUMN|CONSTRAINT|TABLE|SCHEMA)\s*=
+0x003681b4	DFU: DFU Completed: 2
+0x0036840c	get:semanticsEnabled2
+0x00368714	FoundLastConnectedDeviceState
+0x00368e2c	onDfuCompleted
+0x00369304	 channel was discarded before it could be handled.
+0x003694bc	_closeConnections@16463476
+0x003696a4	ledTestScreen
+0x0036971c	ledTest_NoLight_Part2
+0x003698dc	Closing FirmwareUpdateCubit - cancelling firmware update stream
+0x00369b34	package:capsapps_sdk/core/types/connection/cap_connection_state_enum.dart
+0x00369bbc	neg not null string reciprocal floor ceiling signum mod xbar xlog and or each scan over prior mmu lsq inv md5 ltime gtime count first var dev med cov cor all any rand sums prds mins maxs fills deltas ratios avgs differ prev next rank reverse iasc idesc asc desc msum mcount mavg mdev xrank mmin mmax xprev rotate distinct group where flip type key...
+0x0036b124	_handleSelectionStartHandleDragStart@202111801
+0x0036b9fc	DFU: abortDfu failed2
+0x0036bbb4	get:connectionUpdateStream
+0x0036c144	alias batch cd clear command connect connection-factory connection-info data-source deploy deployment-info deployment-overlay echo echo-dmr help history if jdbc-driver-info jms-queue|20 jms-topic|20 ls patch pwd quit read-attribute read-operation reload rollout-plan run-batch set shutdown try unalias undeploy unset version xa-data-source
+0x0036c70c	package:reactive_ble_platform_interface/src/model/discovered_characteristic.dart
+0x0036c91c	dev.steenbakker.nordic_dfu/method
+0x0036c994	TraversalEdgeBehavior
+0x0036ca14	DfuModeDeviceDiscoveryFilter2
+0x0036cb24	All pending requests have been failed
+0x0036d06c	Scan throttling detected. Retry after: 
+0x0036d544	package:app/features/device_connection/shared/connection_type.dart
+0x0036da7c	package:connectivity_plus/connectivity_plus.dart
+0x0036db44	_getScaledFontSize@17065589
+0x0036db6c	continueFromBatteryCheck
+0x0036e2dc	Bluetooth Error
+0x0036e504	ABS ACCRINT ACCRINTM ACOS ACOSH ACOT ACOTH AGGREGATE ADDRESS AMORDEGRC AMORLINC AND ARABIC AREAS ASC ASIN ASINH ATAN ATAN2 ATANH AVEDEV AVERAGE AVERAGEA AVERAGEIF AVERAGEIFS BAHTTEXT BASE BESSELI BESSELJ BESSELK BESSELY BETADIST BETA.DIST BETAINV BETA.INV BIN2DEC BIN2HEX BIN2OCT BINOMDIST BINOM.DIST BINOM.DIST.RANGE BINOM.INV BITAND BITLSHIFT BI...
+0x0036f3ec	_handleDragUpdate@202111801
+0x0036fafc	prescan
+0x0036fde4	_platformIsolatesEnabled@17065589
+0x0037008c	tryConnectToResolvedAddresses
+0x003701e4	tossChallenge_Failed2
+0x00370614	Subscribing to live data characteristic stream
+0x0037109c	CapConnectionState.
+0x003713dc	abs acf aconcat aeye amax amean AmericanBinomCall AmericanBinomCall_Greeks AmericanBinomCall_ImpVol AmericanBinomPut AmericanBinomPut_Greeks AmericanBinomPut_ImpVol AmericanBSCall AmericanBSCall_Greeks AmericanBSCall_ImpVol AmericanBSPut AmericanBSPut_Greeks AmericanBSPut_ImpVol amin amult annotationGetDefaults annotationSetBkd annotationSetFont...
+0x00373ab4	_ConnectingBottomSheet@634406890
+0x00373f44	connectLastDevice_Searching_Message
+0x0037414c	DeviceConnectionBuilderV2
+0x0037447c	get:_shouldCreateInputConnection@119183791
+0x003744e4	batteryLow
+0x0037456c	Connection State Handler: Notifying state change - Device: 
+0x00374bbc	firmwareUpdate_InProgress_Header
+0x00374c14	:[ \t]*(IApplication|IAccessRights|IAccountRepository|IAccountSelectionRestrictions|IAction|IActionList|IAdministrationHistoryDescription|IAnchors|IApplication|IArchiveInfo|IAttachment|IAttachmentList|ICheckListBox|ICheckPointedList|IColumn|IComponent|IComponentDescription|IComponentToken|IComponentTokenFactory|IComponentTokenInfo|ICompRecordInf...
+0x00375cf4	Disconnecting from Triki
+0x0037665c	Sign session failed: 
+0x00376854	DeviceScannerImpl.
+0x00376afc	Socket_CreateBindConnect
+0x00376d3c	package:app/features/device_connection/permissions/mobile_sensors/mobile_sensors_bottom_sheet_flow.dart
+0x00377314	, scanMode: 2
+0x00377584	get:firmwareUpdate_NotSupported_Header
+0x003780f4	Connected
+0x003781c4	init:_httpConnectionHook@16463476
+0x00378ee4	ConnectivityResult
+0x00378f94	SetupConnectionBottomSheetFlow
+0x003793ec	reconnect
+0x00379964	_updateScaledTransform@391490068
+0x0037a434	_getDeviceConnectionStateStream@614309998
+0x0037a614	dev.steenbakker.nordic_dfu/event
+0x0037a7f4	connectionTimeout
+0x0037a83c	set:restorationEnabled
+0x0037b0d4	type yield lazy override def with val var sealed abstract private trait object if forSome for while throw finally protected extends import final return else break new catch super class case package default try this match continue throws implicit
+0x0037db14	BatteryCheckBottomSheet
+0x0037dd54	Connect to the internet to play.
+0x0037de14	connectDevice
+0x0037e144	FirmwareAssetLoader
+0x0037e554	BatteryCheckStepState
+0x0037e8a4	connectLastDevice_ConnectionError_Message
+0x0037eb2c	readyToPlay_Status_Disconnected
+0x0037f19c	_nativeAvailableDatagram@15069316
+0x0037fa0c	package:caps_asset_management/src/presentation/download/firmware_preload_cubit.dart
+0x0037fdfc	PlatformConfigurationNativeApi::GetScaledFontSize
+0x003804fc	scanStream has not been implemented.2
+0x003807d4	Connection Service: Activating connection for device: 
+0x00380abc	Failed to retrieve decoder data format.
+0x00380fac	init:_batteryServiceUuid@1468105895
+0x003811dc	BatteryCheckState.failed(deviceId: 
+0x0038136c	package:capsapps_sdk/bluetooth/service/firmware/firmware_update_config.dart
+0x003819fc	package:http_parser/src/scan.dart
+0x00381b84	Temporary directory hasn't been initialized, yet cleanUp() is called.
+0x00381c4c	set:isEnabled
+0x00381c6c	get:deviceConnection_Timeout_Title
+0x0038217c	\b(abs|acf|aconcat|aeye|amax|amean|AmericanBinomCall|AmericanBinomCall_Greeks|AmericanBinomCall_ImpVol|AmericanBinomPut|AmericanBinomPut_Greeks|AmericanBinomPut_ImpVol|AmericanBSCall|AmericanBSCall_Greeks|AmericanBSCall_ImpVol|AmericanBSPut|AmericanBSPut_Greeks|AmericanBSPut_ImpVol|amin|amult|annotationGetDefaults|annotationSetBkd|annotationSetF...
+0x003848a4	_setFieldFailedMessage@1970070143
+0x00384ccc	Connection closed before response was received
+0x00384eb4	MethodChannelConnectivity
+0x003853e4	GetFirmwareVersionException
+0x003854a4	_finishScan@694164119
+0x00385754	_openOrCloseInputConnectionIfNeeded@119183791
+0x003858a4	RevealedOffset
+0x00385b5c	package:connectivity_plus_platform_interface/connectivity_plus_platform_interface.dart
+0x00385d3c	package:app/common/data/last_connected_device_storage_impl.dart
+0x0038639c	_handleDragStart@443053933
+0x00386444	Uuid._@1975234311
+0x003869f4	\b(?:XP_ERROR_(?:EXPERIENCES_DISABLED|EXPERIENCE_(?:DISABLED|SUSPENDED)|INVALID_(?:EXPERIENCE|PARAMETERS)|KEY_NOT_FOUND|MATURITY_EXCEEDED|NONE|NOT_(?:FOUND|PERMITTED(?:_LAND)?)|NO_EXPERIENCE|QUOTA_EXCEEDED|RETRY_UPDATE|STORAGE_EXCEPTION|STORE_DISABLED|THROTTLED|UNKNOWN_ERROR)|JSON_APPEND|STATUS_(?:PHYSICS|ROTATE_[XYZ]|PHANTOM|SANDBOX|BLOCK_GRAB(...
+0x0038889c	FirmwareUpdateErrorType.
+0x0038890c	scaleDown
+0x00388cc4	Connection State Handler: Device 
+0x0038902c	_$FirmwareAssetEntryToJson@5973928672
+0x003893b4	FirmwareUpdateConfig.
+0x00389654	connectionClosedReceived
+0x003896ac	connectLastDevice_ChangeDeviceButton2
+0x003896fc	Failed to send signed payload: 
+0x0038a08c	get:permissions_Bluetooth_Disabled_Message
+0x0038a234	_DevicesReconnectionListenerState@616460829
+0x0038a2a4	BatteryCheckBatteryLow
+0x0038a514	disableReconnection
+0x0038a7ac	_restartConnectionIfNeeded@1191837912
+0x0038aa34	set:_connectionService@1465205209
+0x0038b054	handleDismiss
+0x0038b2d4	permissions_Location_Disabled_iOS_Message
+0x0038b60c	closeAllConnections
+0x0038b914	StringScanner
+0x0038bedc	get:firmwareUpdate_Error_Message
+0x0038c0cc	allowReconnection
+0x0038c264	argument_relative argument argument0 argument1 argument2 argument3 argument4 argument5 argument6 argument7 argument8 argument9 argument10 argument11 argument12 argument13 argument14 argument15 argument_count x y xprevious yprevious xstart ystart hspeed vspeed direction speed friction gravity gravity_direction path_index path_position path_positi...
+0x0038e2a4	get:firmwareUpdate_Error_ChangeDeviceButton
+0x0038e42c	ConnectionHelpButton2
+0x0038e464	_scan@0150898
+0x0038e7cc	package:capsapps_sdk/core/service/connection_service.dart
+0x0038ecb4	_getHandleDy@202111801
+0x0038ed74	package:capsapps_bridge/src/app_bridges/game_device_connection/game_device_bridge_impl.dart
+0x0038f2bc	package:caps_asset_management/src/data/assets/firmware_resolver/firmware_asset_resolver.dart2
+0x0038fba4	connectLastDevice_Timeout_Header
+0x0039003c	get:_connectionService@1305240075
+0x00390114	get:shareEnabled
+0x003906a4	ScrollableDetails
+0x0039108c	DFU: isInDfuMode failed (locked DFU mode?), error: 
+0x00391304	MethodChannelConnectivity.
+0x00391924	ScanErrorType.
+0x0039199c	package:nordic_dfu/src/parameters/darwin_parameters.dart
+0x00391a7c	ConnectivityResult.
+0x00391b7c	_closeInputConnectionIfNeeded@119183791
+0x00391cec	connectingToDeviceScreen
+0x00391dbc	. Firmware is not supported.2
+0x00392114	\.(BIGINT|INT8|BIGSERIAL|SERIAL8|BIT|VARYING|VARBIT|BOOLEAN|BOOL|BOX|BYTEA|CHARACTER|CHAR|VARCHAR|CIDR|CIRCLE|DATE|DOUBLE|PRECISION|FLOAT8|FLOAT|INET|INTEGER|INT|INT4|INTERVAL|JSON|JSONB|LINE|LSEG|MACADDR|MACADDR8|MONEY|NUMERIC|DEC|DECIMAL|PATH|POINT|POLYGON|REAL|FLOAT4|SMALLINT|INT2|SMALLSERIAL|SERIAL2|SERIAL|SERIAL4|TEXT|TIME|ZONE|TIMETZ|TIMES...
+0x00392aac	ReconnectionFlowState
+0x00392d74	connectionTimedOut
+0x003932f4	setLedOff
+0x0039340c	_getHttpConnectionHookClosure@17065589
+0x003935ac	as abort abs absolute acc acce accep accept access accessed accessible account acos action activate add addtime admin administer advanced advise aes_decrypt aes_encrypt after agent aggregate ali alia alias all allocate allow alter always analyze ancillary and anti any anydata anydataset anyschema anytype apply archive archived archivelog are as ...
+0x00396534	BluetoothConnectionService
+0x00396754	Error during battery check for device 
+0x00396ba4	getVisualizationEnabled
+0x00397594	ConnectDeviceStrategy
+0x00397b14	package:reactive_ble_platform_interface/src/model/log_level.dart
+0x00398c9c	onDfuProcessStarting2
+0x003990cc	_FirmwareUpdateRequiredBottomSheet@6705044652
+0x003995dc	semanticsEnabled
+0x0039985c	abort break case clear catch continue do elseif else endfunction end for function global if pause return resume select try then while
+0x0039a204	$finish $stop $exit $fatal $error $warning $info $realtime $time $printtimescale $bitstoreal $bitstoshortreal $itor $signed $cast $bits $stime $timeformat $realtobits $shortrealtobits $rtoi $unsigned $asserton $assertkill $assertpasson $assertfailon $assertnonvacuouson $assertoff $assertcontrol $assertpassoff $assertfailoff $assertvacuousoff $is...
+0x0039ac64	_throttledPush@210437083
+0x0039aec4	package:flame/src/components/core/recycled_queue.dart
+0x0039b184	_resumeBackgroundMusicOnSoundReEnabled@802460808
+0x0039b4dc	CENTURY DAY DECADE DOW DOY EPOCH HOUR ISODOW ISOYEAR MICROSECONDS MILLENNIUM MILLISECONDS MINUTE MONTH QUARTER SECOND TIMEZONE TIMEZONE_HOUR TIMEZONE_MINUTE WEEK YEAR
+0x0039b5bc	Failed to send command 
+0x0039bcbc	flutter_reactive_ble_scan
+0x0039bf6c	firmwareSupported
+0x0039c0ac	cancelConnection
+0x0039c254	_handleScanError@1478387098
+0x0039c7fc	init:_grayscaleDstInPaint@19913996772
+0x0039c82c	_handleDrawFrame@262222615
+0x0039c924	_handleLongPressCancel@202111801
+0x0039d1a4	preparingConnection
+0x0039d634	DownloadCancelled
+0x0039db74	by a synchronously-called image listener
+0x0039dbac	package:reactive_ble_platform_interface/src/model/discovered_service.g.dart
+0x0039dfa4	_handleDragCancel@180019050
+0x0039e4ec	GetLastConnectedDeviceCubit.2
+0x0039eb9c	, connectable: 
+0x0039f334	Reading from device to determine connection or catch error
+0x0039f4f4	package:app/features/device_connection/battery_check/battery_check_bottom_sheet.dart2
+0x003a031c	package:capsapps_sdk/bluetooth/service/firmware/firmware_update_service.dart2
+0x003a0964	_checkIfWorldFullyLoaded@1231361434
+0x003a0e74	ReconnectionFlowCubit.
+0x003a171c	handleDrawFrame
+0x003a216c	ServiceWithCharacteristics
+0x003a2824	GameDeviceConnectionEvent
+0x003a2d54	flutter_reactive_ble_method
+0x003a2e74	Failed to initialize CapsAppsSdk
+0x003a2ea4	Wakelock enabled successfully
+0x003a2f5c	firmwareUpdate_Required_StartButton
+0x003a3024	BatteryCheckState.checking(deviceId: 
+0x003a3144	FilledButtonThemeData
+0x003a31c4	_ToggleLedButton@673300305
+0x003a886c	NotifyNoMoreCharacteristicRequest.
+0x003a8a4c	package:capsapps_sdk/bluetooth/infrastructure/adapters/ble_device_interactor.dart
+0x003a8ec4	notifyDeviceConnectionState
+0x003a9164	package:app/features/device_connection/merged_connections_builder.dart
+0x003a9724	&bigtriangledown;
+0x003aa3ac	handleDragEnd
+0x003aa4a4	ConnectingLastDeviceBottomSheet
+0x003aa914	get:connectionHelp_ButtonText
+0x003aaabc	canceled
+0x003aaea4	, characteristics: 
+0x003ab14c	recordDistanceTravelled
+0x003ab45c	InProgressFirmwareUpdateState
+0x003ab834	onDeviceConnecting
+0x003abb94	DfuEventHandler
+0x003abd64	Asset download failed: 
+0x003abe94	Your controller's firmware is too old to update. Please use a newer controller.
+0x003abfd4	Exists failed
+0x003aca14	add must be called once.
+0x003acf1c	ScanThrottlingException
+0x003ad2cc	CapsHttpConnectionException: 
+0x003adb04	CharacteristicAddress._@1975234311
+0x003ade04	package:capsapps_sdk/core/types/connection/bluetooth_state_enum.dart2
+0x003ae15c	get:_firmwareService@1305240075
+0x003ae2ac	firmwareUpdate_NotSupported_Header
+0x003aea3c	Disconnecting
+0x003aec44	connectToDevice has not been implemented.
+0x003af6ac	Unable to establish connection on channel: "2
+0x003afadc	set:servicesWithCharacteristicsToDiscover
+0x003b0544	ConnectionState for device 
+0x003b0ed4	Phi Phi_approx abs acos acosh algebra_solver append_array append_col append_row asin asinh atan atan2 atanh bernoulli_cdf bernoulli_lccdf bernoulli_lcdf bernoulli_logit_lpmf bernoulli_logit_rng bernoulli_lpmf bernoulli_rng bessel_first_kind bessel_second_kind beta_binomial_cdf beta_binomial_lccdf beta_binomial_lcdf beta_binomial_lpmf beta_binomi...
+0x003b25fc	 successfully disconnected
+0x003b2a5c	BatteryCheckBatteryOk
+0x003b2f1c	Failed to read battery information
+0x003b2fc4	Error onConnectedCallback: 
+0x003b3814	package:string_scanner/src/utils.dart
+0x003b388c	firmwareUpdate_NotSupported_ChangeDeviceButton
+0x003b3a84	package:app/features/device_connection/setup_connection_flow/setup_connection_bottom_sheet_flow.dart2
+0x003b3f84	qualifiedCharacteristicFrom
+0x003b4274	[NordicDfu:abortDfu] Warning: aborting all DFU processes on Android
+0x003b444c	getpwent getservent quotemeta msgrcv scalar kill dbmclose undef lc ma syswrite tr send umask sysopen shmwrite vec qx utime local oct semctl localtime readpipe do return format read sprintf dbmopen pop getpgrp not getpwnam rewinddir qqfileno qw endprotoent wait sethostent bless s|0 opendir continue each sleep endgrent shutdown dump chomp connect ...
+0x003b544c	PreparingFirmwareUpdateState2
+0x003b548c	WriteCharacteristicRequest
+0x003b58bc	set:characteristicUuid
+0x003b5c0c	package:flutter_reactive_ble/src/device_connector.dart
+0x003b5eac	DFU: 
+0x003b6974	package:reactive_ble_platform_interface/src/model/write_characteristic_info.dart
+0x003b6a6c	ServiceWithCharacteristics.
+0x003b6a94	[^<\/\$\:'"-]\b(?:abs|accumulator\-(?:after|before)|adjust\-(?:date(?:Time)?|time)\-to\-timezone|analyze\-string|apply|available\-(?:environment\-variables|system\-properties)|avg|base\-uri|boolean|ceiling|codepoints?\-(?:equal|to\-string)|collation\-key|collection|compare|concat|contains(?:\-token)?|copy\-of|count|current(?:\-)?(?:date(?:Time)?...
+0x003b758c	Blue command sign payload execution failed for device 
+0x003b7614	battery_Low_ExitButton
+0x003b7ab4	get:verticalMetersTravelled
+0x003b7f04	initialConnection
+0x003b8094	_returnConnection@16463476
+0x003b847c	LabeledGlobalKey
+0x003b849c	scan2
+0x003b865c	ledTest_Title
+0x003b8c9c	alog alog10 amax0 amax1 amin0 amin1 amod cabs ccos cexp clog csin csqrt dabs dacos dasin datan datan2 dcos dcosh ddim dexp dint dlog dlog10 dmax1 dmin1 dmod dnint dsign dsin dsinh dsqrt dtan dtanh float iabs idim idint idnint ifix isign max0 max1 min0 min1 sngl algama cdabs cdcos cdexp cdlog cdsin cdsqrt cqabs cqcos cqexp cqlog cqsin cqsqrt dcmp...
+0x003b94fc	bluetoothPermissionDeniedPermanently2
+0x003b9714	firmwareUpdate_Required_Message
+0x003ba004	BatteryCheckCubit.
+0x003ba354	package:app/features/device_connection/firmware_update/firmware_update_cubit.dart
+0x003ba624	ConnectionMode.
+0x003ba774	_doOnConnectionState@635207155
+0x003ba7f4	connectionStateUpdateFrom
+0x003baa3c	enableDeltaModel
+0x003bb0fc	FirmwareUpdateService.
+0x003beb44	createNotifyCharacteristicRequest
+0x003bf10c	Connection error downloading "
+0x003bf25c	package:reactive_ble_platform_interface/src/model/connection_state_update.g.dart
+0x003bf374	Codec failed to produce an image, possibly due to invalid image data.
+0x003bf874	get:battery_Low_Message
+0x003c015c	get:selectionEnabled2
+0x003c01ec	ConnectivityService.2
+0x003c06fc	_connectableFrom@1976393572
+0x003c09ec	createNotifyNoMoreCharacteristicRequest
+0x003c0ae4	_FirmwareNotSupportedBottomSheet@670504465
+0x003c1a44	readBatteryException2
+0x003c1cbc	Connection closed before full header was received
+0x003c1e74	invokeActionIfEnabled
+0x003c20f4	LedTestButtonEvent
+0x003c2db4	onFirmwareUploading
+0x003c33dc	LocaleDataException: 
+0x003c3694	HTTP request failed, statusCode: 
+0x003c372c	package:capsapps_sdk/bluetooth/service/discovery/device_discovery_filter.dart
+0x003c40ac	addSemanticsEnabledListener
+0x003c4144	package:app/features/device_connection/shared/check_permissions_bottom_sheet.dart
+0x003c527c	package:app/features/device_connection/search_for_devices/search_for_devices_cubit.dart
+0x003c54f4	get:connectLastDevice_ConnectionError_Header2
+0x003c594c	initialConnectionPermission
+0x003c5a0c	BleDeviceInteractor
+0x003c5e34	Failed to stop all sounds: 
+0x003c6164	get:enabled
+0x003c7144	Connection closed while receiving data
+0x003c73f4	ConnectToDeviceRequest._@1975234311
+0x003c760c	Uuid.
+0x003c7a24	%(bquote|nrbquote|cmpres|qcmpres|compstor|datatyp|display|do|else|end|eval|global|goto|if|index|input|keydef|label|left|length|let|local|lowcase|macro|mend|nrbquote|nrquote|nrstr|put|qcmpres|qleft|qlowcase|qscan|qsubstr|qsysfunc|qtrim|quote|qupcase|scan|str|substr|superq|syscall|sysevalf|sysexec|sysfunc|sysget|syslput|sysprod|sysrc|sysrput|then|...
+0x003c7c64	_handleDragHandleHover@331001611
+0x003c7d34	gameOnboarding_Error_LoadFailed
+0x003c81a4	get:goalFailed
+0x003c874c	fileLoadFailed
+0x003c8a6c	DioException.connectionError2
+0x003c8f7c	 validation failed: 2
+0x003c8fd4	&circledS;
+0x003c922c	CapConnectionState
+0x003c924c	ConnectionState.
+0x003c9284	Invalid firmware semver version: 
+0x003c93e4	disconnected2
+0x003c9bfc	Common_Reconnect
+0x003ca0bc	requestSignSession callback enabled
+0x003ca304	_prepareReconnectionDelay@15114411972
+0x003caf5c	FirmwareAssetEntry
+0x003cb4cc	connectionFailedScreen
+0x003cb4f4	CharacteristicAddress
+0x003cb5e4	getActiveConnections2
+0x003cbc44	$ScanResult
+0x003cbdac	Failed to send event: 
+0x003cc19c	NordicDfu._internal@1493463081
+0x003cc3bc	getBatteryStatus
+0x003cc424	Preparing task failed: 
+0x003cc904	BluetoothNoAccessBottomSheet2
+0x003cca84	The request was manually cancelled by the user.
+0x003ccd24	bluetoothDisabled
+0x003cce14	createReadCharacteristicRequest
+0x003cd344	package:capsapps_sdk/bluetooth/service/connection/bluetooth_connection_service.dart
+0x003cd964	A null pointer was captured on the C++ side. This could happen when passing a non initialized pointer (with calloc()) to retrieve FFT or wave data. Or, setVisualization has not been enabled.
+0x003cda6c	Invalid response line, failed to parse HTTP version
+0x003cdd34	BatteryCheckStatePatterns|mapOrNull
+0x003cdebc	FirmwareNotSupportedState
+0x003cdf64	_batteryStatusCharUuid@1468105895
+0x003ce384	packetReceiptNotificationsEnabled
+0x003ce9f4	get:_httpConnectionHook@16463476
+0x003cee5c	Please set "hierarchicalLoggingEnabled" to true if you want to change the level on a non-root logger.
+0x003cf1a4	disabledMouseCursor
+0x003cf294	readInto failed
+0x003cf484	connectionClosed
+0x003cf7a4	createConnectToDeviceArgs
+0x003d005c	handled internally
+0x003d0144	DisabledLoggerEmitter
+0x003d084c	package:app/features/device_connection/reconnection/reconnection_flow_cubit.dart
+0x003d0b44	Connection State Handler: Handling timeout state for device: 
+0x003d0d1c	Socket_CreateUnixDomainConnect
+0x003d24f4	init:_scaledDiscountFromLinrgb@1871253021
+0x003d2744	, serviceUuids: 
+0x003d333c	DeviceScanInfo._@1975234311
+0x003d3364	 is already in prescan queue, waiting for it2
+0x003d3574	package:capsapps_bridge/src/app_bridges/game_device_connection/game_device_connection_state.dart
+0x003d35fc	get:characteristics
+0x003d3a34	bluetoothSwitchedOff2
+0x003d3bbc	get:connectLastDevice_Timeout_Header2
+0x003d4214	ScanErrorType
+0x003d426c	Error checking firmware file at 
+0x003d4ecc	Assertion failed
+0x003d5024	ignoreBatteryOptimizations
+0x003d6c7c	accept_on alias always always_comb always_ff always_latch and assert assign assume automatic before begin bind bins binsof bit break buf|0 bufif0 bufif1 byte case casex casez cell chandle checker class clocking cmos config const constraint context continue cover covergroup coverpoint cross deassign default defparam design disable dist do edge el...
+0x003d747c	_linrgbFromScaledDiscount@18712530212
+0x003d74fc	Prescan timeout completed, sending connectionTimeout state for device 
+0x003d877c	serviceUuid
+0x003d990c	MultiplayerConnectedDevicesBottomSheet
+0x003d9adc	CharacteristicValueInfo._@19752343112
+0x003d9d3c	init:_onLoadFuture@8690909202
+0x003da104	package:caps_zp_common/src/uuid.dart2
+0x003dbb04	Failed to start data streaming
+0x003dbc64	_connectAfterPrescan@1467427683
+0x003dbcfc	connectionError
+0x003dc19c	package:capsapps_sdk/bluetooth/service/discovery/filters/dfu_mode_filter.dart
+0x003dc32c	FirmwareUpdateCubit
+0x003dc45c	_isMatchingCharacteristic@14433300772
+0x003dc774	get:shake_DistanceTraveled
+0x003dcb1c	_notifyDeviceConnectionState@1502484795
+0x003dcce4	GetLastConnectedDeviceCubit
+0x003dcd94	firmwareUpdate_InProgress_Message
+0x003dd23c	_httpConnectionHook@164634762
+0x003dd41c	Wakelock disable failed with unexpected error
+0x003dd57c	Failed to decode data using encoding 'utf-8'2
+0x003dd71c	ScanDeviceFoundEvent2
+0x003ddc44	No Bluetooth access
+0x003ddeac	SoLoudReadSamplesFailedToReadPcmFramesCppException
+0x003de1d4	_handleDragUpdate@180019050
+0x003de2c4	(characteristicId: 
+0x003de894	Failed to decode data using encoding '
+0x003defb4	handleConnectionStateChange
+0x003df744	get:gameOverScheduled
+0x003dfacc	 to prescan mode for future reconnections
+0x003e003c	_UuidParseFailure@14623247142
+0x003e0424	CharacteristicValueUpdateError.
+0x003e077c	requestSignSession callback disabled2
+0x003e08c4	ValueConnectableStream.seeded
+0x003e098c	Initialization failed. Probably an unsupported format.
+0x003e0e5c	_handleSelectionEndHandleDragUpdate@202111801
+0x003e101c	parseConnectivityResults
+0x003e1084	connection timeout
+0x003e1464	_scaledDiscountFromLinrgb@18712530212
+0x003e16ec	$_COOKIE $_FILES $_GET $_GET_BINARY $_GET_RAW $_POST $_POST_BINARY $_POST_RAW $_SESSION $_SERVER codepoint codepoints segment segments codeunit codeunits sentence sentences trueWord trueWords paragraph after byte bytes english the until http forever descending using line real8 with seventh for stdout finally element word words fourth before blac...
+0x003e2324	ConnectedState
+0x003e25cc	Non-https connection "
+0x003e26ec	get:bluetoothService2
+0x003e27fc	NotifyNoMoreCharacteristicRequest._@1975234311
+0x003e2fcc	Connect 
+0x003e361c	Failed to download game files
+0x003e3684	package:reactive_ble_mobile/src/generated/bledata.pb.dart
+0x003e3a54	Subscribed to LiveData, and let search and connect again
+0x003e3ac4	DFU: primary startDfu rejected after retry kickoff; awaiting retry handler events
+0x003e3bac	DeviceScanResult
+0x003e3e6c	_ConnectableStreamUse@644329625
+0x003e4dfc	CapsHttpConnectionException
+0x003e5064	ConnectionTimeoutErrorState
+0x003e5264	_openInputConnection@119183791
+0x003e53d4	initEventFetchFailed2
+0x003e5594	get:firmwareUpdate_InProgressFromSearch_Message
+0x003e57d4	InitPlaySessionBluetoothCommandExecution
+0x003e5c4c	get:remoteAssetsFlow_Error_AssetDownloadFailedMessage
+0x003e62d4	package:app/features/device_connection/led_test/led_test_bottom_sheet.dart
+0x003e6404	_handleStartHandleDragEnd@202111801
+0x003e713c	_onGameOverScheduled@934062859
+0x003e73c4	alias audit before loglevel noop require subscribe tag owner ensure group mode name|0 changes context force incl lens load_path onlyif provider returns root show_diff type_check en_address ip_address realname command environment hour monute month monthday special target weekday creates cwd ogoutput refresh refreshonly tries try_sleep umask backu...
+0x003e827c	Deletion failed
+0x003e88c4	failedToConnect
+0x003e9eb4	Failed to resolve firmware path (attempt 
+0x003e9eec	ConnectableStreamExtensions|shareValueSeeded2
+0x003e9f3c	isActiveConnection
+0x003ea36c	Getting current working directory failed
+0x003ea694	getConnectionState
+0x003ea7fc	Connectable
+0x003ead84	) and change the device. If there are no other devices, connect to your cap again.
+0x003eadd8	# What is the connection test?
+0x003eadf8	It lets you verify that you are connecting to your own cap and that the connection is correct. The test is only shown on first connection.
+0x003eb3c4	establishConnection
+0x003eb444	_nativeCreateBindConnect@15069316
+0x003ebb74	Download plan: firmwares=
+0x003ebc84	inline no_inline type_spec source_file fact_table obsolete memo loop_check minimal_model terminates does_not_terminate check_termination promise_equivalent_clauses foreign_proc foreign_decl foreign_code foreign_type foreign_import_module foreign_export_enum foreign_export foreign_enum may_call_mercury will_not_call_mercury thread_safe not_thread...
+0x003ec1bc	last_connected_device_mac
+0x003ec62c	get:serviceUuids
+0x003ec75c	dev.fluttercommunity.plus/connectivity
+0x003ec86c	_deviceConnectionManager@704518358
+0x003ec924	enabled
+0x003ec99c	Server error - the server failed to fulfil an apparently valid request
+0x003eca24	Scan for devices with services:
+0x003ed7c4	get:onConnectivityChanged
+0x003eda0c	 disconnection
+0x003edae4	DFU: Starting firmware update for device 
+0x003edb8c	Failed to send command to device
+0x003edc0c	Reconnection Strategy: Device 
+0x003eddac	SearchThrottlingTimeoutService: Throttling timeout expired, sending bluetoothReady to recover
+0x003ede4c	singleDigitHourFormat
+0x003ee2cc	package:connectivity_plus_platform_interface/src/utils.dart
+0x003ee414	_scanCodeUnits@0150898
+0x003eebbc	_cancelEditing@799267894
+0x003eec14	length failed
+0x003eec54	Initialize BLE platform
+0x003eed8c	Trying to clear ContentLength on HTTP 1.0 headers with 'Connection: Keep-Alive' set
+0x003eeea4	BluetoothService
+0x003efaf4	isDebugTossEnabled
+0x003eff4c	connectLastDevice_ConnectionError_Header
+0x003f0064	assertion failed
+0x003f0cac	BIGINT INT8 BIGSERIAL SERIAL8 BIT VARYING VARBIT BOOLEAN BOOL BOX BYTEA CHARACTER CHAR VARCHAR CIDR CIRCLE DATE DOUBLE PRECISION FLOAT8 FLOAT INET INTEGER INT INT4 INTERVAL JSON JSONB LINE LSEG|10 MACADDR MACADDR8 MONEY NUMERIC DEC DECIMAL POINT POLYGON REAL FLOAT4 SMALLINT INT2 SMALLSERIAL|10 SERIAL2|10 SERIAL|10 SERIAL4|10 TEXT TIME ZONE TIMET...
+0x003f106c	Failed!
+0x003f10fc	DisconnectFromDeviceRequest.2
+0x003f1194	DeviceScanInfo
+0x003f13bc	ScanForDevicesRequest.
+0x003f1844	package:app/features/device_connection/permissions/location_permissions/location_permission_cubit.dart
+0x003f1b14	package:reactive_ble_mobile/src/select_from.dart
+0x003f1bec	Assertion failed: 
+0x003f1d6c	package:app/features/device_connection/pre_game_components_downloading_bottom_sheet.dart
+0x003f23bc	package:app/features/device_connection/battery_check/battery_check_cubit.dart
+0x003f246c	package:capsapps_sdk/bluetooth/service/firmware/firmware_state.dart
+0x003f250c	_mergeDeviceConnectionStates@614309998
+0x003f276c	_$BatteryCheckState@629498949
+0x003f27e4	Failed to load video2
+0x003f2aec	bluetoothPermissionDeniedRestricted
+0x003f2d24	WriteCharacteristicRequest.
+0x003f2e84	LedTestScreenOpenEvent
+0x003f3034	ScanForDevicesRequest._@1975234311
+0x003f32f4	_recoverIfDisconnected@692362721
+0x003f3424	DeviceScannerImpl
+0x003f36bc	deviceConnection_Disconnecting_Title2
+0x003f36ec	package:capsapps_sdk/bluetooth/service/device/device_command_service.dart
+0x003f382c	get:_hasInputConnection@119183791
+0x003f3b4c	debugPrintThrottled
+0x003f3ebc	reconnectingPermissions
+0x003f4174	Invalid firmware version format: 
+0x003f4294	package:app/features/device_connection/permissions/location_permissions/location_permission_state.dart
+0x003f4994	get:ledTest_NoLight_Part1
+0x003f4cdc	true false nullptr NULL DIGITAL_MESSAGE FIRMATA_STRING ANALOG_MESSAGE REPORT_DIGITAL REPORT_ANALOG INPUT_PULLUP SET_PIN_MODE INTERNAL2V56 SYSTEM_RESET LED_BUILTIN INTERNAL1V1 SYSEX_START INTERNAL EXTERNAL DEFAULT OUTPUT INPUT HIGH LOW
+0x003f4f0c	disconnectDevice has not been implemented.
+0x003f5164	scaled
+0x003f56c4	synIDtrans atan2 range matcharg did_filetype asin feedkeys xor argv complete_check add getwinposx getqflist getwinposy screencol clearmatches empty extend getcmdpos mzeval garbagecollect setreg ceil sqrt diff_hlID inputsecret get getfperm getpid filewritable shiftwidth max sinh isdirectory synID system inputrestore winline atan visualmode inputl...
+0x003f7444	_handleDone@5048458
+0x003f7724	package:flutter_reactive_ble/src/connected_device_operation.dart
+0x003f808d	Press the cap casing to turn it on. The LED should flash once. Hold the casing for 3 seconds to turn the device off.
+0x003f8103	# Can't see your cap on the list or its LED doesn't light up when you press the casing?
+0x003f815c	This may mean the cap is connected to another phone. Turn the cap off and on to disconnect it from other devices, then connect again.
+0x003f81e3	# Connecting to a cap that is already connected to another phone?
+0x003f8226	Turn the cap off and on to disconnect it from other phones. You can also disconnect the device in Bluetooth settings.
+0x003f829d	# Seeing multiple devices and don't know which one to connect to?
+0x003f82e0	If you see too many devices, try moving away from others with your cap and refresh the list. Only your controller should then be visible. During connection we will ask you for a short test to make sure the device was connected correctly.
+0x003f8f44	flutter_reactive_ble_char_update
+0x003f95dc	sound_enabled
+0x003f9f0c	computeUnmangledName2
+0x003fa044	ConnectingTimeoutLastDeviceBottomSheet
+0x003fa594	get:absoluteScaledSize
+0x003fab1c	Sign payload failed to acquire lock: 
+0x003fabdc	FirmwareState.
+0x003fabfc	NotifyCharacteristicRequest
+0x003faed4	get:isSecurityFeatureEnabled2
+0x003fb024	package:reactive_ble_platform_interface/src/model/connection_state_update.dart
+0x003fb22c	CharacteristicsUpdateService.
+0x003fb2bc	isInDfuMode
+0x003fb354	Failed to get firmware version from device
+0x003fb69c	Bluetooth permission granted - resetting denial counter
+0x003fba34	ConnectableStreamExtensions|shareValue
+0x003fbebc	package:app/features/device_connection/permissions/bluetooth_permissions/blue_permissions_bottom_sheet.dart
+0x003fc1b4	package:capsapps_sdk/bluetooth/service/discovery/discovered_device_aggregator.dart
+0x003fc32c	handled
+0x003fc4a4	_performThrottledJump@1152077122
+0x003fc4f4	ResolvedFirmwarePair2
+0x003fc514	_getVisualizationEnabledPtr@1604500395
+0x003fc854	FirmwareUpdateService
+0x003fca14	SoLoudFailedToDecodeOpusPacketCppException
+0x003fcb14	init:_getVisualizationEnabled@1604500395
+0x003fcde4	addion cfunc cmd cmpopt comfunc const defcfunc deffunc define else endif enum epack func global if ifdef ifndef include modcfunc modfunc modinit modterm module pack packopt regcmd runtime undef usecom uselib
+0x003fd0c4	DisconnectingState
+0x003fd52c	LedTestCubit2
+0x003fde14	Connection terminated during handshake
+0x003fe8e4	Verification failed
+0x003fee4c	persistentConnection2
+0x003ff154	bluetoothError
+0x003ff434	FirmwareState
+0x003ffa1c	get:firmwareService
+0x003ffa54	Prescan error: 
+0x003ffddc	forceScanningForNewAddressInLegacyDfu
+0x0040006c	cleanUp() called
+0x004004cb	The clone() method of a previously-disposed Image was called. Once an Image object has been disposed, it can no longer be used to create handles, as the underlying data may have been released.
+0x0040069c	confirmAllPlayersAdded must be called with at least one player
+0x0040084c	after append apply array auto_execok auto_import auto_load auto_mkindex auto_mkindex_old auto_qualify auto_reset bgerror binary break catch cd chan clock close concat continue dde dict encoding eof error eval exec exit expr fblocked fconfigure fcopy file fileevent filename flush for foreach format gets glob global history http if incr info inter...
+0x00400d24	activateConnectionTimeoutIfNotActive2
+0x00400d9c	RecycledQueue
+0x00401194	bluetoothPermissionDenied
+0x00401c74	DownloadFailed
+0x00401f74	Firmware update stream error for device 
+0x00402084	AASTriangle AbelianGroup Abort AbortKernels AbortProtect AbortScheduledTask Above Abs AbsArg AbsArgPlot Absolute AbsoluteCorrelation AbsoluteCorrelationFunction AbsoluteCurrentValue AbsoluteDashing AbsoluteFileName AbsoluteOptions AbsolutePointSize AbsoluteThickness AbsoluteTime AbsoluteTiming AcceptanceThreshold AccountingForm Accumulate Accura...
+0x004196f4	_batteryServiceUuid@1468105895
+0x00419994	Powerup Pickup Enabled
+0x00419aa4	Failed to sign payload for device 
+0x00419d1c	Disconnect device: 
+0x00419e44	initialConnectionBatteryCheck
+0x0041a0d4	get:characteristic
+0x0041a104	Battery status for device 
+0x0041a12c	_scheduleDismissTooltip@429220820
+0x0041a20c	_handleStartHandleDragStart@202111801
+0x0041a3ec	Dio can't establish a new connection after it was closed.
+0x0041acdc	package:reactive_ble_platform_interface/src/model/scan_mode.dart
+0x0041b1bc	GetLastConnectedDeviceState
+0x0041b694	VectorGraphicsDecodeException: Failed to decode vector graphic from 2
+0x0041be6c	_handleDragUpdate@443053933
+0x0041be94	Failed to find valid position for 
+0x0041c494	WriteCharacteristicFailure
+0x0041ce64	ConnectionType.
+0x0041d4cc	deviceConnection_UnknownError_Title
+0x0041d84c	createWriteCharacteristicRequest
+0x0041db2c	\b(BIGINT|INT8|BIGSERIAL|SERIAL8|BIT|VARYING|VARBIT|BOOLEAN|BOOL|BOX|BYTEA|CHARACTER|CHAR|VARCHAR|CIDR|CIRCLE|DATE|DOUBLE|PRECISION|FLOAT8|FLOAT|INET|INTEGER|INT|INT4|INTERVAL|JSON|JSONB|LINE|LSEG|MACADDR|MACADDR8|MONEY|NUMERIC|DEC|DECIMAL|PATH|POINT|POLYGON|REAL|FLOAT4|SMALLINT|INT2|SMALLSERIAL|SERIAL2|SERIAL|SERIAL4|TEXT|TIME|ZONE|TIMETZ|TIMES...
+0x0041e41c	Sign session failed to acquire lock: 
+0x0041e99c	get:scanStream
+0x0041f1a4	package:nordic_dfu/src/dfu_event_handler.dart
+0x0041f2cc	_ConnectionTarget@16463476.
+0x0041f404	get:_scanStream@1600135498
+0x0041f4dc	ResolvedFirmwareAsset
+0x0041f584	get:tossChallenge_Failed
+0x0041f604	get:permissions_Bluetooth_Disabled_Header
+0x0041f6b4	package:string_scanner/src/string_scanner.dart
+0x00420164	Firmware file not found at path: 
+0x004202c4	ScanSession
+0x00420444	_drawImageScaledAndCentered@391490068
+0x00420ac4	_handleDisconnectedState@1509179881
+0x0042138c	set:_throttledPush@2104370832
+0x00421e4c	\b(whitespace|wait|w-resize|visible|vertical-text|vertical-ideographic|uppercase|upper-roman|upper-alpha|underline|transparent|top|thin|thick|text|text-top|text-bottom|tb-rl|table-header-group|table-footer-group|sw-resize|super|strict|static|square|solid|small-caps|separate|se-resize|scroll|s-resize|rtl|row-resize|ridge|right|repeat|repeat-y|rep...
+0x00422514	Failed to start DFU mode
+0x00422994	handleDisconnection
+0x00422b94	Failed to update Triki
+0x00422eb4	_subscribeMonitorCharacteristicStream@1466197479
+0x00423b34	ReconnectionStrategy2
+0x00423e0c	Connection Service: Initializing
+0x004244ec	_readFromDeviceToDetermineConnectionOrCatchError@1466197479
+0x004248b4	get:connectionState
+0x00424b5c	get:_floatingLabelEnabled@374019562
+0x004250cc	_handleDragDown@180019050
+0x00425454	LedTestBottomSheet
+0x00425684	scrolledUnder
+0x004256cc	_getVisualizationEnabled@1604500395
+0x004257cc	ReadBatteryException2
+0x00425cec	get:framesEnabled
+0x004265c4	battery_Low_Message
+0x0042663c	SignPayloadBluetoothCommandExecution2
+0x00426c1c	Connecting to Triki
+0x004271dc	AbstractConnectableStream
+0x004274c4	SignPayloadDeviceNoActiveConnectionException2
+0x004276a4	, transitioning to cancelledConnection
+0x004276f4	permissions_Bluetooth_Disabled_iOS_Message
+0x00427754	get:bluetoothStateSubject
+0x00427b9c	firmwareAssetEntryB
+0x00427cdc	signPayload callback enabled2
+0x00427fe4	Connection failed
+0x004280c4	ConnectionTimeoutHandler
+0x00428194	ledTest_NoLight_Part1
+0x0042846c	addFuel
+0x00429184	I-scan ang text
+0x004291a4	visualizationNotEnabled
+0x00429284	DeviceConnectionManager.
+0x00429644	_listenToAllConnectedDevices@1395338899
+0x00429f9c	_scaledPadding@357256481
+0x0042a754	getBatteryLevel
+0x0042a774	package:app/features/device_connection/firmware_update/firmware_update_bottom_sheet.dart
+0x0042b08c	Failed to acquire lock: another operation in progress
+0x0042b67c	package:app/features/device_connection/reconnection/devices_reconnection_bottom_sheet.dart
+0x0042b6f4	ConnectionStateUpdate(deviceId: 
+0x0042b7e4	This ticker was canceled: 
+0x0042bac4	get:battery_Low_StartButton
+0x0042bce4	Creation failed
+0x0042bd8c	disconnectFromEventHandler
+0x0042c524	_FilledTonalIconButtonDefaultsM3@365331726
+0x0042c63c	package:capsapps_sdk/bluetooth/service/discovery/filters/triki_device_name_filter.dart
+0x0042caf4	package:reactive_ble_platform_interface/src/model/characteristic_value.dart
+0x0042cc94	ConnectionStateHandler
+0x0042cd94	SoLoudVisualizationNotEnabledException
+0x0042d0f4	Do not mix autoConnect, connect and refCount together, you should only use one of them!
+0x0042d60c	self other all noone global local undefined pointer_invalid pointer_null path_action_stop path_action_restart path_action_continue path_action_reverse true false pi GM_build_date GM_version GM_runtime_version  timezone_local timezone_utc gamespeed_fps gamespeed_microseconds  ev_create ev_destroy ev_step ev_alarm ev_keyboard ev_mouse ev_collision...
+0x0043053c	_NamedRestorationInformation@146124995.fromSerializableData
+0x00430674	permissions_Bluetooth_Disabled_Message
+0x00430704	Vyhledat
+0x004307b4	FirmwarePreloadError2
+0x00430a4c	cancelledConnection
+0x00430e5c	_onLoadFuture@869090920
+0x00430ec4	_DeviceConnectionManagerState&Object&EquatableMixin@614309998
+0x0043111c	Failed to start data streaming for device 
+0x0043126c	_bubbleDown@1026248
+0x004314dc	DeviceCommandService2
+0x00431dcc	package:capsapps_bridge/src/app_bridges/game_device_connection/game_device_bridge.dart
+0x004326ac	CapsHttpCancelledException
+0x00432be4	&blacktriangledown;
+0x00433254	_handleDragStart@180019050
+0x0043388c	firmwareNotSupported2
+0x004339a4	set:writeEventsEnabled
+0x00434344	Failed to get available fonts: 
+0x004346fc	enableDragging
+0x0043471c	DeviceConnectionManager
+0x0043486c	package:app/features/device_connection/device_connection_state.dart
+0x00434a94	configureFirmware
+0x00434e14	_checkLongPressCancel@275232524
+0x00435324	__MultiplayerConnectedDevicesBottomSheetState&State&WidgetsBindingObserver@6903428352
+0x00435c04	package:connectivity_plus_platform_interface/method_channel_connectivity.dart
+0x00435cb4	_scaleDelta@896507691
+0x00436254	dfuDeviceId
+0x0043630c	Error turning off LED
+0x0043680c	connected
+0x00436a04	(Add|Clear|Close|Copy|Enter|Exit|Find|Format|Get|Hide|Join|Lock|Move|New|Open|Optimize|Pop|Push|Redo|Remove|Rename|Reset|Resize|Search|Select|Set|Show|Skip|Split|Step|Switch|Undo|Unlock|Watch|Backup|Checkpoint|Compare|Compress|Convert|ConvertFrom|ConvertTo|Dismount|Edit|Expand|Export|Group|Import|Initialize|Limit|Merge|New|Out|Publish|Restore|Sa...
+0x00436fdc	enableDomStorage
+0x00437184	get:distanceTraveled2
+0x004371d4	get:remoteAssetsFlow_Error_AssetDownloadFailedTitle
+0x00437394	silentlyDisconnectAll
+0x004379ac	bluetoothPermissions_NoAccess_Title
+0x00437d1c	package:reactive_ble_platform_interface/src/model/characteristic_instance.dart
+0x00437e64	Prescan failed: 
+0x004381e4	Connecting to device 
+0x004384b4	failedToReadPcmFrames
+0x0043874c	ledTest_HelpContent
+0x004389ac	getLastConnectedDevice
+0x0043984c	package:app/features/device_connection/device_connection_manager.dart
+0x0043990c	firmwareUpdate_Error_ChangeDeviceButton
+0x00439aac	package:nordic_dfu/src/parameters/android_parameters.dart
+0x0043a04c	set:enabled
+0x0043a274	package:capsapps_sdk/core/service/strategies/reconnection_strategy.dart
+0x0043a5d4	CharacteristicInstance
+0x0043a614	DFU: Error while waiting for device restart: 
+0x0043a79c	reconnectingSearchForDevice
+0x0043a9bc	LedTestState2
+0x0043ac8c	GameDeviceConnectionState.
+0x0043b45c	createConnectionError
+0x0043bb9c	architecture augeasversion blockdevices boardmanufacturer boardproductname boardserialnumber cfkey dhcp_servers domain ec2_ ec2_userdata facterversion filesystems ldom fqdn gid hardwareisa hardwaremodel hostname id|0 interfaces ipaddress ipaddress_ ipaddress6 ipaddress6_ iphostnumber is_virtual kernel kernelmajversion kernelrelease kernelversion...
+0x0043c2b4	firmwareUpdate
+0x0043c774	get:battery_Low_ExitButton
+0x0043d274	_grayscaleDstInPaint@1991399677
+0x0043d554	_handleDragEnd@180019050
+0x0043d5b4	Bluetooth is disabled
+0x0043d89c	dfuEventHandler
+0x0043da24	requireLocationServicesEnabled
+0x0043dbcc	get:isActiveConnection
+0x0043e014	ConnectionDeviceConnectingEvent
+0x0043e25c	_RenderScaledInlineWidget@215328197.2
+0x0043e2a4	Connection Service: Disposing
+0x0043e7bc	get:battery_CheckError_Title2
+0x0043e97c	Arena walls disabled2
+0x0043f6ac	Vyhled
+0x0043fa94	Failed to handle InitEvent: 2
+0x0043fc64	_ToggleLedButtonState@673300305
+0x0043fccc	ConnectivityStatus
+0x0043ffa4	scaledPadding
+0x00440814	 firmware version: 
+0x00440834	FirmwareUpdateCubit.2
+0x00440854	ConnectingState
+0x00440bac	package:capsapps_sdk/bluetooth/service/discovery/filters/exclude_devices_filter.dart2
+0x00440fc4	FirmwareAssetEntry.fromJson
+0x004410f4	_ConnectedDeviceItem@690342835
+0x004411ac	characteristicUuid
+0x00441234	ConnectToDeviceRequest
+0x004412ec	InitPlaySessionDeviceNoActiveConnectionException
+0x00441834	get:distanceTraveledStream
+0x00441e54	Socket_AvailableDatagram
+0x00441e8c	The ticker was canceled before the "orCancel" property was first used.
+0x00442184	get:lastConnectedDeviceStorageImpl
+0x00442234	_mapConnectionStates@692362721
+0x00442bb4	Trying to set 'Connection: Keep-Alive' on HTTP 1.0 headers with no ContentLength
+0x00442ccc	Failed to parse header value2
+0x00442e84	InitNativeState.failed(message: 
+0x00442eb4	Escanear texto
+0x0044343c	get:firmwareUpdate_Required_Header
+0x004434e4	ConnectionUnknownErrorLastDeviceBottomSheet
+0x004439b4	writeCharacteristicWithResponse
+0x00443d0c	ConnectivityService
+0x00444214	writeCharacteristicWithResponse has not been implemented.
+0x00444784	get:ledTest_NoLight_Part2
+0x00444864	set:requireLocationServicesEnabled
+0x004449b4	Start connecting to 2
+0x00461404	forceReconnectionForDevice
+0x004614cc	CharacteristicWithId|withId
+0x004619c4	get:_bluetoothService@1305240075
+0x004624fc	_nativeCreateConnect@15069316
+0x00462b54	Connection error fetching manifest: 2
+0x00462fac	Failed host lookup: '
+0x0046372c	get:ledTest_Help
+0x00463d74	get:firmwareUpdate_Error_Header
+0x00463da4	package:reactive_ble_platform_interface/src/model/discovered_device.dart
+0x00463dfc	bernoulli bernoulli_logit beta beta_binomial binomial binomial_logit categorical categorical_logit cauchy chi_square dirichlet double_exponential exp_mod_normal exponential frechet gamma gaussian_dlm_obs gumbel hypergeometric inv_chi_square inv_gamma inv_wishart lkj_corr lkj_corr_cholesky logistic lognormal multi_gp multi_gp_cholesky multi_norma...
+0x004640c4	shake_DistanceTraveled
+0x004644ec	FirmwareUpdateError
+0x0046459c	Make sure Triki is turned on and try to reconnect.
+0x00464644	break cmake_host_system_information cmake_minimum_required cmake_parse_arguments cmake_policy configure_file continue elseif else endforeach endfunction endif endmacro endwhile execute_process file find_file find_library find_package find_path find_program foreach function get_cmake_property get_directory_property get_filename_component get_prop...
+0x0046504c	CharacteristicAddress.
+0x0046577c	init:_rxCharUuid@1468105895
+0x004658bc	getFirmwareState
+0x00465ad4	failedToGetDataFormat
+0x00466224	package:app/features/device_connection/permissions/permissions_bottom_sheet_flow.dart
+0x004668ec	package:app/features/device_connection/search_for_devices/search_for_devices_bottom_sheet.dart
+0x00466a14	DFU mode started for device 2
+0x00466bfc	get:isActionEnabled
+0x00466d54	TraversalEdgeBehavior.
+0x004672c4	The request connection took longer than 
+0x004673e4	_handleStartHandleDragUpdate@202111801
+0x00467874	 and it was aborted. To get rid of this exception, try raising the RequestOptions.connectTimeout above the duration of 
+0x00467d74	get:connectedDeviceIds
+0x00468384	init() called when the native player is already initialized. This is expected after a hot restart but not otherwise. If you see this in production logs, there's probably a bug in your code. You may have neglected to deinit() SoLoud during the current lifetime of the app.
+0x00468684	init:_batteryStatusCharUuid@1468105895
+0x00468784	init:_scaleDownTransition@391490068
+0x00468984	ConnectivityPlatform.
+0x00468ff4	characteristic
+0x00469074	\b(BIGINT|INT8|BIGSERIAL|SERIAL8|BIT|VARYING|VARBIT|BOOLEAN|BOOL|BOX|BYTEA|CHARACTER|CHAR|VARCHAR|CIDR|CIRCLE|DATE|DOUBLE|PRECISION|FLOAT8|FLOAT|INET|INTEGER|INT|INT4|INTERVAL|JSON|JSONB|LINE|LSEG|MACADDR|MACADDR8|MONEY|NUMERIC|DEC|DECIMAL|PATH|POINT|POLYGON|REAL|FLOAT4|SMALLINT|INT2|SMALLSERIAL|SERIAL2|SERIAL|SERIAL4|TEXT|TIME|ZONE|TIMETZ|TIMES...
+0x004696ac	Characteristic(
+0x00469a34	enableUnsafeExperimentalButtonlessServiceInSecureDfu2
+0x00469aec	Connection Service: Activating monitoring live data for device: 
+0x00469f2c	Production mode initialization failed
+0x0046a504	forceDfu
+0x0046adfc	&RuleDelayed;
+0x0046af24	_connectionsChanged@164634762
+0x0046af84	package:capsapps_sdk/core/types/device/device_scan_result.dart
+0x0046b0a4	package:reactive_ble_platform_interface/src/model/qualified_characteristic.dart
+0x0046b45c	deinit() called
+0x0046b4e4	set:_bleDeviceInteractor@1465205209
+0x0046bd64	startFirmwareUpdate
+0x0046c2a4	connectNext
+0x0046c2f4	_isEnabled@95441002
+0x0046c3f4	isEnabled
+0x0046c844	LedTestCubit.
+0x0046d1ac	get:characteristicUuid
+0x0046d5bc	_ConnectionUnknownErrorBottomSheet@6344068902
+0x0046d8e4	BILL_PERIOD BILL_START BILL_STOP RS_EFFECTIVE_START RS_EFFECTIVE_STOP RS_JURIS_CODE RS_OPCO_CODE INTDADDATTRIBUTE|5 INTDADDVMSG|5 INTDBLOCKOP|5 INTDBLOCKOPNA|5 INTDCLOSE|5 INTDCOUNT|5 INTDCOUNTSTATUSCODE|5 INTDCREATEMASK|5 INTDCREATEDAYMASK|5 INTDCREATEFACTORMASK|5 INTDCREATEHANDLE|5 INTDCREATEOVERRIDEDAYMASK|5 INTDCREATEOVERRIDEMASK|5 INTDCREAT...
+0x0046e67c	. Assuming device is already in DFU mode.
+0x0046e764	init:_deviceInformationServiceUuid@1468105895
+0x0046e7d4	_handleDragEnd@202111801
+0x0046e84c	sendLedStateCommand
+0x0046e944	lock rep repe repz repne repnz xaquire xrelease bnd nobnd aaa aad aam aas adc add and arpl bb0_reset bb1_reset bound bsf bsr bswap bt btc btr bts call cbw cdq cdqe clc cld cli clts cmc cmp cmpsb cmpsd cmpsq cmpsw cmpxchg cmpxchg486 cmpxchg8b cmpxchg16b cpuid cpu_read cpu_write cqo cwd cwde daa das dec div dmint emms enter equ f2xm1 fabs fadd fad...
+0x00472914	_ConnectionTimeoutBottomSheet@634406890
+0x00473bfc	get:bluetoothPermissions_GoToSettingsButton
+0x00473ebc	ConnectLastConnectedDeviceCubit
+0x0047424c	Failed to load audio assets
+0x004744ac	 abasep abs absint absolute_real_time acos acosh acot acoth acsc acsch activate addcol add_edge add_edges addmatrices addrow add_vertex add_vertices adjacency_matrix adjoin adjoint af agd airy airy_ai airy_bi airy_dai airy_dbi algsys alg_type alias allroots alphacharp alphanumericp amortization %and annuity_fv annuity_pv antid antidiff AntiDiffe...
+0x0047b2ac	package:app/features/device_connection/connect_last_connected_device/get_last_connected_device_bottom_sheet.dart
+0x0047b6ac	Device connected - skipping subscribe to live data characteristic stream - state: 
+0x0047b854	int float string vector matrix if else switch case default while do for in break continue global proc return about abs addAttr addAttributeEditorNodeHelp addDynamic addNewShelfTab addPP addPanelCategory addPrefixToName advanceToNextDrivenKey affectedNet affects aimConstraint air alias aliasAttr align alignCtx alignCurve alignSurface allViewFit a...
+0x0047f884	FirmwareUpdateBottomSheet
+0x0047fa3c	FirmwarePreloadCubit.
+0x0048043c	connectionTerminated2
+0x00480a14	Failed to start DFU mode for device 2
+0x00480bcc	Failed to parse the media type: 
+0x00480e54	SnakeKilled
+0x004821c4	checkCancelled
+0x00482304	readyToPlay_Status_Connected2
+0x00482344	ConnectionMode
+0x0048255c	_startHandleDragPosition@202111801
+0x00482914	capConnectionStateChangedSubject
+0x00482d14	Prescan error, sending mobileSensorsError state for device 
+0x0048369c	Cannot change handlers of ConnectableStreamSubscription.
+0x00483724	afterDisconnected
+0x004837f4	disabledForegroundColor
+0x00483b7c	_createConnectionError@527017463
+0x00484094	readyToPlay_Status_Disconnecting
+0x0048417c	_disposeDeviceBleConnectionStream@14661974792
+0x004846ec	get:readyToPlay_Connected
+0x0048474c	cancelDeviceConnectionStream2
+0x004848bc	enableReconnection
+0x00484ab4	BleDeviceSession
+0x00484b04	package:app/features/device_connection/setup_devices_bottom_sheet.dart
+0x00484b84	package:capsapps_sdk/bluetooth/service/device/characteristics_update_service.dart
+0x00484d14	get:firmwareUpdate_Required_Tips
+0x00485f3c	package:flutter_reactive_ble/src/rx_ext/repeater.dart
+0x00486284	ConnectionFailureReason.
+0x00486324	TickerCanceled
+0x0048650c	package:caps_networking/src/data/connectivity_service.dart
+0x00486714	bluetoothPermissions_GoToSettingsButton
+0x00486904	$ConnectionStateUpdate
+0x00486a34	N|0 P|0 X|0 a|0 ab abc abo al am an|0 ar arga argd arge argdo argg argl argu as au aug aun b|0 bN ba bad bd be bel bf bl bm bn bo bp br brea breaka breakd breakl bro bufdo buffers bun bw c|0 cN cNf ca cabc caddb cad caddf cal cat cb cc ccl cd ce cex cf cfir cgetb cgete cg changes chd che checkt cl cla clo cm cmapc cme cn cnew cnf cno cnorea cnor...
+0x00488a6c	writeFrom failed
+0x00488f64	_scaledPadding@416343580
+0x00489f2c	Error checking or requesting Bluetooth permission - 2
+0x0048a194	connectTimeout should be positive
+0x0048a584	DFU: Error while starting DFU mode: 2
+0x0048a794	IsConnectable
+0x0048ac5c	CapsHttpCancelledException: request was cancelled
+0x0048b4ac	LastConnectedDeviceStorage
+0x0048b7b4	steeringMaxAngleDegrees
+0x0048b8b4	enabledMouseCursor
+0x0048bc04	base-uri child-src connect-src default-src font-src form-action frame-ancestors frame-src img-src media-src object-src plugin-types report-uri sandbox script-src style-src
+0x0048bd5c	.2byte .4byte .align .ascii .asciz .balign .byte .code .data .else .end .endif .endm .endr .equ .err .exitm .extern .global .hword .if .ifdef .ifndef .include .irp .long .macro .rept .req .section .set .skip .space .text .word .arm .thumb .code16 .code32 .force_thumb .thumb_func .ltorg ALIAS ALIGN ARM AREA ASSERT ATTR CN CODE CODE16 CODE32 COMMO...
+0x0048c06c	package:capsapps_sdk/bluetooth/service/discovery/device_discovery_service.dart
+0x0048c594	ScanMode
+0x0048c764	get:deviceConnection_Connecting_Title
+0x0048d2a4	Socket_CreateUnixDomainBindConnect
+0x0048d6e4	BatteryCheckState.batteryOk(deviceId: 
+0x0048dd04	std string wstring cin cout cerr clog stdin stdout stderr stringstream istringstream ostringstream auto_ptr deque list queue stack vector map set bitset multiset multimap unordered_set unordered_map unordered_multiset unordered_multimap array shared_ptr abort terminate abs acos asin atan2 atan calloc ceil cosh cos exit exp fabs floor fmod fprint...
+0x0048f12c	SnakeKilled(player: 2
+0x0048f14c	_handleSelectionStartHandleDragUpdate@202111801
+0x0048f5f4	failedToCreateOpusDecoder
+0x0048f9b4	_updateTotalScrolledY@1288350434
+0x0048ffac	battery_Low_Title
+0x00490184	SoLoudReadSamplesFailedToSeekPcmCppException2
+0x00490e1c	startDfu
+0x00490e9c	ScanFailure.2
+0x004916fc	readyToPlay_Status_RetryingConnection
+0x00491d54	get:deviceConnectionStateUpdateStream
+0x00492204	_handleDragStart@202111801
+0x0049241c	get:gameOverScheduledListenable
+0x0049244c	isWidgetEnabled
+0x00492abc	_onConnectedCallback@1466197479
+0x00492f8c	ConnectionError.
+0x00493ce4	comboEnabled2
+0x00493cfc	Allow Bluetooth access to connect Triki.
+0x00494434	disabledColor
+0x0049447c	ServicesWithCharacteristics.2
+0x00495074	package:reactive_ble_platform_interface/src/model/unit.dart
+0x00495324	Initialization failed: 
+0x004955dc	get:deviceConnection_UnknownError_Message
+0x00495a24	get:connectLastDevice_ConnectionError_Message
+0x00495bd4	DioException.requestCancelled
+0x00496084	startConnect2
+0x004960e4	scheduledReconnection
+0x00496924	package:app/features/device_connection/connect_last_connected_device/get_last_connected_device_cubit.dart
+0x00496b0c	tryToConnectToLastDevice: found device 
+0x00496d94	Failed to decode Opus packet.
+0x00496ff4	CharacteristicValueUpdateError
+0x00497374	characteristics
+0x00497714	_angleDescription@706494074
+0x00497a0c	locationDisabled
+0x00497a64	&circledR;
+0x00497cd4	DiscoveredCharacteristic
+0x00498234	Escaneja text
+0x00498324	SoLoudFileLoadFailedException
+0x0049878c	Characteristic no longer valid. Characteristics lose their validity after a device gets disconnected. Rediscover services and characteristics after reconnecting to the device.
+0x004989f4	' was called on null.
+0x00498b7c	BluetoothException
+0x0049911c	init:_firmwareVersionStringCharUuid@1468105895
+0x0049915c	permissions_Bluetooth_Disabled_Header
+0x00499274	ConnectionTask
+0x0049942c	Prescan timeout reached
+0x004994bc	_isDartStreamEnabled@63837152
+0x0049965c	_setBluetoothDenialCount@534170051
+0x0049a83c	, allowReconnection: 
+0x0049aff4	package:reactive_ble_platform_interface/src/model/ble_status.dart
+0x0049b15c	Retrying connection
+0x0049b2a4	Prescan successful, connecting to device 
+0x0049b9d4	subscribeToCharacteristic
+0x0049bb34	getFirmwareVersionString
+0x0049c1fc	ScanDeviceSelectedEvent
+0x0049c3ac	_attemptReconnection@1511441197
+0x0049c5f4	readCharacteristic has not been implemented.2
+0x0049d0e4	get:Common_Reconnect2
+0x0049d1f4	Read failed
+0x0049d35c	Connection State Handler: Handling mobile sensors error state for device: 
+0x0049d46c	AssetLoadingFailed
+0x0049d8cc	presentScore can only be called when in BoxerGameStateInProgress
+0x0049df14	abs arccos arcsin arctan arctan2 Beta betaReg binomial ceil centropy cos cosh cvPower div div0 eDist entropy errorf execSeed exp fact floor frac gamma gammaReg log logBeta logGamma log10 log2 mapVal max min mod ncpCM ncpF ncpVUpow ncpVUsin normal pi poly power randBinomial randLinear randTriangle round rPower sigmoid sign signPower sin sinh slex...
+0x0049ecfc	ReadCharacteristicRequest
+0x0049ed24	disabled
+0x0049f3f4	by a synchronously-called image error listener
+0x0049f4cc	Hash.add() called after close().
+0x0049fb6c	_setFramesEnabledState@262222615
+0x0049fd04	Invalid UUID format: 
+0x0049fdbc	_LedTestBottomSheetState@673300305
+0x004a00cc	deviceConnection_UnknownError_Message
+0x004a032c	_handleSemanticsEnabledChanged@301275577
+0x004a0644	DeviceConnectorImpl
+0x004a06dc	package:app/features/device_connection/permissions/bluetooth_permissions/blue_permission_cubit.dart
+0x004a0864	TextInputClient.onConnectionClosed
+0x004a097c	_cleanupConnection@1509179881
+0x004a0aac	Scanner du texte
+0x004a0de4	get:bluetoothPermissions_NoAccess_Message
+0x004a155c	abstract as val var vararg get set class object open private protected public noinline crossinline dynamic final enum if else do while for when throw try catch finally import package is in fun override companion reified inline lateinit init interface annotation data sealed internal infix operator out by constructor super tailrec where const inne...
+0x004a171c	createScanForDevicesRequest
+0x004a1d1c	_addConnection@16463476
+0x004a1f34	scanMode
+0x004a2454	package:flutter_reactive_ble/src/discovered_devices_registry.dart
+0x004a257c	DFU: cannot read device version, defaulting to peer A first: 
+0x004a2924	allConnected2
+0x004a2ae4	ConnectionDeviceFailedEvent
+0x004a2c14	set:_prescanService@1467427683
+0x004a30d4	get:connectLastDevice_Connecting_Header
+0x004a3164	DeviceConnectionProviders
+0x004a3354	Failed to decode Opus data. This could happen when the data is corrupted. (on the C++ side).2
+0x004a363c	initialConnectionSearchForDevice
+0x004a37dc	_getConnection@16463476
+0x004a3824	ScanChannelsToggle
+0x004a3edc	PrescanService.
+0x004a3fa4	The connection errored: 
+0x004a461c	CharacteristicValueInfo.fromBuffer
+0x004a4864	package:flutter/src/material/filled_button_theme.dart
+0x004a4a64	dev.fluttercommunity.plus/connectivity_status
+0x004a4e1c	Reconnect
+0x004a4f64	_handleDeviceUpdate@232437380
+0x004a5a9c	_ConnectionTarget@16463476
+0x004a5af4	_startHandleDragTarget@202111801
+0x004a5c0c	Hold the button below until the LED on Triki lights up
+0x004a5cac	bluetoothPermissionGranted
+0x004a600c	continueAfterPunch can only be called after a punch has been registered
+0x004a66a4	all any no-route self urpf-failed egress|5 unknown
+0x004a6ae4	Failed to read battery level for device 
+0x004a752c	battery_CheckError_Title
+0x004a7764	signPayloadDeviceNoActiveConnection
+0x004a788c	all alter analyze and any array as asc begin between binary boolean break bucket build by call case cast cluster collate collection commit connect continue correlate cover create database dataset datastore declare decrement delete derived desc describe distinct do drop each element else end every except exclude execute exists explain fetch first...
+0x004a8014	isConnectable
+0x004a88ec	ConnectLastDeviceStepBottomSheet
+0x004a8bcc	connectLastDevice_Connecting_Header
+0x004a8c2c	package:capsapps_bridge/src/app_bridges/game_device_connection/game_device_connection_event.dart
+0x004a9164	Uuid2
+0x004a92ac	set:connectTimeout
+0x004a9454	Starting prescan for device 2
+0x004a97cc	_canDeviceReconnect@1511441197
+0x004a99d4	BatteryCheckState.batteryLow(deviceId: 
+0x004a9c34	writeCharacteristicWithoutResponse
+0x004aa23c	Scansiona testo
+0x004aa6dc	isLastConnectedDevice
+0x004aaa7c	package:capsapps_sdk/bluetooth/service/throttling/search_throttling_timeout_service.dart
+0x004aaebc	_logConnectionEvents@491288265
+0x004ab0ac	package:app/features/device_connection/firmware_update/firmware_update_state.dart
+0x004ab404	initPlaySessionBluetoothCommandExecution
+0x004ab4dc	package:capsapps_sdk/bluetooth/service/connection/prescan_service.dart
+0x004abc84	FirmwareUpdateInProgress
+0x004ac3bc	bluetoothError_Title2
+0x004ac7e4	ScanMode.
+0x004ace6c	get:_stylusHandwritingEnabled@119183791
+0x004acffc	ScanDeviceStartedEvent
+0x004ad864	_startScan@1478387098
+0x004ad88c	_FilledIconButtonDefaultsM3@365331726
+0x004ad984	Lost connection to Triki
+0x004ae004	wasAlreadyInDfuMode
+0x004ae054	IsEnabledMessage
+0x004ae1ec	BatteryCheckState
+0x004ae5cc	_connection@644329625
+0x004ae5f4	_HttpClientConnection@16463476
+0x004ae624	ExceptionBridgeReadBatteryException: 
+0x004aea6c	signPayload callback disabled
+0x004af514	_handleDragCancel@443053933
+0x004af5c4	ScanResult
+0x004afbdc	_getBluetoothDenialCount@534170051
+0x004b08bc	set:scrollControlDisabledMaxHeightRatio
+0x004b0a74	WriteCharacteristicRequest._@1975234311
+0x004b0c7c	getSerializableData
+0x004b0c9c	_onScanTimeout@1478387098
+0x004b18cc	get:copyEnabled
+0x004b1a14	package:app/features/device_connection/connect_last_connected_device/connect_last_device_step_bottom_sheet.dart
+0x004b1b9c	cancelDeviceConnectionAndWaitUntilDisconnectedStream2
+0x004b1bdc	onEnablingDfuMode
+0x004b1e14	package:capsapps_sdk/bluetooth/service/discovery/scan_error_analyzer.dart
+0x004b1ea4	_getDeviceConnectionStateStream@692362721
+0x004b2034	connectionHelp_ButtonText
+0x004b21b4	_handleDragUpdate@331001611
+0x004b21dc	FirmwareUpdateStepState
+0x004b2adc	Checking Bluetooth connection and required permissions
+0x004b2b7c	Error cleaning up connection streams2
+0x004b2bf4	initialize() called
+0x004b2d9c	FirmwareUpdateConfig2
+0x004b30dc	characteristicInstanceId
+0x004b3104	_deviceConnector@1443330077
+0x004b335c	Device not found within prescan duration
+0x004b3aac	get:firmwareUpdate_InProgress_Header2
+0x004b4e2c	Failed to initialize native API: 
+0x004b50ec	BatteryCheckCubit
+0x004b52fc	scanResultFrom
+0x004b55b4	Distance traveled:
+0x004b63d4	_FirmwarePeer@1501094166
+0x004b6da4	No connected devices to provide debug algorithm result
+0x004b6f04	bluetoothOff2
+0x004b701c	deviceConnection_BluetoothError_Title
+0x004b7184	_nativeCreateUnixDomainBindConnect@15069316
+0x004b7404	package:string_scanner/src/exception.dart
+0x004b784c	scanForDevices
+0x004b7ccc	cancelConnectionStream
+0x004b7d74	SetupConnectionFlowCubit
+0x004b7f0c	get:scanTextButtonLabel
+0x004b857c	UuidV4.generate
+0x004b870c	FirmwareUpdatePreparing
+0x004b8874	ScanFailure
+0x004b8a9c	goto gosub return break repeat loop continue wait await dim sdim foreach dimtype dup dupptr end stop newmod delmod mref run exgoto on mcall assert logmes newlab resume yield onexit onerror onkey onclick oncmd exist delete mkdir chdir dirlist bload bsave bcopy memfile if else poke wpoke lpoke getstr chdpm memexpand memcpy memset notesel noteadd n...
+0x004b96b4	connectToEventHandler
+0x004b9974	BluetoothStateService
+0x004b999c	UuidV4
+0x004b9f84	P2D P3D HALF_PI PI QUARTER_PI TAU TWO_PI
+0x004ba10c	ConnectionType
+0x004ba2ac	FirmwarePreloadCubit2
+0x004ba484	FirmwareUpdateCompleted
+0x004ba974	init() called
+0x004baaac	get:_isCanceled@5048458
+0x004bac44	is_real is_string is_array is_undefined is_int32 is_int64 is_ptr is_vec3 is_vec4 is_matrix is_bool typeof variable_global_exists variable_global_get variable_global_set variable_instance_exists variable_instance_get variable_instance_set variable_instance_get_names array_length_1d array_length_2d array_height_2d array_equals array_create array_c...
+0x004c3d1c	get:persistentConnection
+0x004c3d8c	Socket_CreateConnect2
+0x004c424c	SearchThrottlingTimeoutService: Bluetooth state changed to 
+0x004c455c	_connectionClosed@16463476
+0x004c459c	CURRENT_TIME CURRENT_TIMESTAMP CURRENT_USER CURRENT_CATALOG|10 CURRENT_DATE LOCALTIME LOCALTIMESTAMP CURRENT_ROLE|10 CURRENT_SCHEMA|10 SESSION_USER PUBLIC FOUND NEW OLD TG_NAME|10 TG_WHEN|10 TG_LEVEL|10 TG_OP|10 TG_RELID|10 TG_RELNAME|10 TG_TABLE_NAME|10 TG_TABLE_SCHEMA|10 TG_NARGS|10 TG_ARGV|10 TG_EVENT|10 TG_TAG|10 ROW_COUNT RESULT_OID|10 PG_C...
+0x004c5ffc	# LED on the cap doesn't react during the connection test?
+0x004c6038	Your phone may have connected to another nearby cap. Go to [device list](
+0x004c6604	TextInputConnection
+0x004c665c	Characteristic not found or discovered: 
+0x004c6754	FirmwarePreloadWaiting
+0x004c68ec	DeviceConnectionState.
+0x004c69f4	_scaleDownTransition@391490068
+0x004c6b14	DeviceConnectionCubit.
+0x004c6b3c	disableReconnectionOnNextDisconnect
+0x004c6bbc	handleDidPopNext
+0x004c6f14	_primaryButtonEnabled@372059085
+0x004c71fc	package:capsapps_sdk/bluetooth/service/discovery/filters/triki_service_filter.dart
+0x004c753c	package:reactive_ble_platform_interface/src/model/uuid.dart
+0x004c7b14	bluetooth
+0x004c7f4c	get:onUserTapAlwaysCalled
+0x004c7fc4	silentlyDisconnect
+0x004c872c	ConnectableStreamSubscription
+0x004c92ec	ConnectableStream
+0x004c939c	tryToConnectToLastDevice
+0x004c9684	Button is disabled
+0x004c96a4	get:spellCheckEnabled
+0x004c970c	returnConnection
+0x004c9c24	_handleDragEnd@443053933
+0x004c9e34	[^%](abs|addr|airy|arcos|arsin|atan|attrc|attrn|band|betainv|blshift|bnot|bor|brshift|bxor|byte|cdf|ceil|cexist|cinv|close|cnonct|collate|compbl|compound|compress|cos|cosh|css|curobs|cv|daccdb|daccdbsl|daccsl|daccsyd|dacctab|dairy|date|datejul|datepart|datetime|day|dclose|depdb|depdbsl|depdbsl|depsl|depsl|depsyd|depsyd|deptab|deptab|dequote|dhms...
+0x004ca674	requestBatteryCheck
+0x004cb1c4	playGoalFailed
+0x004cc01c	get:ledTest_WorksButton
+0x004d2864	SoLoudFailedToCreateDecoderCppException
+0x004d28dc	ConnectionService.
+0x004d2cdc	connectivity_plus stream error
+0x004d2e2c	ConnectableStreamExtensions|publishValue
+0x004d2f7c	signPayloadBluetoothCommandExecution2
+0x004d306c	Failed to start device 
+0x004d31cc	firmwares
+0x004d3834	batteryOk
+0x004d3bc4	remoteAssetsFlow_Error_AssetDownloadFailedTitle
+0x004d3dac	This is likely because the app called `runApp` to render its root widget, which expects the platform to provide a default view to render into (the "implicit" view).
+0x004d3e51	However, the platform likely has multi-view mode enabled, which does not create this default "implicit" view.
+0x004d40ac	Scan tekst
+0x004d419c	isCapConnected
+0x004d429c	Failed to play 
+0x004d4374	permissions_Location_Disabled_Message
+0x004d444c	_scheduleRestartConnection@1191837912
+0x004d4664	get:firmwareUpdate_InProgress_Message
+0x004d5464	LocaleDataException
+0x004d5624	TextPainter.paint called when text geometry was not yet calculated.
+0x004d56c4	set:characteristicInstanceId2
+0x004d57ec	get:_enabled@355005770
+0x004d5cfc	Canceling active prescan operation for device 
+0x004d6054	_endHandleDragTarget@202111801
+0x004d625c	get:readyToPlay_Status_Disconnecting2
+0x004d6894	package:reactive_ble_platform_interface/src/model/result.dart
+0x004d6a4c	package:app/features/device_connection/search_for_devices/search_for_devices_cubit.freezed.dart
+0x004d6e24	define __FILE__ __LINE__ begin_keywords celldefine default_nettype define else elsif end_keywords endcelldefine endif ifdef ifndef include line nounconnected_drive pragma resetall timescale unconnected_drive undef undefineall
+0x004d7004	Failed to load all data
+0x004d707c	connectionStream has not been implemented.
+0x004d71d4	get:deviceConnectionSubject
+0x004d7d9c	firmwareUpdate_Required_Tips2
+0x004d800c	, batteryLevel: 
+0x004d89bc	disconnectFromDevice2
+0x004d8aa4	Wakelock disabled successfully
+0x004d8b2c	Connectivity2
+0x004d92a4	FirmwareReadyBuilder2
+0x004d94dc	Converting object to an encodable object failed:
+0x004d95dc	Failed to load image2
+0x004d9794	handleDeviceCursorUpdate
+0x004d9984	get:characteristicInstanceId2
+0x004d9ff4	ConnectionDeviceReconnectionAttemptEvent
+0x004da074	abortDfu
+0x004da54c	DFU: Error occurred: 
+0x004da574	get:characteristicValueStream
+0x004dacac	The CancelToken was cancelled multiple times with different reason:
+0x004dadac	bluetoothStateSubject
+0x004daebc	DFU: Device connecting: 
+0x004db2e4	scan limit
+0x004db404	FirmwareUpdateErrorType
+0x004db564	_AnonymousRestorationInformation@146124995.fromSerializableData
+0x004db5c4	_semanticsEnabled@301275577
+0x004db604	SimpleDelimiter
+0x004db634	DeviceConnectionCubit
+0x004db7ec	scanCode
+0x004dbbfc	DeviceConnectionManagerState2
+0x004dc2cc	BatteryCheckChecking2
+0x004dc3a4	handleConnectionTimeout
+0x004dc724	package:app/features/device_connection/ready_to_play/singleplayer_ready_to_play_bottom_sheet.dart
+0x004dc9e4	disconnect
+0x004dcb3c	_processThrottledInput@1152077122
+0x004dcebc	_updateSemanticsEnabled@17065589
+0x004dd40c	startBatteryCheck
+0x004dd564	ConnectedDeviceOperation
+0x004dd76c	Failed to stop data streaming
+0x004ddfa4	done() must not be called more than once on the same 
+0x004de06c	_uartServiceUuid@1468105895
+0x004de2c4	Checking Bluetooth permission
+0x004de4cc	Capture null pointer error. Could happens when passing a non initialized pointer (with calloc()) to retrieve FFT or wave data. Or, setVisualization has not been enabled.
